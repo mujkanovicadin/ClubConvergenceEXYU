@@ -1,35 +1,35 @@
-;Republic of Srpska;Federation BiH;Bosnia and Herzegovina;District Brcko;Year
-Nominal GDP(in millions of BAM);16.086,00;31.843,61;49.779,00; 548 ;2006 
-Nominal GDP(in millions of BAM);7.352,00;14.082,10;21.981,30; 547 ;2007 
-Nominal GDP(in millions of BAM);8.490,60;15.827,20;24.897,70; 580 ;2008 
-Nominal GDP(in millions of BAM);8.236,30;15.428,80;24.202,00; 537 ;2009 
-Nominal GDP(in millions of BAM);8.318,20;15.901,20;24.772,80; 553 ;2010 
-Nominal GDP(in millions of BAM);8.682,40;16.401,80;25.680,10; 596 ;2011 
-Nominal GDP(in millions of BAM);8.584,97;16.554,10;25.734,30; 595 ;2012 
-Nominal GDP(in millions of BAM);8.760,80;16.928,90;26.296,80; 607 ;2013 
-Nominal GDP(in millions of BAM);8.847,12;17.791,20;27.258,70; 620 ;2014 
-Nominal GDP(in millions of BAM);9.250,03;18.688,30;28.540,00; 602 ;2015 
-Nominal GDP(in millions of BAM);9.630,56;19.537,10;29.325,00; 157 ;2016 
-Nominal GDP(in millions of BAM);10.075,73;20.540,00;31.376,00; 760 ;2017 
-Nominal GDP(in millions of BAM);10.681,64;21.946,00;33.408,00; 780 ;2018 
-Nominal GDP(in millions of BAM);11.232,78;23.130,70;35.229,00; 866 ;2019 
-Nominal GDP(in millions of BAM);11.130,30;22.255,01;34.255,00; 870 ;2020 
-Nominal GDP(in millions of BAM);12.502,00;25.229,76;38.637,00; 905 ;2021 
-Nominal GDP(in millions of BAM);14.535,00;29.354,95;43.994,00; 104 ;2022 
-GDP per capita (in BAM);4.535,00;5.371,50;5.074,00; 6.516 ;2006
-GDP per capita (in BAM);5.107,00;6.048,10;5.721,00; 7.436 ;2007
-GDP per capita (in BAM);5.907,00;6.801,00;6.480,00; 8.040 ;2008
-GDP per capita (in BAM);5.739,00;6.629,40;6.298,00; 7.489 ;2009
-GDP per capita (in BAM);5.805,00;6.802,20;6.446,00; 7.662 ;2010
-GDP per capita (in BAM);6.073,00;6.931,70;6.684,00; 8013  ;2011
-GDP per capita (in BAM);6.006,00;7.043,00;6.708,60; 8472  ;2012
-GDP per capita (in BAM);6.146,00;7.243,30;6.862,40; 8.614 ;2013
-GDP per capita (in BAM);6.225,00;7.613,70;7.123,00; 8.800 ;2014
-GDP per capita (in BAM);7.921,00;8.010,00;7.473,00; 9.000 ;2015
-GDP per capita (in BAM);8.320,00;8.856,30;8.318,50; 9.180 ;2016
-GDP per capita (in BAM);8.739,00;9.314,00;8.954,00; 9.507 ;2017
-GDP per capita (in BAM);9.305,00;9.993,60;9.556,00; 9.770 ;2018
-GDP per capita (in BAM);9.832,00;10.562,00;10.108,00; 10.847 ;2019
-GDP per capita (in BAM);9.797,00;10.181,70;9.994,00; 10.892 ;2020
-GDP per capita (in BAM);11.080,00;11.634,00;11.196,00; 11.953 ;2021
-GDP per capita (in BAM);12.975,00;13.610,00;12.656,00; 13.854 ;2022
+Region,Republic of Srpska,Federation BiH,Bosnia and Herzegovina,District Brcko,Year
+Nominal GDP (in millions of BAM),16086.00,31843.61,49779.00,548,2006
+Nominal GDP (in millions of BAM),7352.00,14082.10,21981.30,547,2007
+Nominal GDP (in millions of BAM),8490.60,15827.20,24897.70,580,2008
+Nominal GDP (in millions of BAM),8236.30,15428.80,24202.00,537,2009
+Nominal GDP (in millions of BAM),8318.20,15901.20,24772.80,553,2010
+Nominal GDP (in millions of BAM),8682.40,16401.80,25680.10,596,2011
+Nominal GDP (in millions of BAM),8584.97,16554.10,25734.30,595,2012
+Nominal GDP (in millions of BAM),8760.80,16928.90,26296.80,607,2013
+Nominal GDP (in millions of BAM),8847.12,17791.20,27258.70,620,2014
+Nominal GDP (in millions of BAM),9250.03,18688.30,28540.00,602,2015
+Nominal GDP (in millions of BAM),9630.56,19537.10,29325.00,157,2016
+Nominal GDP (in millions of BAM),10075.73,20540.00,31376.00,760,2017
+Nominal GDP (in millions of BAM),10681.64,21946.00,33408.00,780,2018
+Nominal GDP (in millions of BAM),11232.78,23130.70,35229.00,866,2019
+Nominal GDP (in millions of BAM),11130.30,22255.01,34255.00,870,2020
+Nominal GDP (in millions of BAM),12502.00,25229.76,38637.00,905,2021
+Nominal GDP (in millions of BAM),14535.00,29354.95,43994.00,104,2022
+GDP per capita (in BAM),4535.00,5371.50,5074.00,6516,2006
+GDP per capita (in BAM),5107.00,6048.10,5721.00,7436,2007
+GDP per capita (in BAM),5907.00,6801.00,6480.00,8040,2008
+GDP per capita (in BAM),5739.00,6629.40,6298.00,7489,2009
+GDP per capita (in BAM),5805.00,6802.20,6446.00,7662,2010
+GDP per capita (in BAM),6073.00,6931.70,6684.00,8013,2011
+GDP per capita (in BAM),6006.00,7043.00,6708.60,8472,2012
+GDP per capita (in BAM),6146.00,7243.30,6862.40,8614,2013
+GDP per capita (in BAM),6225.00,7613.70,7123.00,8800,2014
+GDP per capita (in BAM),7921.00,8010.00,7473.00,9000,2015
+GDP per capita (in BAM),8320.00,8856.30,8318.50,9180,2016
+GDP per capita (in BAM),8739.00,9314.00,8954.00,9507,2017
+GDP per capita (in BAM),9305.00,9993.60,9556.00,9770,2018
+GDP per capita (in BAM),9832.00,10562.00,10108.00,10847,2019
+GDP per capita (in BAM),9797.00,10181.70,9994.00,10892,2020
+GDP per capita (in BAM),11080.00,11634.00,11196.00,11953,2021
+GDP per capita (in BAM),12975.00,13610.00,12656.00,13854,2022
