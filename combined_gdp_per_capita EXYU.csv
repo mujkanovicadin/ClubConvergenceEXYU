@@ -1,0 +1,3192 @@
+Year,Region,GDP,GDP_Type,Unit
+2000,District Brcko,7571.13,GDP per Capita,EUR
+2000,Federation BiH,6589.05,GDP per Capita,EUR
+2000,Republic of Srpska,5998.5,GDP per Capita,EUR
+2001,District Brcko,7722.72,GDP per Capita,EUR
+2001,Federation BiH,6722.04,GDP per Capita,EUR
+2001,Republic of Srpska,6119.400000000001,GDP per Capita,EUR
+2002,District Brcko,8101.23,GDP per Capita,EUR
+2002,Federation BiH,7051.26,GDP per Capita,EUR
+2002,Republic of Srpska,6419.79,GDP per Capita,EUR
+2003,District Brcko,8441.61,GDP per Capita,EUR
+2003,Federation BiH,7347.0,GDP per Capita,EUR
+2003,Republic of Srpska,6688.56,GDP per Capita,EUR
+2004,District Brcko,9700.83,GDP per Capita,EUR
+2004,Federation BiH,7729.23,GDP per Capita,EUR
+2004,Republic of Srpska,7373.97,GDP per Capita,EUR
+2005,District Brcko,10103.52,GDP per Capita,EUR
+2005,Federation BiH,7943.13,GDP per Capita,EUR
+2005,Republic of Srpska,8002.650000000001,GDP per Capita,EUR
+2006,Bosnia and Herzegovina,2587.74,GDP per Capita,EUR
+2006,District Brcko,3323.16,GDP per Capita,EUR
+2006,Federation BiH,2739.465,GDP per Capita,EUR
+2006,Republic of Srpska,2312.85,GDP per Capita,EUR
+2007,Bosnia and Herzegovina,2917.71,GDP per Capita,EUR
+2007,District Brcko,3792.36,GDP per Capita,EUR
+2007,Federation BiH,3084.5310000000004,GDP per Capita,EUR
+2007,Republic of Srpska,2604.57,GDP per Capita,EUR
+2008,Bosnia and Herzegovina,3304.8,GDP per Capita,EUR
+2008,District Brcko,4100.4,GDP per Capita,EUR
+2008,Federation BiH,3468.51,GDP per Capita,EUR
+2008,Republic of Srpska,3012.57,GDP per Capita,EUR
+2009,Bosnia and Herzegovina,3211.98,GDP per Capita,EUR
+2009,District Brcko,3819.39,GDP per Capita,EUR
+2009,Federation BiH,3380.994,GDP per Capita,EUR
+2009,Republic of Srpska,2926.89,GDP per Capita,EUR
+2010,Bosnia and Herzegovina,3287.46,GDP per Capita,EUR
+2010,District Brcko,3907.62,GDP per Capita,EUR
+2010,Federation BiH,3469.122,GDP per Capita,EUR
+2010,Republic of Srpska,2960.55,GDP per Capita,EUR
+2011,Bosnia and Herzegovina,3408.84,GDP per Capita,EUR
+2011,District Brcko,4086.63,GDP per Capita,EUR
+2011,Federation BiH,3535.167,GDP per Capita,EUR
+2011,Republic of Srpska,3097.23,GDP per Capita,EUR
+2012,Bosnia and Herzegovina,3421.3860000000004,GDP per Capita,EUR
+2012,District Brcko,4320.72,GDP per Capita,EUR
+2012,Federation BiH,3591.93,GDP per Capita,EUR
+2012,Republic of Srpska,3063.06,GDP per Capita,EUR
+2013,Bosnia and Herzegovina,3499.824,GDP per Capita,EUR
+2013,District Brcko,4393.14,GDP per Capita,EUR
+2013,Federation BiH,3694.083,GDP per Capita,EUR
+2013,Republic of Srpska,3134.46,GDP per Capita,EUR
+2014,Bosnia and Herzegovina,3632.73,GDP per Capita,EUR
+2014,District Brcko,4488.0,GDP per Capita,EUR
+2014,Federation BiH,3882.987,GDP per Capita,EUR
+2014,Republic of Srpska,3174.75,GDP per Capita,EUR
+2015,Bosnia and Herzegovina,3811.23,GDP per Capita,EUR
+2015,District Brcko,4590.0,GDP per Capita,EUR
+2015,Federation BiH,4085.1,GDP per Capita,EUR
+2015,Republic of Srpska,4039.71,GDP per Capita,EUR
+2016,Bosnia and Herzegovina,4242.435,GDP per Capita,EUR
+2016,District Brcko,4681.8,GDP per Capita,EUR
+2016,Federation BiH,4516.713,GDP per Capita,EUR
+2016,Republic of Srpska,4243.2,GDP per Capita,EUR
+2017,Bosnia and Herzegovina,4566.54,GDP per Capita,EUR
+2017,District Brcko,4848.57,GDP per Capita,EUR
+2017,Federation BiH,4750.14,GDP per Capita,EUR
+2017,Republic of Srpska,4456.89,GDP per Capita,EUR
+2018,Bosnia and Herzegovina,4873.56,GDP per Capita,EUR
+2018,District Brcko,4982.7,GDP per Capita,EUR
+2018,Federation BiH,5096.736,GDP per Capita,EUR
+2018,Republic of Srpska,4745.55,GDP per Capita,EUR
+2019,Bosnia and Herzegovina,5155.08,GDP per Capita,EUR
+2019,District Brcko,5531.97,GDP per Capita,EUR
+2019,Federation BiH,5386.62,GDP per Capita,EUR
+2019,Republic of Srpska,5014.32,GDP per Capita,EUR
+2020,Bosnia and Herzegovina,5096.9400000000005,GDP per Capita,EUR
+2020,District Brcko,5554.92,GDP per Capita,EUR
+2020,Federation BiH,5192.667,GDP per Capita,EUR
+2020,Republic of Srpska,4996.47,GDP per Capita,EUR
+2021,Bosnia and Herzegovina,5709.96,GDP per Capita,EUR
+2021,District Brcko,6096.03,GDP per Capita,EUR
+2021,Federation BiH,5933.34,GDP per Capita,EUR
+2021,Republic of Srpska,5650.8,GDP per Capita,EUR
+2022,Bosnia and Herzegovina,6454.56,GDP per Capita,EUR
+2022,District Brcko,7065.54,GDP per Capita,EUR
+2022,Federation BiH,6941.1,GDP per Capita,EUR
+2022,Republic of Srpska,6617.25,GDP per Capita,EUR
+2000,Bjelovarsko-bilogorska županija,5965.21,GDP per Capita,EUR
+2000,Virovitičko-podravska županija,5775.73,GDP per Capita,EUR
+2000,Požeško-slavonska županija,5836.23,GDP per Capita,EUR
+2000,Brodsko-posavska županija,5125.56,GDP per Capita,EUR
+2000,Osječko-baranjska županija,6356.21,GDP per Capita,EUR
+2000,Vukovarsko-srijemska županija,4891.44,GDP per Capita,EUR
+2000,Karlovačka županija,6218.83,GDP per Capita,EUR
+2000,Sisačko-moslavačka županija,7263.82,GDP per Capita,EUR
+2000,Primorsko-goranska zupanija,10969.4,GDP per Capita,EUR
+2000,Licko-senjska zupanija,6467.05,GDP per Capita,EUR
+2000,Zadarska zupanija,6311.52,GDP per Capita,EUR
+2000,Sibensko-kninska zupanija,5955.75,GDP per Capita,EUR
+2000,Splitsko-dalmatinska zupanija,6870.06,GDP per Capita,EUR
+2000,Istarska zupanija,11116.47,GDP per Capita,EUR
+2000,Dubrovacko-neretvanska zupanija,7601.35,GDP per Capita,EUR
+2000,Grad Zagreb,13218.04,GDP per Capita,EUR
+2000,Međimurska županija,6406.22,GDP per Capita,EUR
+2000,Varaždinska županija,7075.25,GDP per Capita,EUR
+2000,Koprivničko-križevačka županija,8483.01,GDP per Capita,EUR
+2000,Krapinsko-zagorska županija,5827.53,GDP per Capita,EUR
+2000,Zagrebačka županija,6247.27,GDP per Capita,EUR
+2000,Crna Gora,3994.14,GDP per Capita,EUR
+2000,Vardarski,2378.21,GDP per Capita,EUR
+2000,Istocen,2274.2,GDP per Capita,EUR
+2000,Jugozapaden,2560.44,GDP per Capita,EUR
+2000,Jugoistocen,2544.61,GDP per Capita,EUR
+2000,Pelagoniski,3522.45,GDP per Capita,EUR
+2000,Poloski,1569.62,GDP per Capita,EUR
+2000,Severoistocen,1978.69,GDP per Capita,EUR
+2000,Skopski,4408.91,GDP per Capita,EUR
+2000,Београдска област,3939.67,GDP per Capita,EUR
+2000,Западнобачка област,2637.56,GDP per Capita,EUR
+2000,Јужнобанатска област,2805.08,GDP per Capita,EUR
+2000,Јужнобачка област,4240.16,GDP per Capita,EUR
+2000,Севернобанатска област,2728.99,GDP per Capita,EUR
+2000,Севернобачка област,2719.51,GDP per Capita,EUR
+2000,Средњобанатска област,3135.0,GDP per Capita,EUR
+2000,Сремска област,2573.2,GDP per Capita,EUR
+2000,Златиборска област,2023.0,GDP per Capita,EUR
+2000,Колубарска област,2165.27,GDP per Capita,EUR
+2000,Мачванска област,1954.09,GDP per Capita,EUR
+2000,Моравичка област,2840.83,GDP per Capita,EUR
+2000,Поморавска област,2278.1,GDP per Capita,EUR
+2000,Расинска област,2707.51,GDP per Capita,EUR
+2000,Рашка област,1751.44,GDP per Capita,EUR
+2000,Шумадијска област,2000.89,GDP per Capita,EUR
+2000,Борска област,2523.02,GDP per Capita,EUR
+2000,Браничевска област,2554.89,GDP per Capita,EUR
+2000,Зајечарска област,2263.72,GDP per Capita,EUR
+2000,Јабланичка област,1942.63,GDP per Capita,EUR
+2000,Нишавска област,2687.01,GDP per Capita,EUR
+2000,Пиротска област,2022.64,GDP per Capita,EUR
+2000,Подунавска област,1758.68,GDP per Capita,EUR
+2000,Пчињска област,2549.87,GDP per Capita,EUR
+2000,Топличка област,1944.24,GDP per Capita,EUR
+2000,Pomurska,10319.14,GDP per Capita,EUR
+2000,Podravska,12072.92,GDP per Capita,EUR
+2000,Koroska,12423.01,GDP per Capita,EUR
+2000,Savinjska,13278.99,GDP per Capita,EUR
+2000,Zasavska,10485.9,GDP per Capita,EUR
+2000,Posavska,12452.91,GDP per Capita,EUR
+2000,Jugovzhodna Slovenija,14468.78,GDP per Capita,EUR
+2000,Primorsko-notranjska,11966.73,GDP per Capita,EUR
+2000,Osrednjeslovenska,20393.32,GDP per Capita,EUR
+2000,Gorenjska,12941.06,GDP per Capita,EUR
+2000,Goriska,14236.82,GDP per Capita,EUR
+2000,Obalno-kraska,15535.4,GDP per Capita,EUR
+2000,Bjelovarsko-bilogorska županija,5965.21,GDP per Capita,EUR
+2000,Virovitičko-podravska županija,5775.73,GDP per Capita,EUR
+2000,Požeško-slavonska županija,5836.23,GDP per Capita,EUR
+2000,Brodsko-posavska županija,5125.56,GDP per Capita,EUR
+2000,Osječko-baranjska županija,6356.21,GDP per Capita,EUR
+2000,Vukovarsko-srijemska županija,4891.44,GDP per Capita,EUR
+2000,Karlovačka županija,6218.83,GDP per Capita,EUR
+2000,Sisačko-moslavačka županija,7263.82,GDP per Capita,EUR
+2000,Primorsko-goranska zupanija,10969.4,GDP per Capita,EUR
+2000,Licko-senjska zupanija,6467.05,GDP per Capita,EUR
+2000,Zadarska zupanija,6311.52,GDP per Capita,EUR
+2000,Sibensko-kninska zupanija,5955.75,GDP per Capita,EUR
+2000,Splitsko-dalmatinska zupanija,6870.06,GDP per Capita,EUR
+2000,Istarska zupanija,11116.47,GDP per Capita,EUR
+2000,Dubrovacko-neretvanska zupanija,7601.35,GDP per Capita,EUR
+2000,Grad Zagreb,13218.04,GDP per Capita,EUR
+2000,Međimurska županija,6406.22,GDP per Capita,EUR
+2000,Varaždinska županija,7075.25,GDP per Capita,EUR
+2000,Koprivničko-križevačka županija,8483.01,GDP per Capita,EUR
+2000,Krapinsko-zagorska županija,5827.53,GDP per Capita,EUR
+2000,Zagrebačka županija,6247.27,GDP per Capita,EUR
+2000,Crna Gora,3994.14,GDP per Capita,EUR
+2000,Vardarski,2378.21,GDP per Capita,EUR
+2000,Istocen,2274.2,GDP per Capita,EUR
+2000,Jugozapaden,2560.44,GDP per Capita,EUR
+2000,Jugoistocen,2544.61,GDP per Capita,EUR
+2000,Pelagoniski,3522.45,GDP per Capita,EUR
+2000,Poloski,1569.62,GDP per Capita,EUR
+2000,Severoistocen,1978.69,GDP per Capita,EUR
+2000,Skopski,4408.91,GDP per Capita,EUR
+2000,Београдска област,3939.67,GDP per Capita,EUR
+2000,Западнобачка област,2637.56,GDP per Capita,EUR
+2000,Јужнобанатска област,2805.08,GDP per Capita,EUR
+2000,Јужнобачка област,4240.16,GDP per Capita,EUR
+2000,Севернобанатска област,2728.99,GDP per Capita,EUR
+2000,Севернобачка област,2719.51,GDP per Capita,EUR
+2000,Средњобанатска област,3135.0,GDP per Capita,EUR
+2000,Сремска област,2573.2,GDP per Capita,EUR
+2000,Златиборска област,2023.0,GDP per Capita,EUR
+2000,Колубарска област,2165.27,GDP per Capita,EUR
+2000,Мачванска област,1954.09,GDP per Capita,EUR
+2000,Моравичка област,2840.83,GDP per Capita,EUR
+2000,Поморавска област,2278.1,GDP per Capita,EUR
+2000,Расинска област,2707.51,GDP per Capita,EUR
+2000,Рашка област,1751.44,GDP per Capita,EUR
+2000,Шумадијска област,2000.89,GDP per Capita,EUR
+2000,Борска област,2523.02,GDP per Capita,EUR
+2000,Браничевска област,2554.89,GDP per Capita,EUR
+2000,Зајечарска област,2263.72,GDP per Capita,EUR
+2000,Јабланичка област,1942.63,GDP per Capita,EUR
+2000,Нишавска област,2687.01,GDP per Capita,EUR
+2000,Пиротска област,2022.64,GDP per Capita,EUR
+2000,Подунавска област,1758.68,GDP per Capita,EUR
+2000,Пчињска област,2549.87,GDP per Capita,EUR
+2000,Топличка област,1944.24,GDP per Capita,EUR
+2000,Pomurska,10319.14,GDP per Capita,EUR
+2000,Podravska,12072.92,GDP per Capita,EUR
+2000,Koroska,12423.01,GDP per Capita,EUR
+2000,Savinjska,13278.99,GDP per Capita,EUR
+2000,Zasavska,10485.9,GDP per Capita,EUR
+2000,Posavska,12452.91,GDP per Capita,EUR
+2000,Jugovzhodna Slovenija,14468.78,GDP per Capita,EUR
+2000,Primorsko-notranjska,11966.73,GDP per Capita,EUR
+2000,Osrednjeslovenska,20393.32,GDP per Capita,EUR
+2000,Gorenjska,12941.06,GDP per Capita,EUR
+2000,Goriska,14236.82,GDP per Capita,EUR
+2000,Obalno-kraska,15535.4,GDP per Capita,EUR
+2001,Bjelovarsko-bilogorska županija,6258.52,GDP per Capita,EUR
+2001,Virovitičko-podravska županija,6290.74,GDP per Capita,EUR
+2001,Požeško-slavonska županija,6089.44,GDP per Capita,EUR
+2001,Brodsko-posavska županija,5439.16,GDP per Capita,EUR
+2001,Osječko-baranjska županija,6543.85,GDP per Capita,EUR
+2001,Vukovarsko-srijemska županija,5143.95,GDP per Capita,EUR
+2001,Karlovačka županija,7251.97,GDP per Capita,EUR
+2001,Sisačko-moslavačka županija,7067.54,GDP per Capita,EUR
+2001,Primorsko-goranska zupanija,10545.08,GDP per Capita,EUR
+2001,Licko-senjska zupanija,6595.46,GDP per Capita,EUR
+2001,Zadarska zupanija,6922.61,GDP per Capita,EUR
+2001,Sibensko-kninska zupanija,6017.14,GDP per Capita,EUR
+2001,Splitsko-dalmatinska zupanija,7122.64,GDP per Capita,EUR
+2001,Istarska zupanija,11923.23,GDP per Capita,EUR
+2001,Dubrovacko-neretvanska zupanija,7900.34,GDP per Capita,EUR
+2001,Grad Zagreb,14123.94,GDP per Capita,EUR
+2001,Međimurska županija,6734.14,GDP per Capita,EUR
+2001,Varaždinska županija,7543.43,GDP per Capita,EUR
+2001,Koprivničko-križevačka županija,8552.58,GDP per Capita,EUR
+2001,Krapinsko-zagorska županija,6423.94,GDP per Capita,EUR
+2001,Zagrebačka županija,5851.5,GDP per Capita,EUR
+2001,Crna Gora,4020.13,GDP per Capita,EUR
+2001,Vardarski,2590.28,GDP per Capita,EUR
+2001,Istocen,1975.3,GDP per Capita,EUR
+2001,Jugozapaden,2286.25,GDP per Capita,EUR
+2001,Jugoistocen,2457.55,GDP per Capita,EUR
+2001,Pelagoniski,3509.3,GDP per Capita,EUR
+2001,Poloski,1364.35,GDP per Capita,EUR
+2001,Severoistocen,1709.51,GDP per Capita,EUR
+2001,Skopski,4464.7,GDP per Capita,EUR
+2001,Београдска област,4389.93,GDP per Capita,EUR
+2001,Западнобачка област,2862.21,GDP per Capita,EUR
+2001,Јужнобанатска област,3074.97,GDP per Capita,EUR
+2001,Јужнобачка област,4657.23,GDP per Capita,EUR
+2001,Севернобанатска област,2996.11,GDP per Capita,EUR
+2001,Севернобачка област,3004.78,GDP per Capita,EUR
+2001,Средњобанатска област,3425.66,GDP per Capita,EUR
+2001,Сремска област,2796.7,GDP per Capita,EUR
+2001,Златиборска област,2110.71,GDP per Capita,EUR
+2001,Колубарска област,2212.26,GDP per Capita,EUR
+2001,Мачванска област,2092.31,GDP per Capita,EUR
+2001,Моравичка област,2864.59,GDP per Capita,EUR
+2001,Поморавска област,2507.12,GDP per Capita,EUR
+2001,Расинска област,2552.21,GDP per Capita,EUR
+2001,Рашка област,1825.86,GDP per Capita,EUR
+2001,Шумадијска област,2032.57,GDP per Capita,EUR
+2001,Борска област,2454.08,GDP per Capita,EUR
+2001,Браничевска област,2798.8,GDP per Capita,EUR
+2001,Зајечарска област,2296.38,GDP per Capita,EUR
+2001,Јабланичка област,1892.69,GDP per Capita,EUR
+2001,Нишавска област,2888.97,GDP per Capita,EUR
+2001,Пиротска област,2213.33,GDP per Capita,EUR
+2001,Подунавска област,1661.7,GDP per Capita,EUR
+2001,Пчињска област,2407.77,GDP per Capita,EUR
+2001,Топличка област,1984.63,GDP per Capita,EUR
+2001,Pomurska,10565.76,GDP per Capita,EUR
+2001,Podravska,12445.53,GDP per Capita,EUR
+2001,Koroska,12944.2,GDP per Capita,EUR
+2001,Savinjska,13457.59,GDP per Capita,EUR
+2001,Zasavska,10469.15,GDP per Capita,EUR
+2001,Posavska,12745.59,GDP per Capita,EUR
+2001,Jugovzhodna Slovenija,14710.14,GDP per Capita,EUR
+2001,Primorsko-notranjska,11910.87,GDP per Capita,EUR
+2001,Osrednjeslovenska,21224.83,GDP per Capita,EUR
+2001,Gorenjska,13490.79,GDP per Capita,EUR
+2001,Goriska,14681.42,GDP per Capita,EUR
+2001,Obalno-kraska,15910.27,GDP per Capita,EUR
+2001,Bjelovarsko-bilogorska županija,6258.52,GDP per Capita,EUR
+2001,Virovitičko-podravska županija,6290.74,GDP per Capita,EUR
+2001,Požeško-slavonska županija,6089.44,GDP per Capita,EUR
+2001,Brodsko-posavska županija,5439.16,GDP per Capita,EUR
+2001,Osječko-baranjska županija,6543.85,GDP per Capita,EUR
+2001,Vukovarsko-srijemska županija,5143.95,GDP per Capita,EUR
+2001,Karlovačka županija,7251.97,GDP per Capita,EUR
+2001,Sisačko-moslavačka županija,7067.54,GDP per Capita,EUR
+2001,Primorsko-goranska zupanija,10545.08,GDP per Capita,EUR
+2001,Licko-senjska zupanija,6595.46,GDP per Capita,EUR
+2001,Zadarska zupanija,6922.61,GDP per Capita,EUR
+2001,Sibensko-kninska zupanija,6017.14,GDP per Capita,EUR
+2001,Splitsko-dalmatinska zupanija,7122.64,GDP per Capita,EUR
+2001,Istarska zupanija,11923.23,GDP per Capita,EUR
+2001,Dubrovacko-neretvanska zupanija,7900.34,GDP per Capita,EUR
+2001,Grad Zagreb,14123.94,GDP per Capita,EUR
+2001,Međimurska županija,6734.14,GDP per Capita,EUR
+2001,Varaždinska županija,7543.43,GDP per Capita,EUR
+2001,Koprivničko-križevačka županija,8552.58,GDP per Capita,EUR
+2001,Krapinsko-zagorska županija,6423.94,GDP per Capita,EUR
+2001,Zagrebačka županija,5851.5,GDP per Capita,EUR
+2001,Crna Gora,4020.13,GDP per Capita,EUR
+2001,Vardarski,2590.28,GDP per Capita,EUR
+2001,Istocen,1975.3,GDP per Capita,EUR
+2001,Jugozapaden,2286.25,GDP per Capita,EUR
+2001,Jugoistocen,2457.55,GDP per Capita,EUR
+2001,Pelagoniski,3509.3,GDP per Capita,EUR
+2001,Poloski,1364.35,GDP per Capita,EUR
+2001,Severoistocen,1709.51,GDP per Capita,EUR
+2001,Skopski,4464.7,GDP per Capita,EUR
+2001,Београдска област,4389.93,GDP per Capita,EUR
+2001,Западнобачка област,2862.21,GDP per Capita,EUR
+2001,Јужнобанатска област,3074.97,GDP per Capita,EUR
+2001,Јужнобачка област,4657.23,GDP per Capita,EUR
+2001,Севернобанатска област,2996.11,GDP per Capita,EUR
+2001,Севернобачка област,3004.78,GDP per Capita,EUR
+2001,Средњобанатска област,3425.66,GDP per Capita,EUR
+2001,Сремска област,2796.7,GDP per Capita,EUR
+2001,Златиборска област,2110.71,GDP per Capita,EUR
+2001,Колубарска област,2212.26,GDP per Capita,EUR
+2001,Мачванска област,2092.31,GDP per Capita,EUR
+2001,Моравичка област,2864.59,GDP per Capita,EUR
+2001,Поморавска област,2507.12,GDP per Capita,EUR
+2001,Расинска област,2552.21,GDP per Capita,EUR
+2001,Рашка област,1825.86,GDP per Capita,EUR
+2001,Шумадијска област,2032.57,GDP per Capita,EUR
+2001,Борска област,2454.08,GDP per Capita,EUR
+2001,Браничевска област,2798.8,GDP per Capita,EUR
+2001,Зајечарска област,2296.38,GDP per Capita,EUR
+2001,Јабланичка област,1892.69,GDP per Capita,EUR
+2001,Нишавска област,2888.97,GDP per Capita,EUR
+2001,Пиротска област,2213.33,GDP per Capita,EUR
+2001,Подунавска област,1661.7,GDP per Capita,EUR
+2001,Пчињска област,2407.77,GDP per Capita,EUR
+2001,Топличка област,1984.63,GDP per Capita,EUR
+2001,Pomurska,10565.76,GDP per Capita,EUR
+2001,Podravska,12445.53,GDP per Capita,EUR
+2001,Koroska,12944.2,GDP per Capita,EUR
+2001,Savinjska,13457.59,GDP per Capita,EUR
+2001,Zasavska,10469.15,GDP per Capita,EUR
+2001,Posavska,12745.59,GDP per Capita,EUR
+2001,Jugovzhodna Slovenija,14710.14,GDP per Capita,EUR
+2001,Primorsko-notranjska,11910.87,GDP per Capita,EUR
+2001,Osrednjeslovenska,21224.83,GDP per Capita,EUR
+2001,Gorenjska,13490.79,GDP per Capita,EUR
+2001,Goriska,14681.42,GDP per Capita,EUR
+2001,Obalno-kraska,15910.27,GDP per Capita,EUR
+2002,Bjelovarsko-bilogorska županija,6747.56,GDP per Capita,EUR
+2002,Virovitičko-podravska županija,6518.1,GDP per Capita,EUR
+2002,Požeško-slavonska županija,6255.41,GDP per Capita,EUR
+2002,Brodsko-posavska županija,5683.88,GDP per Capita,EUR
+2002,Osječko-baranjska županija,7140.61,GDP per Capita,EUR
+2002,Vukovarsko-srijemska županija,5469.67,GDP per Capita,EUR
+2002,Karlovačka županija,7605.3,GDP per Capita,EUR
+2002,Sisačko-moslavačka županija,7036.71,GDP per Capita,EUR
+2002,Primorsko-goranska zupanija,10612.29,GDP per Capita,EUR
+2002,Licko-senjska zupanija,7758.89,GDP per Capita,EUR
+2002,Zadarska zupanija,7353.11,GDP per Capita,EUR
+2002,Sibensko-kninska zupanija,6455.21,GDP per Capita,EUR
+2002,Splitsko-dalmatinska zupanija,7345.08,GDP per Capita,EUR
+2002,Istarska zupanija,12646.59,GDP per Capita,EUR
+2002,Dubrovacko-neretvanska zupanija,8062.53,GDP per Capita,EUR
+2002,Grad Zagreb,14906.1,GDP per Capita,EUR
+2002,Međimurska županija,7339.87,GDP per Capita,EUR
+2002,Varaždinska županija,8257.39,GDP per Capita,EUR
+2002,Koprivničko-križevačka županija,8937.3,GDP per Capita,EUR
+2002,Krapinsko-zagorska županija,6411.77,GDP per Capita,EUR
+2002,Zagrebačka županija,6879.48,GDP per Capita,EUR
+2002,Crna Gora,4082.68,GDP per Capita,EUR
+2002,Vardarski,2630.65,GDP per Capita,EUR
+2002,Istocen,2093.74,GDP per Capita,EUR
+2002,Jugozapaden,2351.13,GDP per Capita,EUR
+2002,Jugoistocen,2516.95,GDP per Capita,EUR
+2002,Pelagoniski,3660.84,GDP per Capita,EUR
+2002,Poloski,1469.73,GDP per Capita,EUR
+2002,Severoistocen,1708.35,GDP per Capita,EUR
+2002,Skopski,4420.14,GDP per Capita,EUR
+2002,Београдска област,5141.18,GDP per Capita,EUR
+2002,Западнобачка област,2767.39,GDP per Capita,EUR
+2002,Јужнобанатска област,3058.58,GDP per Capita,EUR
+2002,Јужнобачка област,4852.57,GDP per Capita,EUR
+2002,Севернобанатска област,2962.55,GDP per Capita,EUR
+2002,Севернобачка област,3040.01,GDP per Capita,EUR
+2002,Средњобанатска област,3384.03,GDP per Capita,EUR
+2002,Сремска област,2769.36,GDP per Capita,EUR
+2002,Златиборска област,2245.61,GDP per Capita,EUR
+2002,Колубарска област,2257.81,GDP per Capita,EUR
+2002,Мачванска област,1990.95,GDP per Capita,EUR
+2002,Моравичка област,2873.41,GDP per Capita,EUR
+2002,Поморавска област,2674.41,GDP per Capita,EUR
+2002,Расинска област,2406.51,GDP per Capita,EUR
+2002,Рашка област,2139.03,GDP per Capita,EUR
+2002,Шумадијска област,2215.86,GDP per Capita,EUR
+2002,Борска област,2394.33,GDP per Capita,EUR
+2002,Браничевска област,3130.96,GDP per Capita,EUR
+2002,Зајечарска област,2114.85,GDP per Capita,EUR
+2002,Јабланичка област,2118.1,GDP per Capita,EUR
+2002,Нишавска област,3024.36,GDP per Capita,EUR
+2002,Пиротска област,2132.75,GDP per Capita,EUR
+2002,Подунавска област,1754.69,GDP per Capita,EUR
+2002,Пчињска област,2290.77,GDP per Capita,EUR
+2002,Топличка област,2050.45,GDP per Capita,EUR
+2002,Pomurska,10821.95,GDP per Capita,EUR
+2002,Podravska,13075.38,GDP per Capita,EUR
+2002,Koroska,12866.03,GDP per Capita,EUR
+2002,Savinjska,14112.31,GDP per Capita,EUR
+2002,Zasavska,10351.99,GDP per Capita,EUR
+2002,Posavska,13372.82,GDP per Capita,EUR
+2002,Jugovzhodna Slovenija,15265.59,GDP per Capita,EUR
+2002,Primorsko-notranjska,12241.68,GDP per Capita,EUR
+2002,Osrednjeslovenska,21900.38,GDP per Capita,EUR
+2002,Gorenjska,13839.53,GDP per Capita,EUR
+2002,Goriska,15067.07,GDP per Capita,EUR
+2002,Obalno-kraska,16476.73,GDP per Capita,EUR
+2002,Bjelovarsko-bilogorska županija,6747.56,GDP per Capita,EUR
+2002,Virovitičko-podravska županija,6518.1,GDP per Capita,EUR
+2002,Požeško-slavonska županija,6255.41,GDP per Capita,EUR
+2002,Brodsko-posavska županija,5683.88,GDP per Capita,EUR
+2002,Osječko-baranjska županija,7140.61,GDP per Capita,EUR
+2002,Vukovarsko-srijemska županija,5469.67,GDP per Capita,EUR
+2002,Karlovačka županija,7605.3,GDP per Capita,EUR
+2002,Sisačko-moslavačka županija,7036.71,GDP per Capita,EUR
+2002,Primorsko-goranska zupanija,10612.29,GDP per Capita,EUR
+2002,Licko-senjska zupanija,7758.89,GDP per Capita,EUR
+2002,Zadarska zupanija,7353.11,GDP per Capita,EUR
+2002,Sibensko-kninska zupanija,6455.21,GDP per Capita,EUR
+2002,Splitsko-dalmatinska zupanija,7345.08,GDP per Capita,EUR
+2002,Istarska zupanija,12646.59,GDP per Capita,EUR
+2002,Dubrovacko-neretvanska zupanija,8062.53,GDP per Capita,EUR
+2002,Grad Zagreb,14906.1,GDP per Capita,EUR
+2002,Međimurska županija,7339.87,GDP per Capita,EUR
+2002,Varaždinska županija,8257.39,GDP per Capita,EUR
+2002,Koprivničko-križevačka županija,8937.3,GDP per Capita,EUR
+2002,Krapinsko-zagorska županija,6411.77,GDP per Capita,EUR
+2002,Zagrebačka županija,6879.48,GDP per Capita,EUR
+2002,Crna Gora,4082.68,GDP per Capita,EUR
+2002,Vardarski,2630.65,GDP per Capita,EUR
+2002,Istocen,2093.74,GDP per Capita,EUR
+2002,Jugozapaden,2351.13,GDP per Capita,EUR
+2002,Jugoistocen,2516.95,GDP per Capita,EUR
+2002,Pelagoniski,3660.84,GDP per Capita,EUR
+2002,Poloski,1469.73,GDP per Capita,EUR
+2002,Severoistocen,1708.35,GDP per Capita,EUR
+2002,Skopski,4420.14,GDP per Capita,EUR
+2002,Београдска област,5141.18,GDP per Capita,EUR
+2002,Западнобачка област,2767.39,GDP per Capita,EUR
+2002,Јужнобанатска област,3058.58,GDP per Capita,EUR
+2002,Јужнобачка област,4852.57,GDP per Capita,EUR
+2002,Севернобанатска област,2962.55,GDP per Capita,EUR
+2002,Севернобачка област,3040.01,GDP per Capita,EUR
+2002,Средњобанатска област,3384.03,GDP per Capita,EUR
+2002,Сремска област,2769.36,GDP per Capita,EUR
+2002,Златиборска област,2245.61,GDP per Capita,EUR
+2002,Колубарска област,2257.81,GDP per Capita,EUR
+2002,Мачванска област,1990.95,GDP per Capita,EUR
+2002,Моравичка област,2873.41,GDP per Capita,EUR
+2002,Поморавска област,2674.41,GDP per Capita,EUR
+2002,Расинска област,2406.51,GDP per Capita,EUR
+2002,Рашка област,2139.03,GDP per Capita,EUR
+2002,Шумадијска област,2215.86,GDP per Capita,EUR
+2002,Борска област,2394.33,GDP per Capita,EUR
+2002,Браничевска област,3130.96,GDP per Capita,EUR
+2002,Зајечарска област,2114.85,GDP per Capita,EUR
+2002,Јабланичка област,2118.1,GDP per Capita,EUR
+2002,Нишавска област,3024.36,GDP per Capita,EUR
+2002,Пиротска област,2132.75,GDP per Capita,EUR
+2002,Подунавска област,1754.69,GDP per Capita,EUR
+2002,Пчињска област,2290.77,GDP per Capita,EUR
+2002,Топличка област,2050.45,GDP per Capita,EUR
+2002,Pomurska,10821.95,GDP per Capita,EUR
+2002,Podravska,13075.38,GDP per Capita,EUR
+2002,Koroska,12866.03,GDP per Capita,EUR
+2002,Savinjska,14112.31,GDP per Capita,EUR
+2002,Zasavska,10351.99,GDP per Capita,EUR
+2002,Posavska,13372.82,GDP per Capita,EUR
+2002,Jugovzhodna Slovenija,15265.59,GDP per Capita,EUR
+2002,Primorsko-notranjska,12241.68,GDP per Capita,EUR
+2002,Osrednjeslovenska,21900.38,GDP per Capita,EUR
+2002,Gorenjska,13839.53,GDP per Capita,EUR
+2002,Goriska,15067.07,GDP per Capita,EUR
+2002,Obalno-kraska,16476.73,GDP per Capita,EUR
+2003,Bjelovarsko-bilogorska županija,6773.84,GDP per Capita,EUR
+2003,Virovitičko-podravska županija,6742.05,GDP per Capita,EUR
+2003,Požeško-slavonska županija,6833.16,GDP per Capita,EUR
+2003,Brodsko-posavska županija,5842.43,GDP per Capita,EUR
+2003,Osječko-baranjska županija,7196.97,GDP per Capita,EUR
+2003,Vukovarsko-srijemska županija,5809.55,GDP per Capita,EUR
+2003,Karlovačka županija,7356.6,GDP per Capita,EUR
+2003,Sisačko-moslavačka županija,7123.14,GDP per Capita,EUR
+2003,Primorsko-goranska zupanija,11619.01,GDP per Capita,EUR
+2003,Licko-senjska zupanija,9312.94,GDP per Capita,EUR
+2003,Zadarska zupanija,8349.26,GDP per Capita,EUR
+2003,Sibensko-kninska zupanija,7120.44,GDP per Capita,EUR
+2003,Splitsko-dalmatinska zupanija,7741.88,GDP per Capita,EUR
+2003,Istarska zupanija,13329.47,GDP per Capita,EUR
+2003,Dubrovacko-neretvanska zupanija,8737.52,GDP per Capita,EUR
+2003,Grad Zagreb,16036.63,GDP per Capita,EUR
+2003,Međimurska županija,7369.76,GDP per Capita,EUR
+2003,Varaždinska županija,8436.46,GDP per Capita,EUR
+2003,Koprivničko-križevačka županija,9049.89,GDP per Capita,EUR
+2003,Krapinsko-zagorska županija,6617.74,GDP per Capita,EUR
+2003,Zagrebačka županija,7044.08,GDP per Capita,EUR
+2003,Crna Gora,4170.08,GDP per Capita,EUR
+2003,Vardarski,3001.12,GDP per Capita,EUR
+2003,Istocen,2167.46,GDP per Capita,EUR
+2003,Jugozapaden,2139.34,GDP per Capita,EUR
+2003,Jugoistocen,2711.08,GDP per Capita,EUR
+2003,Pelagoniski,3921.49,GDP per Capita,EUR
+2003,Poloski,1673.15,GDP per Capita,EUR
+2003,Severoistocen,1803.22,GDP per Capita,EUR
+2003,Skopski,4278.17,GDP per Capita,EUR
+2003,Београдска област,5575.5,GDP per Capita,EUR
+2003,Западнобачка област,2722.86,GDP per Capita,EUR
+2003,Јужнобанатска област,3030.89,GDP per Capita,EUR
+2003,Јужнобачка област,4804.67,GDP per Capita,EUR
+2003,Севернобанатска област,2938.08,GDP per Capita,EUR
+2003,Севернобачка област,3045.07,GDP per Capita,EUR
+2003,Средњобанатска област,3335.28,GDP per Capita,EUR
+2003,Сремска област,2732.72,GDP per Capita,EUR
+2003,Златиборска област,2548.95,GDP per Capita,EUR
+2003,Колубарска област,2338.12,GDP per Capita,EUR
+2003,Мачванска област,1996.83,GDP per Capita,EUR
+2003,Моравичка област,2930.4,GDP per Capita,EUR
+2003,Поморавска област,2855.5,GDP per Capita,EUR
+2003,Расинска област,2490.97,GDP per Capita,EUR
+2003,Рашка област,2401.15,GDP per Capita,EUR
+2003,Шумадијска област,2365.7,GDP per Capita,EUR
+2003,Борска област,2624.74,GDP per Capita,EUR
+2003,Браничевска област,3239.93,GDP per Capita,EUR
+2003,Зајечарска област,2340.83,GDP per Capita,EUR
+2003,Јабланичка област,2187.71,GDP per Capita,EUR
+2003,Нишавска област,3257.65,GDP per Capita,EUR
+2003,Пиротска област,2194.68,GDP per Capita,EUR
+2003,Подунавска област,1649.46,GDP per Capita,EUR
+2003,Пчињска област,2351.41,GDP per Capita,EUR
+2003,Топличка област,1968.33,GDP per Capita,EUR
+2003,Pomurska,10849.96,GDP per Capita,EUR
+2003,Podravska,13193.27,GDP per Capita,EUR
+2003,Koroska,12877.84,GDP per Capita,EUR
+2003,Savinjska,14273.49,GDP per Capita,EUR
+2003,Zasavska,10318.67,GDP per Capita,EUR
+2003,Posavska,12758.21,GDP per Capita,EUR
+2003,Jugovzhodna Slovenija,15579.08,GDP per Capita,EUR
+2003,Primorsko-notranjska,12273.8,GDP per Capita,EUR
+2003,Osrednjeslovenska,23256.54,GDP per Capita,EUR
+2003,Gorenjska,14105.64,GDP per Capita,EUR
+2003,Goriska,15227.2,GDP per Capita,EUR
+2003,Obalno-kraska,16912.31,GDP per Capita,EUR
+2003,Bjelovarsko-bilogorska županija,6773.84,GDP per Capita,EUR
+2003,Virovitičko-podravska županija,6742.05,GDP per Capita,EUR
+2003,Požeško-slavonska županija,6833.16,GDP per Capita,EUR
+2003,Brodsko-posavska županija,5842.43,GDP per Capita,EUR
+2003,Osječko-baranjska županija,7196.97,GDP per Capita,EUR
+2003,Vukovarsko-srijemska županija,5809.55,GDP per Capita,EUR
+2003,Karlovačka županija,7356.6,GDP per Capita,EUR
+2003,Sisačko-moslavačka županija,7123.14,GDP per Capita,EUR
+2003,Primorsko-goranska zupanija,11619.01,GDP per Capita,EUR
+2003,Licko-senjska zupanija,9312.94,GDP per Capita,EUR
+2003,Zadarska zupanija,8349.26,GDP per Capita,EUR
+2003,Sibensko-kninska zupanija,7120.44,GDP per Capita,EUR
+2003,Splitsko-dalmatinska zupanija,7741.88,GDP per Capita,EUR
+2003,Istarska zupanija,13329.47,GDP per Capita,EUR
+2003,Dubrovacko-neretvanska zupanija,8737.52,GDP per Capita,EUR
+2003,Grad Zagreb,16036.63,GDP per Capita,EUR
+2003,Međimurska županija,7369.76,GDP per Capita,EUR
+2003,Varaždinska županija,8436.46,GDP per Capita,EUR
+2003,Koprivničko-križevačka županija,9049.89,GDP per Capita,EUR
+2003,Krapinsko-zagorska županija,6617.74,GDP per Capita,EUR
+2003,Zagrebačka županija,7044.08,GDP per Capita,EUR
+2003,Crna Gora,4170.08,GDP per Capita,EUR
+2003,Vardarski,3001.12,GDP per Capita,EUR
+2003,Istocen,2167.46,GDP per Capita,EUR
+2003,Jugozapaden,2139.34,GDP per Capita,EUR
+2003,Jugoistocen,2711.08,GDP per Capita,EUR
+2003,Pelagoniski,3921.49,GDP per Capita,EUR
+2003,Poloski,1673.15,GDP per Capita,EUR
+2003,Severoistocen,1803.22,GDP per Capita,EUR
+2003,Skopski,4278.17,GDP per Capita,EUR
+2003,Београдска област,5575.5,GDP per Capita,EUR
+2003,Западнобачка област,2722.86,GDP per Capita,EUR
+2003,Јужнобанатска област,3030.89,GDP per Capita,EUR
+2003,Јужнобачка област,4804.67,GDP per Capita,EUR
+2003,Севернобанатска област,2938.08,GDP per Capita,EUR
+2003,Севернобачка област,3045.07,GDP per Capita,EUR
+2003,Средњобанатска област,3335.28,GDP per Capita,EUR
+2003,Сремска област,2732.72,GDP per Capita,EUR
+2003,Златиборска област,2548.95,GDP per Capita,EUR
+2003,Колубарска област,2338.12,GDP per Capita,EUR
+2003,Мачванска област,1996.83,GDP per Capita,EUR
+2003,Моравичка област,2930.4,GDP per Capita,EUR
+2003,Поморавска област,2855.5,GDP per Capita,EUR
+2003,Расинска област,2490.97,GDP per Capita,EUR
+2003,Рашка област,2401.15,GDP per Capita,EUR
+2003,Шумадијска област,2365.7,GDP per Capita,EUR
+2003,Борска област,2624.74,GDP per Capita,EUR
+2003,Браничевска област,3239.93,GDP per Capita,EUR
+2003,Зајечарска област,2340.83,GDP per Capita,EUR
+2003,Јабланичка област,2187.71,GDP per Capita,EUR
+2003,Нишавска област,3257.65,GDP per Capita,EUR
+2003,Пиротска област,2194.68,GDP per Capita,EUR
+2003,Подунавска област,1649.46,GDP per Capita,EUR
+2003,Пчињска област,2351.41,GDP per Capita,EUR
+2003,Топличка област,1968.33,GDP per Capita,EUR
+2003,Pomurska,10849.96,GDP per Capita,EUR
+2003,Podravska,13193.27,GDP per Capita,EUR
+2003,Koroska,12877.84,GDP per Capita,EUR
+2003,Savinjska,14273.49,GDP per Capita,EUR
+2003,Zasavska,10318.67,GDP per Capita,EUR
+2003,Posavska,12758.21,GDP per Capita,EUR
+2003,Jugovzhodna Slovenija,15579.08,GDP per Capita,EUR
+2003,Primorsko-notranjska,12273.8,GDP per Capita,EUR
+2003,Osrednjeslovenska,23256.54,GDP per Capita,EUR
+2003,Gorenjska,14105.64,GDP per Capita,EUR
+2003,Goriska,15227.2,GDP per Capita,EUR
+2003,Obalno-kraska,16912.31,GDP per Capita,EUR
+2004,Bjelovarsko-bilogorska županija,6965.69,GDP per Capita,EUR
+2004,Virovitičko-podravska županija,6732.12,GDP per Capita,EUR
+2004,Požeško-slavonska županija,7108.28,GDP per Capita,EUR
+2004,Brodsko-posavska županija,6155.39,GDP per Capita,EUR
+2004,Osječko-baranjska županija,7632.56,GDP per Capita,EUR
+2004,Vukovarsko-srijemska županija,5979.1,GDP per Capita,EUR
+2004,Karlovačka županija,7326.3,GDP per Capita,EUR
+2004,Sisačko-moslavačka županija,7157.75,GDP per Capita,EUR
+2004,Primorsko-goranska zupanija,11641.15,GDP per Capita,EUR
+2004,Licko-senjska zupanija,11803.84,GDP per Capita,EUR
+2004,Zadarska zupanija,8516.62,GDP per Capita,EUR
+2004,Sibensko-kninska zupanija,7653.21,GDP per Capita,EUR
+2004,Splitsko-dalmatinska zupanija,8420.36,GDP per Capita,EUR
+2004,Istarska zupanija,13847.28,GDP per Capita,EUR
+2004,Dubrovacko-neretvanska zupanija,9666.59,GDP per Capita,EUR
+2004,Grad Zagreb,16812.88,GDP per Capita,EUR
+2004,Međimurska županija,7482.28,GDP per Capita,EUR
+2004,Varaždinska županija,8109.05,GDP per Capita,EUR
+2004,Koprivničko-križevačka županija,8873.42,GDP per Capita,EUR
+2004,Krapinsko-zagorska županija,6618.69,GDP per Capita,EUR
+2004,Zagrebačka županija,7409.76,GDP per Capita,EUR
+2004,Crna Gora,4343.72,GDP per Capita,EUR
+2004,Vardarski,2934.53,GDP per Capita,EUR
+2004,Istocen,2364.26,GDP per Capita,EUR
+2004,Jugozapaden,2422.49,GDP per Capita,EUR
+2004,Jugoistocen,2874.19,GDP per Capita,EUR
+2004,Pelagoniski,3711.95,GDP per Capita,EUR
+2004,Poloski,1581.44,GDP per Capita,EUR
+2004,Severoistocen,1788.97,GDP per Capita,EUR
+2004,Skopski,4660.42,GDP per Capita,EUR
+2004,Београдска област,6555.63,GDP per Capita,EUR
+2004,Западнобачка област,3005.36,GDP per Capita,EUR
+2004,Јужнобанатска област,3295.51,GDP per Capita,EUR
+2004,Јужнобачка област,5094.96,GDP per Capita,EUR
+2004,Севернобанатска област,3211.81,GDP per Capita,EUR
+2004,Севернобачка област,3294.14,GDP per Capita,EUR
+2004,Средњобанатска област,3651.19,GDP per Capita,EUR
+2004,Сремска област,2989.27,GDP per Capita,EUR
+2004,Златиборска област,2510.98,GDP per Capita,EUR
+2004,Колубарска област,2450.13,GDP per Capita,EUR
+2004,Мачванска област,2207.17,GDP per Capita,EUR
+2004,Моравичка област,3134.84,GDP per Capita,EUR
+2004,Поморавска област,2687.78,GDP per Capita,EUR
+2004,Расинска област,2553.54,GDP per Capita,EUR
+2004,Рашка област,2391.65,GDP per Capita,EUR
+2004,Шумадијска област,2485.18,GDP per Capita,EUR
+2004,Борска област,2411.01,GDP per Capita,EUR
+2004,Браничевска област,3378.61,GDP per Capita,EUR
+2004,Зајечарска област,2435.93,GDP per Capita,EUR
+2004,Јабланичка област,2063.84,GDP per Capita,EUR
+2004,Нишавска област,3572.48,GDP per Capita,EUR
+2004,Пиротска област,2322.35,GDP per Capita,EUR
+2004,Подунавска област,1787.7,GDP per Capita,EUR
+2004,Пчињска област,2080.08,GDP per Capita,EUR
+2004,Топличка област,1982.04,GDP per Capita,EUR
+2004,Pomurska,11415.79,GDP per Capita,EUR
+2004,Podravska,13865.24,GDP per Capita,EUR
+2004,Koroska,13321.14,GDP per Capita,EUR
+2004,Savinjska,14924.31,GDP per Capita,EUR
+2004,Zasavska,10665.34,GDP per Capita,EUR
+2004,Posavska,13316.28,GDP per Capita,EUR
+2004,Jugovzhodna Slovenija,16507.53,GDP per Capita,EUR
+2004,Primorsko-notranjska,12695.33,GDP per Capita,EUR
+2004,Osrednjeslovenska,24177.9,GDP per Capita,EUR
+2004,Gorenjska,14726.68,GDP per Capita,EUR
+2004,Goriska,15616.9,GDP per Capita,EUR
+2004,Obalno-kraska,17517.14,GDP per Capita,EUR
+2004,Bjelovarsko-bilogorska županija,6965.69,GDP per Capita,EUR
+2004,Virovitičko-podravska županija,6732.12,GDP per Capita,EUR
+2004,Požeško-slavonska županija,7108.28,GDP per Capita,EUR
+2004,Brodsko-posavska županija,6155.39,GDP per Capita,EUR
+2004,Osječko-baranjska županija,7632.56,GDP per Capita,EUR
+2004,Vukovarsko-srijemska županija,5979.1,GDP per Capita,EUR
+2004,Karlovačka županija,7326.3,GDP per Capita,EUR
+2004,Sisačko-moslavačka županija,7157.75,GDP per Capita,EUR
+2004,Primorsko-goranska zupanija,11641.15,GDP per Capita,EUR
+2004,Licko-senjska zupanija,11803.84,GDP per Capita,EUR
+2004,Zadarska zupanija,8516.62,GDP per Capita,EUR
+2004,Sibensko-kninska zupanija,7653.21,GDP per Capita,EUR
+2004,Splitsko-dalmatinska zupanija,8420.36,GDP per Capita,EUR
+2004,Istarska zupanija,13847.28,GDP per Capita,EUR
+2004,Dubrovacko-neretvanska zupanija,9666.59,GDP per Capita,EUR
+2004,Grad Zagreb,16812.88,GDP per Capita,EUR
+2004,Međimurska županija,7482.28,GDP per Capita,EUR
+2004,Varaždinska županija,8109.05,GDP per Capita,EUR
+2004,Koprivničko-križevačka županija,8873.42,GDP per Capita,EUR
+2004,Krapinsko-zagorska županija,6618.69,GDP per Capita,EUR
+2004,Zagrebačka županija,7409.76,GDP per Capita,EUR
+2004,Crna Gora,4343.72,GDP per Capita,EUR
+2004,Vardarski,2934.53,GDP per Capita,EUR
+2004,Istocen,2364.26,GDP per Capita,EUR
+2004,Jugozapaden,2422.49,GDP per Capita,EUR
+2004,Jugoistocen,2874.19,GDP per Capita,EUR
+2004,Pelagoniski,3711.95,GDP per Capita,EUR
+2004,Poloski,1581.44,GDP per Capita,EUR
+2004,Severoistocen,1788.97,GDP per Capita,EUR
+2004,Skopski,4660.42,GDP per Capita,EUR
+2004,Београдска област,6555.63,GDP per Capita,EUR
+2004,Западнобачка област,3005.36,GDP per Capita,EUR
+2004,Јужнобанатска област,3295.51,GDP per Capita,EUR
+2004,Јужнобачка област,5094.96,GDP per Capita,EUR
+2004,Севернобанатска област,3211.81,GDP per Capita,EUR
+2004,Севернобачка област,3294.14,GDP per Capita,EUR
+2004,Средњобанатска област,3651.19,GDP per Capita,EUR
+2004,Сремска област,2989.27,GDP per Capita,EUR
+2004,Златиборска област,2510.98,GDP per Capita,EUR
+2004,Колубарска област,2450.13,GDP per Capita,EUR
+2004,Мачванска област,2207.17,GDP per Capita,EUR
+2004,Моравичка област,3134.84,GDP per Capita,EUR
+2004,Поморавска област,2687.78,GDP per Capita,EUR
+2004,Расинска област,2553.54,GDP per Capita,EUR
+2004,Рашка област,2391.65,GDP per Capita,EUR
+2004,Шумадијска област,2485.18,GDP per Capita,EUR
+2004,Борска област,2411.01,GDP per Capita,EUR
+2004,Браничевска област,3378.61,GDP per Capita,EUR
+2004,Зајечарска област,2435.93,GDP per Capita,EUR
+2004,Јабланичка област,2063.84,GDP per Capita,EUR
+2004,Нишавска област,3572.48,GDP per Capita,EUR
+2004,Пиротска област,2322.35,GDP per Capita,EUR
+2004,Подунавска област,1787.7,GDP per Capita,EUR
+2004,Пчињска област,2080.08,GDP per Capita,EUR
+2004,Топличка област,1982.04,GDP per Capita,EUR
+2004,Pomurska,11415.79,GDP per Capita,EUR
+2004,Podravska,13865.24,GDP per Capita,EUR
+2004,Koroska,13321.14,GDP per Capita,EUR
+2004,Savinjska,14924.31,GDP per Capita,EUR
+2004,Zasavska,10665.34,GDP per Capita,EUR
+2004,Posavska,13316.28,GDP per Capita,EUR
+2004,Jugovzhodna Slovenija,16507.53,GDP per Capita,EUR
+2004,Primorsko-notranjska,12695.33,GDP per Capita,EUR
+2004,Osrednjeslovenska,24177.9,GDP per Capita,EUR
+2004,Gorenjska,14726.68,GDP per Capita,EUR
+2004,Goriska,15616.9,GDP per Capita,EUR
+2004,Obalno-kraska,17517.14,GDP per Capita,EUR
+2005,Bjelovarsko-bilogorska županija,6873.06,GDP per Capita,EUR
+2005,Virovitičko-podravska županija,6606.72,GDP per Capita,EUR
+2005,Požeško-slavonska županija,7125.17,GDP per Capita,EUR
+2005,Brodsko-posavska županija,5854.76,GDP per Capita,EUR
+2005,Osječko-baranjska županija,8042.42,GDP per Capita,EUR
+2005,Vukovarsko-srijemska županija,6204.11,GDP per Capita,EUR
+2005,Karlovačka županija,7704.92,GDP per Capita,EUR
+2005,Sisačko-moslavačka županija,7675.24,GDP per Capita,EUR
+2005,Primorsko-goranska zupanija,12692.71,GDP per Capita,EUR
+2005,Licko-senjska zupanija,9256.38,GDP per Capita,EUR
+2005,Zadarska zupanija,8967.82,GDP per Capita,EUR
+2005,Sibensko-kninska zupanija,8291.01,GDP per Capita,EUR
+2005,Splitsko-dalmatinska zupanija,8436.99,GDP per Capita,EUR
+2005,Istarska zupanija,13824.31,GDP per Capita,EUR
+2005,Dubrovacko-neretvanska zupanija,10137.79,GDP per Capita,EUR
+2005,Grad Zagreb,17856.87,GDP per Capita,EUR
+2005,Međimurska županija,7750.48,GDP per Capita,EUR
+2005,Varaždinska županija,8346.46,GDP per Capita,EUR
+2005,Koprivničko-križevačka županija,8673.78,GDP per Capita,EUR
+2005,Krapinsko-zagorska županija,7177.97,GDP per Capita,EUR
+2005,Zagrebačka županija,8081.0,GDP per Capita,EUR
+2005,Crna Gora,4523.95,GDP per Capita,EUR
+2005,Vardarski,3472.57,GDP per Capita,EUR
+2005,Istocen,2305.55,GDP per Capita,EUR
+2005,Jugozapaden,2232.44,GDP per Capita,EUR
+2005,Jugoistocen,3357.58,GDP per Capita,EUR
+2005,Pelagoniski,4306.09,GDP per Capita,EUR
+2005,Poloski,1485.88,GDP per Capita,EUR
+2005,Severoistocen,2065.63,GDP per Capita,EUR
+2005,Skopski,4678.14,GDP per Capita,EUR
+2005,Београдска област,6893.82,GDP per Capita,EUR
+2005,Западнобачка област,3183.78,GDP per Capita,EUR
+2005,Јужнобанатска област,3507.24,GDP per Capita,EUR
+2005,Јужнобачка област,5438.14,GDP per Capita,EUR
+2005,Севернобанатска област,3416.06,GDP per Capita,EUR
+2005,Севернобачка област,3542.8,GDP per Capita,EUR
+2005,Средњобанатска област,3877.02,GDP per Capita,EUR
+2005,Сремска област,3208.24,GDP per Capita,EUR
+2005,Златиборска област,2566.75,GDP per Capita,EUR
+2005,Колубарска област,2513.21,GDP per Capita,EUR
+2005,Мачванска област,2368.35,GDP per Capita,EUR
+2005,Моравичка област,3440.77,GDP per Capita,EUR
+2005,Поморавска област,3039.08,GDP per Capita,EUR
+2005,Расинска област,2530.46,GDP per Capita,EUR
+2005,Рашка област,2422.72,GDP per Capita,EUR
+2005,Шумадијска област,2882.93,GDP per Capita,EUR
+2005,Борска област,2772.57,GDP per Capita,EUR
+2005,Браничевска област,3659.77,GDP per Capita,EUR
+2005,Зајечарска област,2331.31,GDP per Capita,EUR
+2005,Јабланичка област,1931.0,GDP per Capita,EUR
+2005,Нишавска област,3794.38,GDP per Capita,EUR
+2005,Пиротска област,2510.34,GDP per Capita,EUR
+2005,Подунавска област,1883.92,GDP per Capita,EUR
+2005,Пчињска област,2040.6,GDP per Capita,EUR
+2005,Топличка област,1787.43,GDP per Capita,EUR
+2005,Pomurska,11626.65,GDP per Capita,EUR
+2005,Podravska,14388.69,GDP per Capita,EUR
+2005,Koroska,13890.92,GDP per Capita,EUR
+2005,Savinjska,15575.58,GDP per Capita,EUR
+2005,Zasavska,11158.91,GDP per Capita,EUR
+2005,Posavska,14158.12,GDP per Capita,EUR
+2005,Jugovzhodna Slovenija,16772.11,GDP per Capita,EUR
+2005,Primorsko-notranjska,12883.41,GDP per Capita,EUR
+2005,Osrednjeslovenska,25201.12,GDP per Capita,EUR
+2005,Gorenjska,15003.52,GDP per Capita,EUR
+2005,Goriska,16172.19,GDP per Capita,EUR
+2005,Obalno-kraska,18012.35,GDP per Capita,EUR
+2005,Bjelovarsko-bilogorska županija,6873.06,GDP per Capita,EUR
+2005,Virovitičko-podravska županija,6606.72,GDP per Capita,EUR
+2005,Požeško-slavonska županija,7125.17,GDP per Capita,EUR
+2005,Brodsko-posavska županija,5854.76,GDP per Capita,EUR
+2005,Osječko-baranjska županija,8042.42,GDP per Capita,EUR
+2005,Vukovarsko-srijemska županija,6204.11,GDP per Capita,EUR
+2005,Karlovačka županija,7704.92,GDP per Capita,EUR
+2005,Sisačko-moslavačka županija,7675.24,GDP per Capita,EUR
+2005,Primorsko-goranska zupanija,12692.71,GDP per Capita,EUR
+2005,Licko-senjska zupanija,9256.38,GDP per Capita,EUR
+2005,Zadarska zupanija,8967.82,GDP per Capita,EUR
+2005,Sibensko-kninska zupanija,8291.01,GDP per Capita,EUR
+2005,Splitsko-dalmatinska zupanija,8436.99,GDP per Capita,EUR
+2005,Istarska zupanija,13824.31,GDP per Capita,EUR
+2005,Dubrovacko-neretvanska zupanija,10137.79,GDP per Capita,EUR
+2005,Grad Zagreb,17856.87,GDP per Capita,EUR
+2005,Međimurska županija,7750.48,GDP per Capita,EUR
+2005,Varaždinska županija,8346.46,GDP per Capita,EUR
+2005,Koprivničko-križevačka županija,8673.78,GDP per Capita,EUR
+2005,Krapinsko-zagorska županija,7177.97,GDP per Capita,EUR
+2005,Zagrebačka županija,8081.0,GDP per Capita,EUR
+2005,Crna Gora,4523.95,GDP per Capita,EUR
+2005,Vardarski,3472.57,GDP per Capita,EUR
+2005,Istocen,2305.55,GDP per Capita,EUR
+2005,Jugozapaden,2232.44,GDP per Capita,EUR
+2005,Jugoistocen,3357.58,GDP per Capita,EUR
+2005,Pelagoniski,4306.09,GDP per Capita,EUR
+2005,Poloski,1485.88,GDP per Capita,EUR
+2005,Severoistocen,2065.63,GDP per Capita,EUR
+2005,Skopski,4678.14,GDP per Capita,EUR
+2005,Београдска област,6893.82,GDP per Capita,EUR
+2005,Западнобачка област,3183.78,GDP per Capita,EUR
+2005,Јужнобанатска област,3507.24,GDP per Capita,EUR
+2005,Јужнобачка област,5438.14,GDP per Capita,EUR
+2005,Севернобанатска област,3416.06,GDP per Capita,EUR
+2005,Севернобачка област,3542.8,GDP per Capita,EUR
+2005,Средњобанатска област,3877.02,GDP per Capita,EUR
+2005,Сремска област,3208.24,GDP per Capita,EUR
+2005,Златиборска област,2566.75,GDP per Capita,EUR
+2005,Колубарска област,2513.21,GDP per Capita,EUR
+2005,Мачванска област,2368.35,GDP per Capita,EUR
+2005,Моравичка област,3440.77,GDP per Capita,EUR
+2005,Поморавска област,3039.08,GDP per Capita,EUR
+2005,Расинска област,2530.46,GDP per Capita,EUR
+2005,Рашка област,2422.72,GDP per Capita,EUR
+2005,Шумадијска област,2882.93,GDP per Capita,EUR
+2005,Борска област,2772.57,GDP per Capita,EUR
+2005,Браничевска област,3659.77,GDP per Capita,EUR
+2005,Зајечарска област,2331.31,GDP per Capita,EUR
+2005,Јабланичка област,1931.0,GDP per Capita,EUR
+2005,Нишавска област,3794.38,GDP per Capita,EUR
+2005,Пиротска област,2510.34,GDP per Capita,EUR
+2005,Подунавска област,1883.92,GDP per Capita,EUR
+2005,Пчињска област,2040.6,GDP per Capita,EUR
+2005,Топличка област,1787.43,GDP per Capita,EUR
+2005,Pomurska,11626.65,GDP per Capita,EUR
+2005,Podravska,14388.69,GDP per Capita,EUR
+2005,Koroska,13890.92,GDP per Capita,EUR
+2005,Savinjska,15575.58,GDP per Capita,EUR
+2005,Zasavska,11158.91,GDP per Capita,EUR
+2005,Posavska,14158.12,GDP per Capita,EUR
+2005,Jugovzhodna Slovenija,16772.11,GDP per Capita,EUR
+2005,Primorsko-notranjska,12883.41,GDP per Capita,EUR
+2005,Osrednjeslovenska,25201.12,GDP per Capita,EUR
+2005,Gorenjska,15003.52,GDP per Capita,EUR
+2005,Goriska,16172.19,GDP per Capita,EUR
+2005,Obalno-kraska,18012.35,GDP per Capita,EUR
+2006,Bjelovarsko-bilogorska županija,7623.78,GDP per Capita,EUR
+2006,Virovitičko-podravska županija,7436.46,GDP per Capita,EUR
+2006,Požeško-slavonska županija,7041.28,GDP per Capita,EUR
+2006,Brodsko-posavska županija,6207.15,GDP per Capita,EUR
+2006,Osječko-baranjska županija,8528.48,GDP per Capita,EUR
+2006,Vukovarsko-srijemska županija,6956.58,GDP per Capita,EUR
+2006,Karlovačka županija,8442.73,GDP per Capita,EUR
+2006,Sisačko-moslavačka županija,8704.58,GDP per Capita,EUR
+2006,Primorsko-goranska zupanija,13305.35,GDP per Capita,EUR
+2006,Licko-senjska zupanija,9443.35,GDP per Capita,EUR
+2006,Zadarska zupanija,8937.77,GDP per Capita,EUR
+2006,Sibensko-kninska zupanija,8215.39,GDP per Capita,EUR
+2006,Splitsko-dalmatinska zupanija,8953.15,GDP per Capita,EUR
+2006,Istarska zupanija,14207.33,GDP per Capita,EUR
+2006,Dubrovacko-neretvanska zupanija,10661.65,GDP per Capita,EUR
+2006,Grad Zagreb,18667.5,GDP per Capita,EUR
+2006,Međimurska županija,8458.98,GDP per Capita,EUR
+2006,Varaždinska županija,8754.59,GDP per Capita,EUR
+2006,Koprivničko-križevačka županija,9597.81,GDP per Capita,EUR
+2006,Krapinsko-zagorska županija,7271.03,GDP per Capita,EUR
+2006,Zagrebačka županija,7903.12,GDP per Capita,EUR
+2006,Crna Gora,4908.56,GDP per Capita,EUR
+2006,Vardarski,3484.74,GDP per Capita,EUR
+2006,Istocen,2731.1,GDP per Capita,EUR
+2006,Jugozapaden,2604.98,GDP per Capita,EUR
+2006,Jugoistocen,3158.62,GDP per Capita,EUR
+2006,Pelagoniski,3444.46,GDP per Capita,EUR
+2006,Poloski,1811.21,GDP per Capita,EUR
+2006,Severoistocen,1901.34,GDP per Capita,EUR
+2006,Skopski,5236.76,GDP per Capita,EUR
+2006,Београдска област,7453.83,GDP per Capita,EUR
+2006,Западнобачка област,3259.17,GDP per Capita,EUR
+2006,Јужнобанатска област,3583.13,GDP per Capita,EUR
+2006,Јужнобачка област,5521.52,GDP per Capita,EUR
+2006,Севернобанатска област,3488.27,GDP per Capita,EUR
+2006,Севернобачка област,3658.47,GDP per Capita,EUR
+2006,Средњобанатска област,3936.22,GDP per Capita,EUR
+2006,Сремска област,3303.39,GDP per Capita,EUR
+2006,Златиборска област,2785.36,GDP per Capita,EUR
+2006,Колубарска област,2763.81,GDP per Capita,EUR
+2006,Мачванска област,2178.89,GDP per Capita,EUR
+2006,Моравичка област,3707.12,GDP per Capita,EUR
+2006,Поморавска област,2984.75,GDP per Capita,EUR
+2006,Расинска област,2630.44,GDP per Capita,EUR
+2006,Рашка област,2628.7,GDP per Capita,EUR
+2006,Шумадијска област,2908.28,GDP per Capita,EUR
+2006,Борска област,3065.15,GDP per Capita,EUR
+2006,Браничевска област,3558.99,GDP per Capita,EUR
+2006,Зајечарска област,2226.41,GDP per Capita,EUR
+2006,Јабланичка област,2287.93,GDP per Capita,EUR
+2006,Нишавска област,4087.9,GDP per Capita,EUR
+2006,Пиротска област,2433.84,GDP per Capita,EUR
+2006,Подунавска област,2141.58,GDP per Capita,EUR
+2006,Пчињска област,2219.58,GDP per Capita,EUR
+2006,Топличка област,1858.0,GDP per Capita,EUR
+2006,Pomurska,12007.2,GDP per Capita,EUR
+2006,Podravska,15292.72,GDP per Capita,EUR
+2006,Koroska,14299.86,GDP per Capita,EUR
+2006,Savinjska,16175.92,GDP per Capita,EUR
+2006,Zasavska,11412.57,GDP per Capita,EUR
+2006,Posavska,14628.12,GDP per Capita,EUR
+2006,Jugovzhodna Slovenija,18115.94,GDP per Capita,EUR
+2006,Primorsko-notranjska,13461.16,GDP per Capita,EUR
+2006,Osrednjeslovenska,26793.87,GDP per Capita,EUR
+2006,Gorenjska,15440.97,GDP per Capita,EUR
+2006,Goriska,16831.67,GDP per Capita,EUR
+2006,Obalno-kraska,19075.57,GDP per Capita,EUR
+2006,Bjelovarsko-bilogorska županija,7623.78,GDP per Capita,EUR
+2006,Virovitičko-podravska županija,7436.46,GDP per Capita,EUR
+2006,Požeško-slavonska županija,7041.28,GDP per Capita,EUR
+2006,Brodsko-posavska županija,6207.15,GDP per Capita,EUR
+2006,Osječko-baranjska županija,8528.48,GDP per Capita,EUR
+2006,Vukovarsko-srijemska županija,6956.58,GDP per Capita,EUR
+2006,Karlovačka županija,8442.73,GDP per Capita,EUR
+2006,Sisačko-moslavačka županija,8704.58,GDP per Capita,EUR
+2006,Primorsko-goranska zupanija,13305.35,GDP per Capita,EUR
+2006,Licko-senjska zupanija,9443.35,GDP per Capita,EUR
+2006,Zadarska zupanija,8937.77,GDP per Capita,EUR
+2006,Sibensko-kninska zupanija,8215.39,GDP per Capita,EUR
+2006,Splitsko-dalmatinska zupanija,8953.15,GDP per Capita,EUR
+2006,Istarska zupanija,14207.33,GDP per Capita,EUR
+2006,Dubrovacko-neretvanska zupanija,10661.65,GDP per Capita,EUR
+2006,Grad Zagreb,18667.5,GDP per Capita,EUR
+2006,Međimurska županija,8458.98,GDP per Capita,EUR
+2006,Varaždinska županija,8754.59,GDP per Capita,EUR
+2006,Koprivničko-križevačka županija,9597.81,GDP per Capita,EUR
+2006,Krapinsko-zagorska županija,7271.03,GDP per Capita,EUR
+2006,Zagrebačka županija,7903.12,GDP per Capita,EUR
+2006,Crna Gora,4908.56,GDP per Capita,EUR
+2006,Vardarski,3484.74,GDP per Capita,EUR
+2006,Istocen,2731.1,GDP per Capita,EUR
+2006,Jugozapaden,2604.98,GDP per Capita,EUR
+2006,Jugoistocen,3158.62,GDP per Capita,EUR
+2006,Pelagoniski,3444.46,GDP per Capita,EUR
+2006,Poloski,1811.21,GDP per Capita,EUR
+2006,Severoistocen,1901.34,GDP per Capita,EUR
+2006,Skopski,5236.76,GDP per Capita,EUR
+2006,Београдска област,7453.83,GDP per Capita,EUR
+2006,Западнобачка област,3259.17,GDP per Capita,EUR
+2006,Јужнобанатска област,3583.13,GDP per Capita,EUR
+2006,Јужнобачка област,5521.52,GDP per Capita,EUR
+2006,Севернобанатска област,3488.27,GDP per Capita,EUR
+2006,Севернобачка област,3658.47,GDP per Capita,EUR
+2006,Средњобанатска област,3936.22,GDP per Capita,EUR
+2006,Сремска област,3303.39,GDP per Capita,EUR
+2006,Златиборска област,2785.36,GDP per Capita,EUR
+2006,Колубарска област,2763.81,GDP per Capita,EUR
+2006,Мачванска област,2178.89,GDP per Capita,EUR
+2006,Моравичка област,3707.12,GDP per Capita,EUR
+2006,Поморавска област,2984.75,GDP per Capita,EUR
+2006,Расинска област,2630.44,GDP per Capita,EUR
+2006,Рашка област,2628.7,GDP per Capita,EUR
+2006,Шумадијска област,2908.28,GDP per Capita,EUR
+2006,Борска област,3065.15,GDP per Capita,EUR
+2006,Браничевска област,3558.99,GDP per Capita,EUR
+2006,Зајечарска област,2226.41,GDP per Capita,EUR
+2006,Јабланичка област,2287.93,GDP per Capita,EUR
+2006,Нишавска област,4087.9,GDP per Capita,EUR
+2006,Пиротска област,2433.84,GDP per Capita,EUR
+2006,Подунавска област,2141.58,GDP per Capita,EUR
+2006,Пчињска област,2219.58,GDP per Capita,EUR
+2006,Топличка област,1858.0,GDP per Capita,EUR
+2006,Pomurska,12007.2,GDP per Capita,EUR
+2006,Podravska,15292.72,GDP per Capita,EUR
+2006,Koroska,14299.86,GDP per Capita,EUR
+2006,Savinjska,16175.92,GDP per Capita,EUR
+2006,Zasavska,11412.57,GDP per Capita,EUR
+2006,Posavska,14628.12,GDP per Capita,EUR
+2006,Jugovzhodna Slovenija,18115.94,GDP per Capita,EUR
+2006,Primorsko-notranjska,13461.16,GDP per Capita,EUR
+2006,Osrednjeslovenska,26793.87,GDP per Capita,EUR
+2006,Gorenjska,15440.97,GDP per Capita,EUR
+2006,Goriska,16831.67,GDP per Capita,EUR
+2006,Obalno-kraska,19075.57,GDP per Capita,EUR
+2007,Bjelovarsko-bilogorska županija,7413.27,GDP per Capita,EUR
+2007,Virovitičko-podravska županija,7639.13,GDP per Capita,EUR
+2007,Požeško-slavonska županija,7218.32,GDP per Capita,EUR
+2007,Brodsko-posavska županija,6429.76,GDP per Capita,EUR
+2007,Osječko-baranjska županija,9480.44,GDP per Capita,EUR
+2007,Vukovarsko-srijemska županija,6897.28,GDP per Capita,EUR
+2007,Karlovačka županija,9074.26,GDP per Capita,EUR
+2007,Sisačko-moslavačka županija,7961.08,GDP per Capita,EUR
+2007,Primorsko-goranska zupanija,13380.79,GDP per Capita,EUR
+2007,Licko-senjska zupanija,8866.95,GDP per Capita,EUR
+2007,Zadarska zupanija,9793.48,GDP per Capita,EUR
+2007,Sibensko-kninska zupanija,9206.94,GDP per Capita,EUR
+2007,Splitsko-dalmatinska zupanija,9766.0,GDP per Capita,EUR
+2007,Istarska zupanija,14832.52,GDP per Capita,EUR
+2007,Dubrovacko-neretvanska zupanija,12030.74,GDP per Capita,EUR
+2007,Grad Zagreb,19588.78,GDP per Capita,EUR
+2007,Međimurska županija,8710.01,GDP per Capita,EUR
+2007,Varaždinska županija,9113.47,GDP per Capita,EUR
+2007,Koprivničko-križevačka županija,9883.98,GDP per Capita,EUR
+2007,Krapinsko-zagorska županija,7815.37,GDP per Capita,EUR
+2007,Zagrebačka županija,8606.52,GDP per Capita,EUR
+2007,Crna Gora,5232.46,GDP per Capita,EUR
+2007,Vardarski,3259.74,GDP per Capita,EUR
+2007,Istocen,2873.36,GDP per Capita,EUR
+2007,Jugozapaden,2604.63,GDP per Capita,EUR
+2007,Jugoistocen,3506.76,GDP per Capita,EUR
+2007,Pelagoniski,3703.59,GDP per Capita,EUR
+2007,Poloski,1803.33,GDP per Capita,EUR
+2007,Severoistocen,1851.72,GDP per Capita,EUR
+2007,Skopski,5798.79,GDP per Capita,EUR
+2007,Београдска област,8218.7,GDP per Capita,EUR
+2007,Западнобачка област,3507.88,GDP per Capita,EUR
+2007,Јужнобанатска област,3859.12,GDP per Capita,EUR
+2007,Јужнобачка област,6004.72,GDP per Capita,EUR
+2007,Севернобанатска област,3766.27,GDP per Capita,EUR
+2007,Севернобачка област,3970.66,GDP per Capita,EUR
+2007,Средњобанатска област,4243.83,GDP per Capita,EUR
+2007,Сремска област,3576.1,GDP per Capita,EUR
+2007,Златиборска област,2872.36,GDP per Capita,EUR
+2007,Колубарска област,2893.98,GDP per Capita,EUR
+2007,Мачванска област,2541.22,GDP per Capita,EUR
+2007,Моравичка област,3858.01,GDP per Capita,EUR
+2007,Поморавска област,3261.63,GDP per Capita,EUR
+2007,Расинска област,2849.73,GDP per Capita,EUR
+2007,Рашка област,2620.21,GDP per Capita,EUR
+2007,Шумадијска област,3236.88,GDP per Capita,EUR
+2007,Борска област,2704.09,GDP per Capita,EUR
+2007,Браничевска област,3562.29,GDP per Capita,EUR
+2007,Зајечарска област,2099.8,GDP per Capita,EUR
+2007,Јабланичка област,1807.8,GDP per Capita,EUR
+2007,Нишавска област,3855.15,GDP per Capita,EUR
+2007,Пиротска област,2604.38,GDP per Capita,EUR
+2007,Подунавска област,2042.57,GDP per Capita,EUR
+2007,Пчињска област,2206.42,GDP per Capita,EUR
+2007,Топличка област,1856.71,GDP per Capita,EUR
+2007,Pomurska,12681.96,GDP per Capita,EUR
+2007,Podravska,16379.76,GDP per Capita,EUR
+2007,Koroska,15341.74,GDP per Capita,EUR
+2007,Savinjska,17345.08,GDP per Capita,EUR
+2007,Zasavska,11926.48,GDP per Capita,EUR
+2007,Posavska,15651.63,GDP per Capita,EUR
+2007,Jugovzhodna Slovenija,19344.8,GDP per Capita,EUR
+2007,Primorsko-notranjska,14492.64,GDP per Capita,EUR
+2007,Osrednjeslovenska,28321.8,GDP per Capita,EUR
+2007,Gorenjska,16540.19,GDP per Capita,EUR
+2007,Goriska,18489.25,GDP per Capita,EUR
+2007,Obalno-kraska,20492.69,GDP per Capita,EUR
+2007,Bjelovarsko-bilogorska županija,7413.27,GDP per Capita,EUR
+2007,Virovitičko-podravska županija,7639.13,GDP per Capita,EUR
+2007,Požeško-slavonska županija,7218.32,GDP per Capita,EUR
+2007,Brodsko-posavska županija,6429.76,GDP per Capita,EUR
+2007,Osječko-baranjska županija,9480.44,GDP per Capita,EUR
+2007,Vukovarsko-srijemska županija,6897.28,GDP per Capita,EUR
+2007,Karlovačka županija,9074.26,GDP per Capita,EUR
+2007,Sisačko-moslavačka županija,7961.08,GDP per Capita,EUR
+2007,Primorsko-goranska zupanija,13380.79,GDP per Capita,EUR
+2007,Licko-senjska zupanija,8866.95,GDP per Capita,EUR
+2007,Zadarska zupanija,9793.48,GDP per Capita,EUR
+2007,Sibensko-kninska zupanija,9206.94,GDP per Capita,EUR
+2007,Splitsko-dalmatinska zupanija,9766.0,GDP per Capita,EUR
+2007,Istarska zupanija,14832.52,GDP per Capita,EUR
+2007,Dubrovacko-neretvanska zupanija,12030.74,GDP per Capita,EUR
+2007,Grad Zagreb,19588.78,GDP per Capita,EUR
+2007,Međimurska županija,8710.01,GDP per Capita,EUR
+2007,Varaždinska županija,9113.47,GDP per Capita,EUR
+2007,Koprivničko-križevačka županija,9883.98,GDP per Capita,EUR
+2007,Krapinsko-zagorska županija,7815.37,GDP per Capita,EUR
+2007,Zagrebačka županija,8606.52,GDP per Capita,EUR
+2007,Crna Gora,5232.46,GDP per Capita,EUR
+2007,Vardarski,3259.74,GDP per Capita,EUR
+2007,Istocen,2873.36,GDP per Capita,EUR
+2007,Jugozapaden,2604.63,GDP per Capita,EUR
+2007,Jugoistocen,3506.76,GDP per Capita,EUR
+2007,Pelagoniski,3703.59,GDP per Capita,EUR
+2007,Poloski,1803.33,GDP per Capita,EUR
+2007,Severoistocen,1851.72,GDP per Capita,EUR
+2007,Skopski,5798.79,GDP per Capita,EUR
+2007,Београдска област,8218.7,GDP per Capita,EUR
+2007,Западнобачка област,3507.88,GDP per Capita,EUR
+2007,Јужнобанатска област,3859.12,GDP per Capita,EUR
+2007,Јужнобачка област,6004.72,GDP per Capita,EUR
+2007,Севернобанатска област,3766.27,GDP per Capita,EUR
+2007,Севернобачка област,3970.66,GDP per Capita,EUR
+2007,Средњобанатска област,4243.83,GDP per Capita,EUR
+2007,Сремска област,3576.1,GDP per Capita,EUR
+2007,Златиборска област,2872.36,GDP per Capita,EUR
+2007,Колубарска област,2893.98,GDP per Capita,EUR
+2007,Мачванска област,2541.22,GDP per Capita,EUR
+2007,Моравичка област,3858.01,GDP per Capita,EUR
+2007,Поморавска област,3261.63,GDP per Capita,EUR
+2007,Расинска област,2849.73,GDP per Capita,EUR
+2007,Рашка област,2620.21,GDP per Capita,EUR
+2007,Шумадијска област,3236.88,GDP per Capita,EUR
+2007,Борска област,2704.09,GDP per Capita,EUR
+2007,Браничевска област,3562.29,GDP per Capita,EUR
+2007,Зајечарска област,2099.8,GDP per Capita,EUR
+2007,Јабланичка област,1807.8,GDP per Capita,EUR
+2007,Нишавска област,3855.15,GDP per Capita,EUR
+2007,Пиротска област,2604.38,GDP per Capita,EUR
+2007,Подунавска област,2042.57,GDP per Capita,EUR
+2007,Пчињска област,2206.42,GDP per Capita,EUR
+2007,Топличка област,1856.71,GDP per Capita,EUR
+2007,Pomurska,12681.96,GDP per Capita,EUR
+2007,Podravska,16379.76,GDP per Capita,EUR
+2007,Koroska,15341.74,GDP per Capita,EUR
+2007,Savinjska,17345.08,GDP per Capita,EUR
+2007,Zasavska,11926.48,GDP per Capita,EUR
+2007,Posavska,15651.63,GDP per Capita,EUR
+2007,Jugovzhodna Slovenija,19344.8,GDP per Capita,EUR
+2007,Primorsko-notranjska,14492.64,GDP per Capita,EUR
+2007,Osrednjeslovenska,28321.8,GDP per Capita,EUR
+2007,Gorenjska,16540.19,GDP per Capita,EUR
+2007,Goriska,18489.25,GDP per Capita,EUR
+2007,Obalno-kraska,20492.69,GDP per Capita,EUR
+2008,Bjelovarsko-bilogorska županija,8266.41,GDP per Capita,EUR
+2008,Virovitičko-podravska županija,7506.59,GDP per Capita,EUR
+2008,Požeško-slavonska županija,7378.38,GDP per Capita,EUR
+2008,Brodsko-posavska županija,6781.37,GDP per Capita,EUR
+2008,Osječko-baranjska županija,9725.85,GDP per Capita,EUR
+2008,Vukovarsko-srijemska županija,7349.68,GDP per Capita,EUR
+2008,Karlovačka županija,9047.72,GDP per Capita,EUR
+2008,Sisačko-moslavačka županija,8575.23,GDP per Capita,EUR
+2008,Primorsko-goranska zupanija,14316.0,GDP per Capita,EUR
+2008,Licko-senjska zupanija,9820.32,GDP per Capita,EUR
+2008,Zadarska zupanija,10159.11,GDP per Capita,EUR
+2008,Sibensko-kninska zupanija,8803.27,GDP per Capita,EUR
+2008,Splitsko-dalmatinska zupanija,9539.39,GDP per Capita,EUR
+2008,Istarska zupanija,14340.9,GDP per Capita,EUR
+2008,Dubrovacko-neretvanska zupanija,11681.28,GDP per Capita,EUR
+2008,Grad Zagreb,19903.93,GDP per Capita,EUR
+2008,Međimurska županija,9436.6,GDP per Capita,EUR
+2008,Varaždinska županija,9655.07,GDP per Capita,EUR
+2008,Koprivničko-križevačka županija,9485.97,GDP per Capita,EUR
+2008,Krapinsko-zagorska županija,7546.62,GDP per Capita,EUR
+2008,Zagrebačka županija,8846.79,GDP per Capita,EUR
+2008,Crna Gora,5598.93,GDP per Capita,EUR
+2008,Vardarski,3417.78,GDP per Capita,EUR
+2008,Istocen,3249.73,GDP per Capita,EUR
+2008,Jugozapaden,3017.88,GDP per Capita,EUR
+2008,Jugoistocen,3351.67,GDP per Capita,EUR
+2008,Pelagoniski,4040.87,GDP per Capita,EUR
+2008,Poloski,1950.37,GDP per Capita,EUR
+2008,Severoistocen,2463.32,GDP per Capita,EUR
+2008,Skopski,5797.66,GDP per Capita,EUR
+2008,Београдска област,8908.94,GDP per Capita,EUR
+2008,Западнобачка област,3758.95,GDP per Capita,EUR
+2008,Јужнобанатска област,4044.63,GDP per Capita,EUR
+2008,Јужнобачка област,6033.51,GDP per Capita,EUR
+2008,Севернобанатска област,3986.94,GDP per Capita,EUR
+2008,Севернобачка област,4135.04,GDP per Capita,EUR
+2008,Средњобанатска област,4472.46,GDP per Capita,EUR
+2008,Сремска област,3741.05,GDP per Capita,EUR
+2008,Златиборска област,2963.18,GDP per Capita,EUR
+2008,Колубарска област,3043.89,GDP per Capita,EUR
+2008,Мачванска област,2845.23,GDP per Capita,EUR
+2008,Моравичка област,4124.8,GDP per Capita,EUR
+2008,Поморавска област,3321.13,GDP per Capita,EUR
+2008,Расинска област,2899.62,GDP per Capita,EUR
+2008,Рашка област,2722.53,GDP per Capita,EUR
+2008,Шумадијска област,3182.84,GDP per Capita,EUR
+2008,Борска област,2890.25,GDP per Capita,EUR
+2008,Браничевска област,3805.07,GDP per Capita,EUR
+2008,Зајечарска област,2402.95,GDP per Capita,EUR
+2008,Јабланичка област,1955.62,GDP per Capita,EUR
+2008,Нишавска област,3992.99,GDP per Capita,EUR
+2008,Пиротска област,2704.18,GDP per Capita,EUR
+2008,Подунавска област,2227.1,GDP per Capita,EUR
+2008,Пчињска област,2273.99,GDP per Capita,EUR
+2008,Топличка област,1977.01,GDP per Capita,EUR
+2008,Pomurska,12965.44,GDP per Capita,EUR
+2008,Podravska,16966.49,GDP per Capita,EUR
+2008,Koroska,15708.01,GDP per Capita,EUR
+2008,Savinjska,18274.4,GDP per Capita,EUR
+2008,Zasavska,12366.33,GDP per Capita,EUR
+2008,Posavska,16265.51,GDP per Capita,EUR
+2008,Jugovzhodna Slovenija,19785.51,GDP per Capita,EUR
+2008,Primorsko-notranjska,14874.47,GDP per Capita,EUR
+2008,Osrednjeslovenska,28778.61,GDP per Capita,EUR
+2008,Gorenjska,16821.64,GDP per Capita,EUR
+2008,Goriska,18974.36,GDP per Capita,EUR
+2008,Obalno-kraska,21272.88,GDP per Capita,EUR
+2008,Bjelovarsko-bilogorska županija,8266.41,GDP per Capita,EUR
+2008,Virovitičko-podravska županija,7506.59,GDP per Capita,EUR
+2008,Požeško-slavonska županija,7378.38,GDP per Capita,EUR
+2008,Brodsko-posavska županija,6781.37,GDP per Capita,EUR
+2008,Osječko-baranjska županija,9725.85,GDP per Capita,EUR
+2008,Vukovarsko-srijemska županija,7349.68,GDP per Capita,EUR
+2008,Karlovačka županija,9047.72,GDP per Capita,EUR
+2008,Sisačko-moslavačka županija,8575.23,GDP per Capita,EUR
+2008,Primorsko-goranska zupanija,14316.0,GDP per Capita,EUR
+2008,Licko-senjska zupanija,9820.32,GDP per Capita,EUR
+2008,Zadarska zupanija,10159.11,GDP per Capita,EUR
+2008,Sibensko-kninska zupanija,8803.27,GDP per Capita,EUR
+2008,Splitsko-dalmatinska zupanija,9539.39,GDP per Capita,EUR
+2008,Istarska zupanija,14340.9,GDP per Capita,EUR
+2008,Dubrovacko-neretvanska zupanija,11681.28,GDP per Capita,EUR
+2008,Grad Zagreb,19903.93,GDP per Capita,EUR
+2008,Međimurska županija,9436.6,GDP per Capita,EUR
+2008,Varaždinska županija,9655.07,GDP per Capita,EUR
+2008,Koprivničko-križevačka županija,9485.97,GDP per Capita,EUR
+2008,Krapinsko-zagorska županija,7546.62,GDP per Capita,EUR
+2008,Zagrebačka županija,8846.79,GDP per Capita,EUR
+2008,Crna Gora,5598.93,GDP per Capita,EUR
+2008,Vardarski,3417.78,GDP per Capita,EUR
+2008,Istocen,3249.73,GDP per Capita,EUR
+2008,Jugozapaden,3017.88,GDP per Capita,EUR
+2008,Jugoistocen,3351.67,GDP per Capita,EUR
+2008,Pelagoniski,4040.87,GDP per Capita,EUR
+2008,Poloski,1950.37,GDP per Capita,EUR
+2008,Severoistocen,2463.32,GDP per Capita,EUR
+2008,Skopski,5797.66,GDP per Capita,EUR
+2008,Београдска област,8908.94,GDP per Capita,EUR
+2008,Западнобачка област,3758.95,GDP per Capita,EUR
+2008,Јужнобанатска област,4044.63,GDP per Capita,EUR
+2008,Јужнобачка област,6033.51,GDP per Capita,EUR
+2008,Севернобанатска област,3986.94,GDP per Capita,EUR
+2008,Севернобачка област,4135.04,GDP per Capita,EUR
+2008,Средњобанатска област,4472.46,GDP per Capita,EUR
+2008,Сремска област,3741.05,GDP per Capita,EUR
+2008,Златиборска област,2963.18,GDP per Capita,EUR
+2008,Колубарска област,3043.89,GDP per Capita,EUR
+2008,Мачванска област,2845.23,GDP per Capita,EUR
+2008,Моравичка област,4124.8,GDP per Capita,EUR
+2008,Поморавска област,3321.13,GDP per Capita,EUR
+2008,Расинска област,2899.62,GDP per Capita,EUR
+2008,Рашка област,2722.53,GDP per Capita,EUR
+2008,Шумадијска област,3182.84,GDP per Capita,EUR
+2008,Борска област,2890.25,GDP per Capita,EUR
+2008,Браничевска област,3805.07,GDP per Capita,EUR
+2008,Зајечарска област,2402.95,GDP per Capita,EUR
+2008,Јабланичка област,1955.62,GDP per Capita,EUR
+2008,Нишавска област,3992.99,GDP per Capita,EUR
+2008,Пиротска област,2704.18,GDP per Capita,EUR
+2008,Подунавска област,2227.1,GDP per Capita,EUR
+2008,Пчињска област,2273.99,GDP per Capita,EUR
+2008,Топличка област,1977.01,GDP per Capita,EUR
+2008,Pomurska,12965.44,GDP per Capita,EUR
+2008,Podravska,16966.49,GDP per Capita,EUR
+2008,Koroska,15708.01,GDP per Capita,EUR
+2008,Savinjska,18274.4,GDP per Capita,EUR
+2008,Zasavska,12366.33,GDP per Capita,EUR
+2008,Posavska,16265.51,GDP per Capita,EUR
+2008,Jugovzhodna Slovenija,19785.51,GDP per Capita,EUR
+2008,Primorsko-notranjska,14874.47,GDP per Capita,EUR
+2008,Osrednjeslovenska,28778.61,GDP per Capita,EUR
+2008,Gorenjska,16821.64,GDP per Capita,EUR
+2008,Goriska,18974.36,GDP per Capita,EUR
+2008,Obalno-kraska,21272.88,GDP per Capita,EUR
+2009,Bjelovarsko-bilogorska županija,7860.48,GDP per Capita,EUR
+2009,Virovitičko-podravska županija,6621.9,GDP per Capita,EUR
+2009,Požeško-slavonska županija,6668.34,GDP per Capita,EUR
+2009,Brodsko-posavska županija,6194.71,GDP per Capita,EUR
+2009,Osječko-baranjska županija,8976.69,GDP per Capita,EUR
+2009,Vukovarsko-srijemska županija,6732.1,GDP per Capita,EUR
+2009,Karlovačka županija,8129.43,GDP per Capita,EUR
+2009,Sisačko-moslavačka županija,8569.41,GDP per Capita,EUR
+2009,Primorsko-goranska zupanija,13322.68,GDP per Capita,EUR
+2009,Licko-senjska zupanija,8771.06,GDP per Capita,EUR
+2009,Zadarska zupanija,9134.3,GDP per Capita,EUR
+2009,Sibensko-kninska zupanija,7535.49,GDP per Capita,EUR
+2009,Splitsko-dalmatinska zupanija,8713.13,GDP per Capita,EUR
+2009,Istarska zupanija,13748.14,GDP per Capita,EUR
+2009,Dubrovacko-neretvanska zupanija,10797.58,GDP per Capita,EUR
+2009,Grad Zagreb,18509.41,GDP per Capita,EUR
+2009,Međimurska županija,8815.57,GDP per Capita,EUR
+2009,Varaždinska županija,9067.57,GDP per Capita,EUR
+2009,Koprivničko-križevačka županija,8785.65,GDP per Capita,EUR
+2009,Krapinsko-zagorska županija,6676.37,GDP per Capita,EUR
+2009,Zagrebačka županija,8337.29,GDP per Capita,EUR
+2009,Crna Gora,5257.89,GDP per Capita,EUR
+2009,Vardarski,3474.05,GDP per Capita,EUR
+2009,Istocen,3326.05,GDP per Capita,EUR
+2009,Jugozapaden,2662.38,GDP per Capita,EUR
+2009,Jugoistocen,3672.31,GDP per Capita,EUR
+2009,Pelagoniski,4063.29,GDP per Capita,EUR
+2009,Poloski,1917.73,GDP per Capita,EUR
+2009,Severoistocen,2123.15,GDP per Capita,EUR
+2009,Skopski,5830.16,GDP per Capita,EUR
+2009,Београдска област,8486.02,GDP per Capita,EUR
+2009,Западнобачка област,3441.44,GDP per Capita,EUR
+2009,Јужнобанатска област,3751.29,GDP per Capita,EUR
+2009,Јужнобачка област,5754.35,GDP per Capita,EUR
+2009,Севернобанатска област,3692.43,GDP per Capita,EUR
+2009,Севернобачка област,3924.11,GDP per Capita,EUR
+2009,Средњобанатска област,4125.47,GDP per Capita,EUR
+2009,Сремска област,3528.58,GDP per Capita,EUR
+2009,Златиборска област,3227.69,GDP per Capita,EUR
+2009,Колубарска област,3430.7,GDP per Capita,EUR
+2009,Мачванска област,2923.7,GDP per Capita,EUR
+2009,Моравичка област,3932.19,GDP per Capita,EUR
+2009,Поморавска област,3412.01,GDP per Capita,EUR
+2009,Расинска област,2883.04,GDP per Capita,EUR
+2009,Рашка област,2811.77,GDP per Capita,EUR
+2009,Шумадијска област,3175.42,GDP per Capita,EUR
+2009,Борска област,3214.31,GDP per Capita,EUR
+2009,Браничевска област,4171.45,GDP per Capita,EUR
+2009,Зајечарска област,2374.22,GDP per Capita,EUR
+2009,Јабланичка област,2021.76,GDP per Capita,EUR
+2009,Нишавска област,3909.56,GDP per Capita,EUR
+2009,Пиротска област,3204.67,GDP per Capita,EUR
+2009,Подунавска област,2142.51,GDP per Capita,EUR
+2009,Пчињска област,2196.1,GDP per Capita,EUR
+2009,Топличка област,2163.48,GDP per Capita,EUR
+2009,Pomurska,11978.27,GDP per Capita,EUR
+2009,Podravska,15470.9,GDP per Capita,EUR
+2009,Koroska,13829.14,GDP per Capita,EUR
+2009,Savinjska,16501.79,GDP per Capita,EUR
+2009,Zasavska,11243.26,GDP per Capita,EUR
+2009,Posavska,15098.68,GDP per Capita,EUR
+2009,Jugovzhodna Slovenija,17671.44,GDP per Capita,EUR
+2009,Primorsko-notranjska,13649.09,GDP per Capita,EUR
+2009,Osrednjeslovenska,26774.35,GDP per Capita,EUR
+2009,Gorenjska,14823.62,GDP per Capita,EUR
+2009,Goriska,17203.83,GDP per Capita,EUR
+2009,Obalno-kraska,19688.61,GDP per Capita,EUR
+2009,Bjelovarsko-bilogorska županija,7860.48,GDP per Capita,EUR
+2009,Virovitičko-podravska županija,6621.9,GDP per Capita,EUR
+2009,Požeško-slavonska županija,6668.34,GDP per Capita,EUR
+2009,Brodsko-posavska županija,6194.71,GDP per Capita,EUR
+2009,Osječko-baranjska županija,8976.69,GDP per Capita,EUR
+2009,Vukovarsko-srijemska županija,6732.1,GDP per Capita,EUR
+2009,Karlovačka županija,8129.43,GDP per Capita,EUR
+2009,Sisačko-moslavačka županija,8569.41,GDP per Capita,EUR
+2009,Primorsko-goranska zupanija,13322.68,GDP per Capita,EUR
+2009,Licko-senjska zupanija,8771.06,GDP per Capita,EUR
+2009,Zadarska zupanija,9134.3,GDP per Capita,EUR
+2009,Sibensko-kninska zupanija,7535.49,GDP per Capita,EUR
+2009,Splitsko-dalmatinska zupanija,8713.13,GDP per Capita,EUR
+2009,Istarska zupanija,13748.14,GDP per Capita,EUR
+2009,Dubrovacko-neretvanska zupanija,10797.58,GDP per Capita,EUR
+2009,Grad Zagreb,18509.41,GDP per Capita,EUR
+2009,Međimurska županija,8815.57,GDP per Capita,EUR
+2009,Varaždinska županija,9067.57,GDP per Capita,EUR
+2009,Koprivničko-križevačka županija,8785.65,GDP per Capita,EUR
+2009,Krapinsko-zagorska županija,6676.37,GDP per Capita,EUR
+2009,Zagrebačka županija,8337.29,GDP per Capita,EUR
+2009,Crna Gora,5257.89,GDP per Capita,EUR
+2009,Vardarski,3474.05,GDP per Capita,EUR
+2009,Istocen,3326.05,GDP per Capita,EUR
+2009,Jugozapaden,2662.38,GDP per Capita,EUR
+2009,Jugoistocen,3672.31,GDP per Capita,EUR
+2009,Pelagoniski,4063.29,GDP per Capita,EUR
+2009,Poloski,1917.73,GDP per Capita,EUR
+2009,Severoistocen,2123.15,GDP per Capita,EUR
+2009,Skopski,5830.16,GDP per Capita,EUR
+2009,Београдска област,8486.02,GDP per Capita,EUR
+2009,Западнобачка област,3441.44,GDP per Capita,EUR
+2009,Јужнобанатска област,3751.29,GDP per Capita,EUR
+2009,Јужнобачка област,5754.35,GDP per Capita,EUR
+2009,Севернобанатска област,3692.43,GDP per Capita,EUR
+2009,Севернобачка област,3924.11,GDP per Capita,EUR
+2009,Средњобанатска област,4125.47,GDP per Capita,EUR
+2009,Сремска област,3528.58,GDP per Capita,EUR
+2009,Златиборска област,3227.69,GDP per Capita,EUR
+2009,Колубарска област,3430.7,GDP per Capita,EUR
+2009,Мачванска област,2923.7,GDP per Capita,EUR
+2009,Моравичка област,3932.19,GDP per Capita,EUR
+2009,Поморавска област,3412.01,GDP per Capita,EUR
+2009,Расинска област,2883.04,GDP per Capita,EUR
+2009,Рашка област,2811.77,GDP per Capita,EUR
+2009,Шумадијска област,3175.42,GDP per Capita,EUR
+2009,Борска област,3214.31,GDP per Capita,EUR
+2009,Браничевска област,4171.45,GDP per Capita,EUR
+2009,Зајечарска област,2374.22,GDP per Capita,EUR
+2009,Јабланичка област,2021.76,GDP per Capita,EUR
+2009,Нишавска област,3909.56,GDP per Capita,EUR
+2009,Пиротска област,3204.67,GDP per Capita,EUR
+2009,Подунавска област,2142.51,GDP per Capita,EUR
+2009,Пчињска област,2196.1,GDP per Capita,EUR
+2009,Топличка област,2163.48,GDP per Capita,EUR
+2009,Pomurska,11978.27,GDP per Capita,EUR
+2009,Podravska,15470.9,GDP per Capita,EUR
+2009,Koroska,13829.14,GDP per Capita,EUR
+2009,Savinjska,16501.79,GDP per Capita,EUR
+2009,Zasavska,11243.26,GDP per Capita,EUR
+2009,Posavska,15098.68,GDP per Capita,EUR
+2009,Jugovzhodna Slovenija,17671.44,GDP per Capita,EUR
+2009,Primorsko-notranjska,13649.09,GDP per Capita,EUR
+2009,Osrednjeslovenska,26774.35,GDP per Capita,EUR
+2009,Gorenjska,14823.62,GDP per Capita,EUR
+2009,Goriska,17203.83,GDP per Capita,EUR
+2009,Obalno-kraska,19688.61,GDP per Capita,EUR
+2010,Bjelovarsko-bilogorska županija,7108.42,GDP per Capita,EUR
+2010,Virovitičko-podravska županija,6194.99,GDP per Capita,EUR
+2010,Požeško-slavonska županija,6507.43,GDP per Capita,EUR
+2010,Brodsko-posavska županija,5870.11,GDP per Capita,EUR
+2010,Osječko-baranjska županija,8437.54,GDP per Capita,EUR
+2010,Vukovarsko-srijemska županija,6257.73,GDP per Capita,EUR
+2010,Karlovačka županija,7849.61,GDP per Capita,EUR
+2010,Sisačko-moslavačka županija,8557.18,GDP per Capita,EUR
+2010,Primorsko-goranska zupanija,13045.26,GDP per Capita,EUR
+2010,Licko-senjska zupanija,8205.33,GDP per Capita,EUR
+2010,Zadarska zupanija,8482.35,GDP per Capita,EUR
+2010,Sibensko-kninska zupanija,8039.16,GDP per Capita,EUR
+2010,Splitsko-dalmatinska zupanija,8476.11,GDP per Capita,EUR
+2010,Istarska zupanija,13449.07,GDP per Capita,EUR
+2010,Dubrovacko-neretvanska zupanija,10396.9,GDP per Capita,EUR
+2010,Grad Zagreb,19464.7,GDP per Capita,EUR
+2010,Međimurska županija,8331.28,GDP per Capita,EUR
+2010,Varaždinska županija,8508.73,GDP per Capita,EUR
+2010,Koprivničko-križevačka županija,8205.3,GDP per Capita,EUR
+2010,Krapinsko-zagorska županija,6181.98,GDP per Capita,EUR
+2010,Zagrebačka županija,7748.65,GDP per Capita,EUR
+2010,Crna Gora,5391.73,GDP per Capita,EUR
+2010,Vardarski,3733.94,GDP per Capita,EUR
+2010,Istocen,3870.48,GDP per Capita,EUR
+2010,Jugozapaden,2969.06,GDP per Capita,EUR
+2010,Jugoistocen,4164.67,GDP per Capita,EUR
+2010,Pelagoniski,4155.7,GDP per Capita,EUR
+2010,Poloski,1968.53,GDP per Capita,EUR
+2010,Severoistocen,2170.88,GDP per Capita,EUR
+2010,Skopski,5671.02,GDP per Capita,EUR
+2010,Београдска област,8510.25,GDP per Capita,EUR
+2010,Западнобачка област,3515.07,GDP per Capita,EUR
+2010,Јужнобанатска област,3825.91,GDP per Capita,EUR
+2010,Јужнобачка област,5896.66,GDP per Capita,EUR
+2010,Севернобанатска област,3779.42,GDP per Capita,EUR
+2010,Севернобачка област,4016.56,GDP per Capita,EUR
+2010,Средњобанатска област,4227.33,GDP per Capita,EUR
+2010,Сремска област,3615.57,GDP per Capita,EUR
+2010,Златиборска област,3246.07,GDP per Capita,EUR
+2010,Колубарска област,3393.05,GDP per Capita,EUR
+2010,Мачванска област,3090.76,GDP per Capita,EUR
+2010,Моравичка област,3930.64,GDP per Capita,EUR
+2010,Поморавска област,3322.08,GDP per Capita,EUR
+2010,Расинска област,2922.74,GDP per Capita,EUR
+2010,Рашка област,2705.01,GDP per Capita,EUR
+2010,Шумадијска област,3169.11,GDP per Capita,EUR
+2010,Борска област,4010.76,GDP per Capita,EUR
+2010,Браничевска област,4150.3,GDP per Capita,EUR
+2010,Зајечарска област,2312.21,GDP per Capita,EUR
+2010,Јабланичка област,2032.82,GDP per Capita,EUR
+2010,Нишавска област,3816.44,GDP per Capita,EUR
+2010,Пиротска област,3425.67,GDP per Capita,EUR
+2010,Подунавска област,2345.58,GDP per Capita,EUR
+2010,Пчињска област,2166.63,GDP per Capita,EUR
+2010,Топличка област,2088.55,GDP per Capita,EUR
+2010,Pomurska,12080.12,GDP per Capita,EUR
+2010,Podravska,15528.06,GDP per Capita,EUR
+2010,Koroska,14008.25,GDP per Capita,EUR
+2010,Savinjska,17054.31,GDP per Capita,EUR
+2010,Zasavska,11495.78,GDP per Capita,EUR
+2010,Posavska,15305.02,GDP per Capita,EUR
+2010,Jugovzhodna Slovenija,18000.42,GDP per Capita,EUR
+2010,Primorsko-notranjska,13376.72,GDP per Capita,EUR
+2010,Osrednjeslovenska,26680.02,GDP per Capita,EUR
+2010,Gorenjska,15199.11,GDP per Capita,EUR
+2010,Goriska,17212.43,GDP per Capita,EUR
+2010,Obalno-kraska,19944.0,GDP per Capita,EUR
+2010,Bjelovarsko-bilogorska županija,7108.42,GDP per Capita,EUR
+2010,Virovitičko-podravska županija,6194.99,GDP per Capita,EUR
+2010,Požeško-slavonska županija,6507.43,GDP per Capita,EUR
+2010,Brodsko-posavska županija,5870.11,GDP per Capita,EUR
+2010,Osječko-baranjska županija,8437.54,GDP per Capita,EUR
+2010,Vukovarsko-srijemska županija,6257.73,GDP per Capita,EUR
+2010,Karlovačka županija,7849.61,GDP per Capita,EUR
+2010,Sisačko-moslavačka županija,8557.18,GDP per Capita,EUR
+2010,Primorsko-goranska zupanija,13045.26,GDP per Capita,EUR
+2010,Licko-senjska zupanija,8205.33,GDP per Capita,EUR
+2010,Zadarska zupanija,8482.35,GDP per Capita,EUR
+2010,Sibensko-kninska zupanija,8039.16,GDP per Capita,EUR
+2010,Splitsko-dalmatinska zupanija,8476.11,GDP per Capita,EUR
+2010,Istarska zupanija,13449.07,GDP per Capita,EUR
+2010,Dubrovacko-neretvanska zupanija,10396.9,GDP per Capita,EUR
+2010,Grad Zagreb,19464.7,GDP per Capita,EUR
+2010,Međimurska županija,8331.28,GDP per Capita,EUR
+2010,Varaždinska županija,8508.73,GDP per Capita,EUR
+2010,Koprivničko-križevačka županija,8205.3,GDP per Capita,EUR
+2010,Krapinsko-zagorska županija,6181.98,GDP per Capita,EUR
+2010,Zagrebačka županija,7748.65,GDP per Capita,EUR
+2010,Crna Gora,5391.73,GDP per Capita,EUR
+2010,Vardarski,3733.94,GDP per Capita,EUR
+2010,Istocen,3870.48,GDP per Capita,EUR
+2010,Jugozapaden,2969.06,GDP per Capita,EUR
+2010,Jugoistocen,4164.67,GDP per Capita,EUR
+2010,Pelagoniski,4155.7,GDP per Capita,EUR
+2010,Poloski,1968.53,GDP per Capita,EUR
+2010,Severoistocen,2170.88,GDP per Capita,EUR
+2010,Skopski,5671.02,GDP per Capita,EUR
+2010,Београдска област,8510.25,GDP per Capita,EUR
+2010,Западнобачка област,3515.07,GDP per Capita,EUR
+2010,Јужнобанатска област,3825.91,GDP per Capita,EUR
+2010,Јужнобачка област,5896.66,GDP per Capita,EUR
+2010,Севернобанатска област,3779.42,GDP per Capita,EUR
+2010,Севернобачка област,4016.56,GDP per Capita,EUR
+2010,Средњобанатска област,4227.33,GDP per Capita,EUR
+2010,Сремска област,3615.57,GDP per Capita,EUR
+2010,Златиборска област,3246.07,GDP per Capita,EUR
+2010,Колубарска област,3393.05,GDP per Capita,EUR
+2010,Мачванска област,3090.76,GDP per Capita,EUR
+2010,Моравичка област,3930.64,GDP per Capita,EUR
+2010,Поморавска област,3322.08,GDP per Capita,EUR
+2010,Расинска област,2922.74,GDP per Capita,EUR
+2010,Рашка област,2705.01,GDP per Capita,EUR
+2010,Шумадијска област,3169.11,GDP per Capita,EUR
+2010,Борска област,4010.76,GDP per Capita,EUR
+2010,Браничевска област,4150.3,GDP per Capita,EUR
+2010,Зајечарска област,2312.21,GDP per Capita,EUR
+2010,Јабланичка област,2032.82,GDP per Capita,EUR
+2010,Нишавска област,3816.44,GDP per Capita,EUR
+2010,Пиротска област,3425.67,GDP per Capita,EUR
+2010,Подунавска област,2345.58,GDP per Capita,EUR
+2010,Пчињска област,2166.63,GDP per Capita,EUR
+2010,Топличка област,2088.55,GDP per Capita,EUR
+2010,Pomurska,12080.12,GDP per Capita,EUR
+2010,Podravska,15528.06,GDP per Capita,EUR
+2010,Koroska,14008.25,GDP per Capita,EUR
+2010,Savinjska,17054.31,GDP per Capita,EUR
+2010,Zasavska,11495.78,GDP per Capita,EUR
+2010,Posavska,15305.02,GDP per Capita,EUR
+2010,Jugovzhodna Slovenija,18000.42,GDP per Capita,EUR
+2010,Primorsko-notranjska,13376.72,GDP per Capita,EUR
+2010,Osrednjeslovenska,26680.02,GDP per Capita,EUR
+2010,Gorenjska,15199.11,GDP per Capita,EUR
+2010,Goriska,17212.43,GDP per Capita,EUR
+2010,Obalno-kraska,19944.0,GDP per Capita,EUR
+2011,Bjelovarsko-bilogorska županija,7081.14,GDP per Capita,EUR
+2011,Virovitičko-podravska županija,6363.1,GDP per Capita,EUR
+2011,Požeško-slavonska županija,6408.64,GDP per Capita,EUR
+2011,Brodsko-posavska županija,5931.68,GDP per Capita,EUR
+2011,Osječko-baranjska županija,8464.49,GDP per Capita,EUR
+2011,Vukovarsko-srijemska županija,6329.24,GDP per Capita,EUR
+2011,Karlovačka županija,8005.29,GDP per Capita,EUR
+2011,Sisačko-moslavačka županija,8598.1,GDP per Capita,EUR
+2011,Primorsko-goranska zupanija,13316.9,GDP per Capita,EUR
+2011,Licko-senjska zupanija,8169.63,GDP per Capita,EUR
+2011,Zadarska zupanija,8282.38,GDP per Capita,EUR
+2011,Sibensko-kninska zupanija,8067.71,GDP per Capita,EUR
+2011,Splitsko-dalmatinska zupanija,8236.44,GDP per Capita,EUR
+2011,Istarska zupanija,13366.01,GDP per Capita,EUR
+2011,Dubrovacko-neretvanska zupanija,10079.95,GDP per Capita,EUR
+2011,Grad Zagreb,19466.49,GDP per Capita,EUR
+2011,Međimurska županija,8443.49,GDP per Capita,EUR
+2011,Varaždinska županija,8533.89,GDP per Capita,EUR
+2011,Koprivničko-križevačka županija,8215.99,GDP per Capita,EUR
+2011,Krapinsko-zagorska županija,6301.35,GDP per Capita,EUR
+2011,Zagrebačka županija,7963.18,GDP per Capita,EUR
+2011,Crna Gora,5559.93,GDP per Capita,EUR
+2011,Vardarski,3909.71,GDP per Capita,EUR
+2011,Istocen,3978.53,GDP per Capita,EUR
+2011,Jugozapaden,3093.24,GDP per Capita,EUR
+2011,Jugoistocen,4456.99,GDP per Capita,EUR
+2011,Pelagoniski,3978.96,GDP per Capita,EUR
+2011,Poloski,2022.69,GDP per Capita,EUR
+2011,Severoistocen,2588.62,GDP per Capita,EUR
+2011,Skopski,5666.78,GDP per Capita,EUR
+2011,Београдска област,8456.32,GDP per Capita,EUR
+2011,Западнобачка област,3869.3,GDP per Capita,EUR
+2011,Јужнобанатска област,4110.87,GDP per Capita,EUR
+2011,Јужнобачка област,6154.97,GDP per Capita,EUR
+2011,Севернобанатска област,4120.01,GDP per Capita,EUR
+2011,Севернобачка област,4237.21,GDP per Capita,EUR
+2011,Средњобанатска област,4617.14,GDP per Capita,EUR
+2011,Сремска област,3847.72,GDP per Capita,EUR
+2011,Златиборска област,3578.08,GDP per Capita,EUR
+2011,Колубарска област,3584.92,GDP per Capita,EUR
+2011,Мачванска област,3490.56,GDP per Capita,EUR
+2011,Моравичка област,3720.33,GDP per Capita,EUR
+2011,Поморавска област,3294.08,GDP per Capita,EUR
+2011,Расинска област,2995.87,GDP per Capita,EUR
+2011,Рашка област,2544.91,GDP per Capita,EUR
+2011,Шумадијска област,3294.94,GDP per Capita,EUR
+2011,Борска област,4803.26,GDP per Capita,EUR
+2011,Браничевска област,3958.45,GDP per Capita,EUR
+2011,Зајечарска област,2822.33,GDP per Capita,EUR
+2011,Јабланичка област,2317.39,GDP per Capita,EUR
+2011,Нишавска област,3349.36,GDP per Capita,EUR
+2011,Пиротска област,3665.91,GDP per Capita,EUR
+2011,Подунавска област,2597.49,GDP per Capita,EUR
+2011,Пчињска област,2296.78,GDP per Capita,EUR
+2011,Топличка област,2604.81,GDP per Capita,EUR
+2011,Pomurska,12466.22,GDP per Capita,EUR
+2011,Podravska,15676.99,GDP per Capita,EUR
+2011,Koroska,14544.33,GDP per Capita,EUR
+2011,Savinjska,17346.89,GDP per Capita,EUR
+2011,Zasavska,11424.46,GDP per Capita,EUR
+2011,Posavska,15582.89,GDP per Capita,EUR
+2011,Jugovzhodna Slovenija,18006.03,GDP per Capita,EUR
+2011,Primorsko-notranjska,13311.08,GDP per Capita,EUR
+2011,Osrednjeslovenska,26711.93,GDP per Capita,EUR
+2011,Gorenjska,15388.24,GDP per Capita,EUR
+2011,Goriska,17105.22,GDP per Capita,EUR
+2011,Obalno-kraska,19641.67,GDP per Capita,EUR
+2011,Bjelovarsko-bilogorska županija,7081.14,GDP per Capita,EUR
+2011,Virovitičko-podravska županija,6363.1,GDP per Capita,EUR
+2011,Požeško-slavonska županija,6408.64,GDP per Capita,EUR
+2011,Brodsko-posavska županija,5931.68,GDP per Capita,EUR
+2011,Osječko-baranjska županija,8464.49,GDP per Capita,EUR
+2011,Vukovarsko-srijemska županija,6329.24,GDP per Capita,EUR
+2011,Karlovačka županija,8005.29,GDP per Capita,EUR
+2011,Sisačko-moslavačka županija,8598.1,GDP per Capita,EUR
+2011,Primorsko-goranska zupanija,13316.9,GDP per Capita,EUR
+2011,Licko-senjska zupanija,8169.63,GDP per Capita,EUR
+2011,Zadarska zupanija,8282.38,GDP per Capita,EUR
+2011,Sibensko-kninska zupanija,8067.71,GDP per Capita,EUR
+2011,Splitsko-dalmatinska zupanija,8236.44,GDP per Capita,EUR
+2011,Istarska zupanija,13366.01,GDP per Capita,EUR
+2011,Dubrovacko-neretvanska zupanija,10079.95,GDP per Capita,EUR
+2011,Grad Zagreb,19466.49,GDP per Capita,EUR
+2011,Međimurska županija,8443.49,GDP per Capita,EUR
+2011,Varaždinska županija,8533.89,GDP per Capita,EUR
+2011,Koprivničko-križevačka županija,8215.99,GDP per Capita,EUR
+2011,Krapinsko-zagorska županija,6301.35,GDP per Capita,EUR
+2011,Zagrebačka županija,7963.18,GDP per Capita,EUR
+2011,Crna Gora,5559.93,GDP per Capita,EUR
+2011,Vardarski,3909.71,GDP per Capita,EUR
+2011,Istocen,3978.53,GDP per Capita,EUR
+2011,Jugozapaden,3093.24,GDP per Capita,EUR
+2011,Jugoistocen,4456.99,GDP per Capita,EUR
+2011,Pelagoniski,3978.96,GDP per Capita,EUR
+2011,Poloski,2022.69,GDP per Capita,EUR
+2011,Severoistocen,2588.62,GDP per Capita,EUR
+2011,Skopski,5666.78,GDP per Capita,EUR
+2011,Београдска област,8456.32,GDP per Capita,EUR
+2011,Западнобачка област,3869.3,GDP per Capita,EUR
+2011,Јужнобанатска област,4110.87,GDP per Capita,EUR
+2011,Јужнобачка област,6154.97,GDP per Capita,EUR
+2011,Севернобанатска област,4120.01,GDP per Capita,EUR
+2011,Севернобачка област,4237.21,GDP per Capita,EUR
+2011,Средњобанатска област,4617.14,GDP per Capita,EUR
+2011,Сремска област,3847.72,GDP per Capita,EUR
+2011,Златиборска област,3578.08,GDP per Capita,EUR
+2011,Колубарска област,3584.92,GDP per Capita,EUR
+2011,Мачванска област,3490.56,GDP per Capita,EUR
+2011,Моравичка област,3720.33,GDP per Capita,EUR
+2011,Поморавска област,3294.08,GDP per Capita,EUR
+2011,Расинска област,2995.87,GDP per Capita,EUR
+2011,Рашка област,2544.91,GDP per Capita,EUR
+2011,Шумадијска област,3294.94,GDP per Capita,EUR
+2011,Борска област,4803.26,GDP per Capita,EUR
+2011,Браничевска област,3958.45,GDP per Capita,EUR
+2011,Зајечарска област,2822.33,GDP per Capita,EUR
+2011,Јабланичка област,2317.39,GDP per Capita,EUR
+2011,Нишавска област,3349.36,GDP per Capita,EUR
+2011,Пиротска област,3665.91,GDP per Capita,EUR
+2011,Подунавска област,2597.49,GDP per Capita,EUR
+2011,Пчињска област,2296.78,GDP per Capita,EUR
+2011,Топличка област,2604.81,GDP per Capita,EUR
+2011,Pomurska,12466.22,GDP per Capita,EUR
+2011,Podravska,15676.99,GDP per Capita,EUR
+2011,Koroska,14544.33,GDP per Capita,EUR
+2011,Savinjska,17346.89,GDP per Capita,EUR
+2011,Zasavska,11424.46,GDP per Capita,EUR
+2011,Posavska,15582.89,GDP per Capita,EUR
+2011,Jugovzhodna Slovenija,18006.03,GDP per Capita,EUR
+2011,Primorsko-notranjska,13311.08,GDP per Capita,EUR
+2011,Osrednjeslovenska,26711.93,GDP per Capita,EUR
+2011,Gorenjska,15388.24,GDP per Capita,EUR
+2011,Goriska,17105.22,GDP per Capita,EUR
+2011,Obalno-kraska,19641.67,GDP per Capita,EUR
+2012,Bjelovarsko-bilogorska županija,6757.53,GDP per Capita,EUR
+2012,Virovitičko-podravska županija,6088.72,GDP per Capita,EUR
+2012,Požeško-slavonska županija,6085.26,GDP per Capita,EUR
+2012,Brodsko-posavska županija,5762.07,GDP per Capita,EUR
+2012,Osječko-baranjska županija,8126.21,GDP per Capita,EUR
+2012,Vukovarsko-srijemska županija,6021.96,GDP per Capita,EUR
+2012,Karlovačka županija,7752.76,GDP per Capita,EUR
+2012,Sisačko-moslavačka županija,8617.64,GDP per Capita,EUR
+2012,Primorsko-goranska zupanija,13576.23,GDP per Capita,EUR
+2012,Licko-senjska zupanija,7806.49,GDP per Capita,EUR
+2012,Zadarska zupanija,8098.55,GDP per Capita,EUR
+2012,Sibensko-kninska zupanija,7912.64,GDP per Capita,EUR
+2012,Splitsko-dalmatinska zupanija,7972.46,GDP per Capita,EUR
+2012,Istarska zupanija,12760.37,GDP per Capita,EUR
+2012,Dubrovacko-neretvanska zupanija,9972.24,GDP per Capita,EUR
+2012,Grad Zagreb,19202.13,GDP per Capita,EUR
+2012,Međimurska županija,8231.83,GDP per Capita,EUR
+2012,Varaždinska županija,8307.27,GDP per Capita,EUR
+2012,Koprivničko-križevačka županija,7972.31,GDP per Capita,EUR
+2012,Krapinsko-zagorska županija,6164.76,GDP per Capita,EUR
+2012,Zagrebačka županija,7831.54,GDP per Capita,EUR
+2012,Crna Gora,5403.96,GDP per Capita,EUR
+2012,Vardarski,4141.64,GDP per Capita,EUR
+2012,Istocen,3783.78,GDP per Capita,EUR
+2012,Jugozapaden,2991.8,GDP per Capita,EUR
+2012,Jugoistocen,4427.01,GDP per Capita,EUR
+2012,Pelagoniski,3833.67,GDP per Capita,EUR
+2012,Poloski,1884.52,GDP per Capita,EUR
+2012,Severoistocen,2581.48,GDP per Capita,EUR
+2012,Skopski,5755.99,GDP per Capita,EUR
+2012,Београдска област,8506.24,GDP per Capita,EUR
+2012,Западнобачка област,3869.76,GDP per Capita,EUR
+2012,Јужнобанатска област,4145.31,GDP per Capita,EUR
+2012,Јужнобачка област,6274.37,GDP per Capita,EUR
+2012,Севернобанатска област,4147.61,GDP per Capita,EUR
+2012,Севернобачка област,4304.09,GDP per Capita,EUR
+2012,Средњобанатска област,4642.59,GDP per Capita,EUR
+2012,Сремска област,3892.99,GDP per Capita,EUR
+2012,Златиборска област,3392.79,GDP per Capita,EUR
+2012,Колубарска област,3411.7,GDP per Capita,EUR
+2012,Мачванска област,2985.23,GDP per Capita,EUR
+2012,Моравичка област,3904.0,GDP per Capita,EUR
+2012,Поморавска област,3216.01,GDP per Capita,EUR
+2012,Расинска област,2850.71,GDP per Capita,EUR
+2012,Рашка област,2419.34,GDP per Capita,EUR
+2012,Шумадијска област,3761.81,GDP per Capita,EUR
+2012,Борска област,4715.26,GDP per Capita,EUR
+2012,Браничевска област,3759.01,GDP per Capita,EUR
+2012,Зајечарска област,2619.93,GDP per Capita,EUR
+2012,Јабланичка област,2228.97,GDP per Capita,EUR
+2012,Нишавска област,3353.63,GDP per Capita,EUR
+2012,Пиротска област,3577.06,GDP per Capita,EUR
+2012,Подунавска област,2340.37,GDP per Capita,EUR
+2012,Пчињска област,2218.32,GDP per Capita,EUR
+2012,Топличка област,2457.28,GDP per Capita,EUR
+2012,Pomurska,12252.95,GDP per Capita,EUR
+2012,Podravska,15149.33,GDP per Capita,EUR
+2012,Koroska,14472.88,GDP per Capita,EUR
+2012,Savinjska,16804.71,GDP per Capita,EUR
+2012,Zasavska,10750.77,GDP per Capita,EUR
+2012,Posavska,15158.37,GDP per Capita,EUR
+2012,Jugovzhodna Slovenija,17248.21,GDP per Capita,EUR
+2012,Primorsko-notranjska,12721.21,GDP per Capita,EUR
+2012,Osrednjeslovenska,26139.24,GDP per Capita,EUR
+2012,Gorenjska,15077.86,GDP per Capita,EUR
+2012,Goriska,16488.34,GDP per Capita,EUR
+2012,Obalno-kraska,18292.11,GDP per Capita,EUR
+2012,Bjelovarsko-bilogorska županija,6757.53,GDP per Capita,EUR
+2012,Virovitičko-podravska županija,6088.72,GDP per Capita,EUR
+2012,Požeško-slavonska županija,6085.26,GDP per Capita,EUR
+2012,Brodsko-posavska županija,5762.07,GDP per Capita,EUR
+2012,Osječko-baranjska županija,8126.21,GDP per Capita,EUR
+2012,Vukovarsko-srijemska županija,6021.96,GDP per Capita,EUR
+2012,Karlovačka županija,7752.76,GDP per Capita,EUR
+2012,Sisačko-moslavačka županija,8617.64,GDP per Capita,EUR
+2012,Primorsko-goranska zupanija,13576.23,GDP per Capita,EUR
+2012,Licko-senjska zupanija,7806.49,GDP per Capita,EUR
+2012,Zadarska zupanija,8098.55,GDP per Capita,EUR
+2012,Sibensko-kninska zupanija,7912.64,GDP per Capita,EUR
+2012,Splitsko-dalmatinska zupanija,7972.46,GDP per Capita,EUR
+2012,Istarska zupanija,12760.37,GDP per Capita,EUR
+2012,Dubrovacko-neretvanska zupanija,9972.24,GDP per Capita,EUR
+2012,Grad Zagreb,19202.13,GDP per Capita,EUR
+2012,Međimurska županija,8231.83,GDP per Capita,EUR
+2012,Varaždinska županija,8307.27,GDP per Capita,EUR
+2012,Koprivničko-križevačka županija,7972.31,GDP per Capita,EUR
+2012,Krapinsko-zagorska županija,6164.76,GDP per Capita,EUR
+2012,Zagrebačka županija,7831.54,GDP per Capita,EUR
+2012,Crna Gora,5403.96,GDP per Capita,EUR
+2012,Vardarski,4141.64,GDP per Capita,EUR
+2012,Istocen,3783.78,GDP per Capita,EUR
+2012,Jugozapaden,2991.8,GDP per Capita,EUR
+2012,Jugoistocen,4427.01,GDP per Capita,EUR
+2012,Pelagoniski,3833.67,GDP per Capita,EUR
+2012,Poloski,1884.52,GDP per Capita,EUR
+2012,Severoistocen,2581.48,GDP per Capita,EUR
+2012,Skopski,5755.99,GDP per Capita,EUR
+2012,Београдска област,8506.24,GDP per Capita,EUR
+2012,Западнобачка област,3869.76,GDP per Capita,EUR
+2012,Јужнобанатска област,4145.31,GDP per Capita,EUR
+2012,Јужнобачка област,6274.37,GDP per Capita,EUR
+2012,Севернобанатска област,4147.61,GDP per Capita,EUR
+2012,Севернобачка област,4304.09,GDP per Capita,EUR
+2012,Средњобанатска област,4642.59,GDP per Capita,EUR
+2012,Сремска област,3892.99,GDP per Capita,EUR
+2012,Златиборска област,3392.79,GDP per Capita,EUR
+2012,Колубарска област,3411.7,GDP per Capita,EUR
+2012,Мачванска област,2985.23,GDP per Capita,EUR
+2012,Моравичка област,3904.0,GDP per Capita,EUR
+2012,Поморавска област,3216.01,GDP per Capita,EUR
+2012,Расинска област,2850.71,GDP per Capita,EUR
+2012,Рашка област,2419.34,GDP per Capita,EUR
+2012,Шумадијска област,3761.81,GDP per Capita,EUR
+2012,Борска област,4715.26,GDP per Capita,EUR
+2012,Браничевска област,3759.01,GDP per Capita,EUR
+2012,Зајечарска област,2619.93,GDP per Capita,EUR
+2012,Јабланичка област,2228.97,GDP per Capita,EUR
+2012,Нишавска област,3353.63,GDP per Capita,EUR
+2012,Пиротска област,3577.06,GDP per Capita,EUR
+2012,Подунавска област,2340.37,GDP per Capita,EUR
+2012,Пчињска област,2218.32,GDP per Capita,EUR
+2012,Топличка област,2457.28,GDP per Capita,EUR
+2012,Pomurska,12252.95,GDP per Capita,EUR
+2012,Podravska,15149.33,GDP per Capita,EUR
+2012,Koroska,14472.88,GDP per Capita,EUR
+2012,Savinjska,16804.71,GDP per Capita,EUR
+2012,Zasavska,10750.77,GDP per Capita,EUR
+2012,Posavska,15158.37,GDP per Capita,EUR
+2012,Jugovzhodna Slovenija,17248.21,GDP per Capita,EUR
+2012,Primorsko-notranjska,12721.21,GDP per Capita,EUR
+2012,Osrednjeslovenska,26139.24,GDP per Capita,EUR
+2012,Gorenjska,15077.86,GDP per Capita,EUR
+2012,Goriska,16488.34,GDP per Capita,EUR
+2012,Obalno-kraska,18292.11,GDP per Capita,EUR
+2013,Bjelovarsko-bilogorska županija,6863.82,GDP per Capita,EUR
+2013,Virovitičko-podravska županija,6053.23,GDP per Capita,EUR
+2013,Požeško-slavonska županija,6191.8,GDP per Capita,EUR
+2013,Brodsko-posavska županija,5767.82,GDP per Capita,EUR
+2013,Osječko-baranjska županija,8252.76,GDP per Capita,EUR
+2013,Vukovarsko-srijemska županija,6130.65,GDP per Capita,EUR
+2013,Karlovačka županija,7938.04,GDP per Capita,EUR
+2013,Sisačko-moslavačka županija,7982.0,GDP per Capita,EUR
+2013,Primorsko-goranska zupanija,13253.69,GDP per Capita,EUR
+2013,Licko-senjska zupanija,8060.52,GDP per Capita,EUR
+2013,Zadarska zupanija,8279.5,GDP per Capita,EUR
+2013,Sibensko-kninska zupanija,8179.94,GDP per Capita,EUR
+2013,Splitsko-dalmatinska zupanija,8050.3,GDP per Capita,EUR
+2013,Istarska zupanija,12871.65,GDP per Capita,EUR
+2013,Dubrovacko-neretvanska zupanija,10362.41,GDP per Capita,EUR
+2013,Grad Zagreb,18957.44,GDP per Capita,EUR
+2013,Međimurska županija,9612.94,GDP per Capita,EUR
+2013,Varaždinska županija,8529.55,GDP per Capita,EUR
+2013,Koprivničko-križevačka županija,8096.9,GDP per Capita,EUR
+2013,Krapinsko-zagorska županija,6337.53,GDP per Capita,EUR
+2013,Zagrebačka županija,7842.58,GDP per Capita,EUR
+2013,Crna Gora,5590.22,GDP per Capita,EUR
+2013,Vardarski,4515.13,GDP per Capita,EUR
+2013,Istocen,3811.14,GDP per Capita,EUR
+2013,Jugozapaden,3002.01,GDP per Capita,EUR
+2013,Jugoistocen,4476.73,GDP per Capita,EUR
+2013,Pelagoniski,4086.01,GDP per Capita,EUR
+2013,Poloski,1993.61,GDP per Capita,EUR
+2013,Severoistocen,2544.4,GDP per Capita,EUR
+2013,Skopski,5860.51,GDP per Capita,EUR
+2013,Београдска област,8717.0,GDP per Capita,EUR
+2013,Западнобачка област,3688.29,GDP per Capita,EUR
+2013,Јужнобанатска област,4158.01,GDP per Capita,EUR
+2013,Јужнобачка област,6875.89,GDP per Capita,EUR
+2013,Севернобанатска област,3889.31,GDP per Capita,EUR
+2013,Севернобачка област,4190.75,GDP per Capita,EUR
+2013,Средњобанатска област,4626.22,GDP per Capita,EUR
+2013,Сремска област,4137.58,GDP per Capita,EUR
+2013,Златиборска област,3511.79,GDP per Capita,EUR
+2013,Колубарска област,3499.15,GDP per Capita,EUR
+2013,Мачванска област,2946.19,GDP per Capita,EUR
+2013,Моравичка област,3992.45,GDP per Capita,EUR
+2013,Поморавска област,3133.3,GDP per Capita,EUR
+2013,Расинска област,2844.75,GDP per Capita,EUR
+2013,Рашка област,2530.24,GDP per Capita,EUR
+2013,Шумадијска област,4249.67,GDP per Capita,EUR
+2013,Борска област,4512.35,GDP per Capita,EUR
+2013,Браничевска област,4178.32,GDP per Capita,EUR
+2013,Зајечарска област,2827.63,GDP per Capita,EUR
+2013,Јабланичка област,2335.65,GDP per Capita,EUR
+2013,Нишавска област,3438.29,GDP per Capita,EUR
+2013,Пиротска област,4025.71,GDP per Capita,EUR
+2013,Подунавска област,2273.17,GDP per Capita,EUR
+2013,Пчињска област,2169.66,GDP per Capita,EUR
+2013,Топличка област,2822.37,GDP per Capita,EUR
+2013,Pomurska,12285.47,GDP per Capita,EUR
+2013,Podravska,14862.77,GDP per Capita,EUR
+2013,Koroska,14380.21,GDP per Capita,EUR
+2013,Savinjska,16446.21,GDP per Capita,EUR
+2013,Zasavska,10621.79,GDP per Capita,EUR
+2013,Posavska,15061.83,GDP per Capita,EUR
+2013,Jugovzhodna Slovenija,17130.34,GDP per Capita,EUR
+2013,Primorsko-notranjska,12818.8,GDP per Capita,EUR
+2013,Osrednjeslovenska,25658.77,GDP per Capita,EUR
+2013,Gorenjska,15422.86,GDP per Capita,EUR
+2013,Goriska,16298.72,GDP per Capita,EUR
+2013,Obalno-kraska,17618.11,GDP per Capita,EUR
+2013,Bjelovarsko-bilogorska županija,6863.82,GDP per Capita,EUR
+2013,Virovitičko-podravska županija,6053.23,GDP per Capita,EUR
+2013,Požeško-slavonska županija,6191.8,GDP per Capita,EUR
+2013,Brodsko-posavska županija,5767.82,GDP per Capita,EUR
+2013,Osječko-baranjska županija,8252.76,GDP per Capita,EUR
+2013,Vukovarsko-srijemska županija,6130.65,GDP per Capita,EUR
+2013,Karlovačka županija,7938.04,GDP per Capita,EUR
+2013,Sisačko-moslavačka županija,7982.0,GDP per Capita,EUR
+2013,Primorsko-goranska zupanija,13253.69,GDP per Capita,EUR
+2013,Licko-senjska zupanija,8060.52,GDP per Capita,EUR
+2013,Zadarska zupanija,8279.5,GDP per Capita,EUR
+2013,Sibensko-kninska zupanija,8179.94,GDP per Capita,EUR
+2013,Splitsko-dalmatinska zupanija,8050.3,GDP per Capita,EUR
+2013,Istarska zupanija,12871.65,GDP per Capita,EUR
+2013,Dubrovacko-neretvanska zupanija,10362.41,GDP per Capita,EUR
+2013,Grad Zagreb,18957.44,GDP per Capita,EUR
+2013,Međimurska županija,9612.94,GDP per Capita,EUR
+2013,Varaždinska županija,8529.55,GDP per Capita,EUR
+2013,Koprivničko-križevačka županija,8096.9,GDP per Capita,EUR
+2013,Krapinsko-zagorska županija,6337.53,GDP per Capita,EUR
+2013,Zagrebačka županija,7842.58,GDP per Capita,EUR
+2013,Crna Gora,5590.22,GDP per Capita,EUR
+2013,Vardarski,4515.13,GDP per Capita,EUR
+2013,Istocen,3811.14,GDP per Capita,EUR
+2013,Jugozapaden,3002.01,GDP per Capita,EUR
+2013,Jugoistocen,4476.73,GDP per Capita,EUR
+2013,Pelagoniski,4086.01,GDP per Capita,EUR
+2013,Poloski,1993.61,GDP per Capita,EUR
+2013,Severoistocen,2544.4,GDP per Capita,EUR
+2013,Skopski,5860.51,GDP per Capita,EUR
+2013,Београдска област,8717.0,GDP per Capita,EUR
+2013,Западнобачка област,3688.29,GDP per Capita,EUR
+2013,Јужнобанатска област,4158.01,GDP per Capita,EUR
+2013,Јужнобачка област,6875.89,GDP per Capita,EUR
+2013,Севернобанатска област,3889.31,GDP per Capita,EUR
+2013,Севернобачка област,4190.75,GDP per Capita,EUR
+2013,Средњобанатска област,4626.22,GDP per Capita,EUR
+2013,Сремска област,4137.58,GDP per Capita,EUR
+2013,Златиборска област,3511.79,GDP per Capita,EUR
+2013,Колубарска област,3499.15,GDP per Capita,EUR
+2013,Мачванска област,2946.19,GDP per Capita,EUR
+2013,Моравичка област,3992.45,GDP per Capita,EUR
+2013,Поморавска област,3133.3,GDP per Capita,EUR
+2013,Расинска област,2844.75,GDP per Capita,EUR
+2013,Рашка област,2530.24,GDP per Capita,EUR
+2013,Шумадијска област,4249.67,GDP per Capita,EUR
+2013,Борска област,4512.35,GDP per Capita,EUR
+2013,Браничевска област,4178.32,GDP per Capita,EUR
+2013,Зајечарска област,2827.63,GDP per Capita,EUR
+2013,Јабланичка област,2335.65,GDP per Capita,EUR
+2013,Нишавска област,3438.29,GDP per Capita,EUR
+2013,Пиротска област,4025.71,GDP per Capita,EUR
+2013,Подунавска област,2273.17,GDP per Capita,EUR
+2013,Пчињска област,2169.66,GDP per Capita,EUR
+2013,Топличка област,2822.37,GDP per Capita,EUR
+2013,Pomurska,12285.47,GDP per Capita,EUR
+2013,Podravska,14862.77,GDP per Capita,EUR
+2013,Koroska,14380.21,GDP per Capita,EUR
+2013,Savinjska,16446.21,GDP per Capita,EUR
+2013,Zasavska,10621.79,GDP per Capita,EUR
+2013,Posavska,15061.83,GDP per Capita,EUR
+2013,Jugovzhodna Slovenija,17130.34,GDP per Capita,EUR
+2013,Primorsko-notranjska,12818.8,GDP per Capita,EUR
+2013,Osrednjeslovenska,25658.77,GDP per Capita,EUR
+2013,Gorenjska,15422.86,GDP per Capita,EUR
+2013,Goriska,16298.72,GDP per Capita,EUR
+2013,Obalno-kraska,17618.11,GDP per Capita,EUR
+2014,Bjelovarsko-bilogorska županija,6976.97,GDP per Capita,EUR
+2014,Virovitičko-podravska županija,5655.09,GDP per Capita,EUR
+2014,Požeško-slavonska županija,5922.62,GDP per Capita,EUR
+2014,Brodsko-posavska županija,5668.86,GDP per Capita,EUR
+2014,Osječko-baranjska županija,8184.19,GDP per Capita,EUR
+2014,Vukovarsko-srijemska županija,5984.94,GDP per Capita,EUR
+2014,Karlovačka županija,7873.46,GDP per Capita,EUR
+2014,Sisačko-moslavačka županija,7668.54,GDP per Capita,EUR
+2014,Primorsko-goranska zupanija,13409.78,GDP per Capita,EUR
+2014,Licko-senjska zupanija,8027.18,GDP per Capita,EUR
+2014,Zadarska zupanija,8416.6,GDP per Capita,EUR
+2014,Sibensko-kninska zupanija,8283.22,GDP per Capita,EUR
+2014,Splitsko-dalmatinska zupanija,8132.46,GDP per Capita,EUR
+2014,Istarska zupanija,13185.12,GDP per Capita,EUR
+2014,Dubrovacko-neretvanska zupanija,10650.71,GDP per Capita,EUR
+2014,Grad Zagreb,19064.9,GDP per Capita,EUR
+2014,Međimurska županija,8627.07,GDP per Capita,EUR
+2014,Varaždinska županija,8634.85,GDP per Capita,EUR
+2014,Koprivničko-križevačka županija,8139.32,GDP per Capita,EUR
+2014,Krapinsko-zagorska županija,6575.46,GDP per Capita,EUR
+2014,Zagrebačka županija,7967.1,GDP per Capita,EUR
+2014,Crna Gora,5684.53,GDP per Capita,EUR
+2014,Vardarski,4543.47,GDP per Capita,EUR
+2014,Istocen,4044.01,GDP per Capita,EUR
+2014,Jugozapaden,3131.08,GDP per Capita,EUR
+2014,Jugoistocen,5036.14,GDP per Capita,EUR
+2014,Pelagoniski,4172.38,GDP per Capita,EUR
+2014,Poloski,1942.37,GDP per Capita,EUR
+2014,Severoistocen,2463.67,GDP per Capita,EUR
+2014,Skopski,6068.35,GDP per Capita,EUR
+2014,Београдска област,8194.36,GDP per Capita,EUR
+2014,Западнобачка област,3664.26,GDP per Capita,EUR
+2014,Јужнобанатска област,4273.91,GDP per Capita,EUR
+2014,Јужнобачка област,6735.95,GDP per Capita,EUR
+2014,Севернобанатска област,3896.18,GDP per Capita,EUR
+2014,Севернобачка област,4375.71,GDP per Capita,EUR
+2014,Средњобанатска област,4671.43,GDP per Capita,EUR
+2014,Сремска област,4248.8,GDP per Capita,EUR
+2014,Златиборска област,3728.88,GDP per Capita,EUR
+2014,Колубарска област,3748.38,GDP per Capita,EUR
+2014,Мачванска област,3133.3,GDP per Capita,EUR
+2014,Моравичка област,4151.37,GDP per Capita,EUR
+2014,Поморавска област,3412.88,GDP per Capita,EUR
+2014,Расинска област,2840.97,GDP per Capita,EUR
+2014,Рашка област,2523.7,GDP per Capita,EUR
+2014,Шумадијска област,4625.49,GDP per Capita,EUR
+2014,Борска област,4134.49,GDP per Capita,EUR
+2014,Браничевска област,4000.68,GDP per Capita,EUR
+2014,Зајечарска област,3134.03,GDP per Capita,EUR
+2014,Јабланичка област,2420.72,GDP per Capita,EUR
+2014,Нишавска област,3550.32,GDP per Capita,EUR
+2014,Пиротска област,3983.63,GDP per Capita,EUR
+2014,Подунавска област,2178.22,GDP per Capita,EUR
+2014,Пчињска област,2167.17,GDP per Capita,EUR
+2014,Топличка област,2752.23,GDP per Capita,EUR
+2014,Pomurska,12637.16,GDP per Capita,EUR
+2014,Podravska,15410.45,GDP per Capita,EUR
+2014,Koroska,14805.32,GDP per Capita,EUR
+2014,Savinjska,16871.83,GDP per Capita,EUR
+2014,Zasavska,10480.72,GDP per Capita,EUR
+2014,Posavska,15448.54,GDP per Capita,EUR
+2014,Jugovzhodna Slovenija,17555.71,GDP per Capita,EUR
+2014,Primorsko-notranjska,13343.49,GDP per Capita,EUR
+2014,Osrednjeslovenska,26175.08,GDP per Capita,EUR
+2014,Gorenjska,16170.86,GDP per Capita,EUR
+2014,Goriska,16694.55,GDP per Capita,EUR
+2014,Obalno-kraska,17973.21,GDP per Capita,EUR
+2014,Bjelovarsko-bilogorska županija,6976.97,GDP per Capita,EUR
+2014,Virovitičko-podravska županija,5655.09,GDP per Capita,EUR
+2014,Požeško-slavonska županija,5922.62,GDP per Capita,EUR
+2014,Brodsko-posavska županija,5668.86,GDP per Capita,EUR
+2014,Osječko-baranjska županija,8184.19,GDP per Capita,EUR
+2014,Vukovarsko-srijemska županija,5984.94,GDP per Capita,EUR
+2014,Karlovačka županija,7873.46,GDP per Capita,EUR
+2014,Sisačko-moslavačka županija,7668.54,GDP per Capita,EUR
+2014,Primorsko-goranska zupanija,13409.78,GDP per Capita,EUR
+2014,Licko-senjska zupanija,8027.18,GDP per Capita,EUR
+2014,Zadarska zupanija,8416.6,GDP per Capita,EUR
+2014,Sibensko-kninska zupanija,8283.22,GDP per Capita,EUR
+2014,Splitsko-dalmatinska zupanija,8132.46,GDP per Capita,EUR
+2014,Istarska zupanija,13185.12,GDP per Capita,EUR
+2014,Dubrovacko-neretvanska zupanija,10650.71,GDP per Capita,EUR
+2014,Grad Zagreb,19064.9,GDP per Capita,EUR
+2014,Međimurska županija,8627.07,GDP per Capita,EUR
+2014,Varaždinska županija,8634.85,GDP per Capita,EUR
+2014,Koprivničko-križevačka županija,8139.32,GDP per Capita,EUR
+2014,Krapinsko-zagorska županija,6575.46,GDP per Capita,EUR
+2014,Zagrebačka županija,7967.1,GDP per Capita,EUR
+2014,Crna Gora,5684.53,GDP per Capita,EUR
+2014,Vardarski,4543.47,GDP per Capita,EUR
+2014,Istocen,4044.01,GDP per Capita,EUR
+2014,Jugozapaden,3131.08,GDP per Capita,EUR
+2014,Jugoistocen,5036.14,GDP per Capita,EUR
+2014,Pelagoniski,4172.38,GDP per Capita,EUR
+2014,Poloski,1942.37,GDP per Capita,EUR
+2014,Severoistocen,2463.67,GDP per Capita,EUR
+2014,Skopski,6068.35,GDP per Capita,EUR
+2014,Београдска област,8194.36,GDP per Capita,EUR
+2014,Западнобачка област,3664.26,GDP per Capita,EUR
+2014,Јужнобанатска област,4273.91,GDP per Capita,EUR
+2014,Јужнобачка област,6735.95,GDP per Capita,EUR
+2014,Севернобанатска област,3896.18,GDP per Capita,EUR
+2014,Севернобачка област,4375.71,GDP per Capita,EUR
+2014,Средњобанатска област,4671.43,GDP per Capita,EUR
+2014,Сремска област,4248.8,GDP per Capita,EUR
+2014,Златиборска област,3728.88,GDP per Capita,EUR
+2014,Колубарска област,3748.38,GDP per Capita,EUR
+2014,Мачванска област,3133.3,GDP per Capita,EUR
+2014,Моравичка област,4151.37,GDP per Capita,EUR
+2014,Поморавска област,3412.88,GDP per Capita,EUR
+2014,Расинска област,2840.97,GDP per Capita,EUR
+2014,Рашка област,2523.7,GDP per Capita,EUR
+2014,Шумадијска област,4625.49,GDP per Capita,EUR
+2014,Борска област,4134.49,GDP per Capita,EUR
+2014,Браничевска област,4000.68,GDP per Capita,EUR
+2014,Зајечарска област,3134.03,GDP per Capita,EUR
+2014,Јабланичка област,2420.72,GDP per Capita,EUR
+2014,Нишавска област,3550.32,GDP per Capita,EUR
+2014,Пиротска област,3983.63,GDP per Capita,EUR
+2014,Подунавска област,2178.22,GDP per Capita,EUR
+2014,Пчињска област,2167.17,GDP per Capita,EUR
+2014,Топличка област,2752.23,GDP per Capita,EUR
+2014,Pomurska,12637.16,GDP per Capita,EUR
+2014,Podravska,15410.45,GDP per Capita,EUR
+2014,Koroska,14805.32,GDP per Capita,EUR
+2014,Savinjska,16871.83,GDP per Capita,EUR
+2014,Zasavska,10480.72,GDP per Capita,EUR
+2014,Posavska,15448.54,GDP per Capita,EUR
+2014,Jugovzhodna Slovenija,17555.71,GDP per Capita,EUR
+2014,Primorsko-notranjska,13343.49,GDP per Capita,EUR
+2014,Osrednjeslovenska,26175.08,GDP per Capita,EUR
+2014,Gorenjska,16170.86,GDP per Capita,EUR
+2014,Goriska,16694.55,GDP per Capita,EUR
+2014,Obalno-kraska,17973.21,GDP per Capita,EUR
+2015,Bjelovarsko-bilogorska županija,7266.14,GDP per Capita,EUR
+2015,Virovitičko-podravska županija,5807.92,GDP per Capita,EUR
+2015,Požeško-slavonska županija,6093.24,GDP per Capita,EUR
+2015,Brodsko-posavska županija,5924.52,GDP per Capita,EUR
+2015,Osječko-baranjska županija,8492.03,GDP per Capita,EUR
+2015,Vukovarsko-srijemska županija,6297.72,GDP per Capita,EUR
+2015,Karlovačka županija,8192.61,GDP per Capita,EUR
+2015,Sisačko-moslavačka županija,8123.23,GDP per Capita,EUR
+2015,Primorsko-goranska zupanija,13531.37,GDP per Capita,EUR
+2015,Licko-senjska zupanija,8372.45,GDP per Capita,EUR
+2015,Zadarska zupanija,8778.08,GDP per Capita,EUR
+2015,Sibensko-kninska zupanija,8469.27,GDP per Capita,EUR
+2015,Splitsko-dalmatinska zupanija,8467.5,GDP per Capita,EUR
+2015,Istarska zupanija,13653.95,GDP per Capita,EUR
+2015,Dubrovacko-neretvanska zupanija,11153.34,GDP per Capita,EUR
+2015,Grad Zagreb,19664.24,GDP per Capita,EUR
+2015,Međimurska županija,8859.98,GDP per Capita,EUR
+2015,Varaždinska županija,8948.06,GDP per Capita,EUR
+2015,Koprivničko-križevačka županija,8314.38,GDP per Capita,EUR
+2015,Krapinsko-zagorska županija,6846.49,GDP per Capita,EUR
+2015,Zagrebačka županija,8292.09,GDP per Capita,EUR
+2015,Crna Gora,5873.89,GDP per Capita,EUR
+2015,Vardarski,4731.8,GDP per Capita,EUR
+2015,Istocen,4117.04,GDP per Capita,EUR
+2015,Jugozapaden,3456.02,GDP per Capita,EUR
+2015,Jugoistocen,5125.4,GDP per Capita,EUR
+2015,Pelagoniski,4234.16,GDP per Capita,EUR
+2015,Poloski,1977.95,GDP per Capita,EUR
+2015,Severoistocen,2665.43,GDP per Capita,EUR
+2015,Skopski,6280.0,GDP per Capita,EUR
+2015,Београдска област,8474.14,GDP per Capita,EUR
+2015,Западнобачка област,3985.31,GDP per Capita,EUR
+2015,Јужнобанатска област,4255.51,GDP per Capita,EUR
+2015,Јужнобачка област,6410.42,GDP per Capita,EUR
+2015,Севернобанатска област,4156.86,GDP per Capita,EUR
+2015,Севернобачка област,4621.4,GDP per Capita,EUR
+2015,Средњобанатска област,4618.26,GDP per Capita,EUR
+2015,Сремска област,4419.06,GDP per Capita,EUR
+2015,Златиборска област,3881.83,GDP per Capita,EUR
+2015,Колубарска област,3972.9,GDP per Capita,EUR
+2015,Мачванска област,3207.25,GDP per Capita,EUR
+2015,Моравичка област,4258.13,GDP per Capita,EUR
+2015,Поморавска област,3239.38,GDP per Capita,EUR
+2015,Расинска област,3075.23,GDP per Capita,EUR
+2015,Рашка област,2614.42,GDP per Capita,EUR
+2015,Шумадијска област,4719.23,GDP per Capita,EUR
+2015,Борска област,4042.07,GDP per Capita,EUR
+2015,Браничевска област,4085.43,GDP per Capita,EUR
+2015,Зајечарска област,3127.38,GDP per Capita,EUR
+2015,Јабланичка област,2492.05,GDP per Capita,EUR
+2015,Нишавска област,3530.93,GDP per Capita,EUR
+2015,Пиротска област,4580.02,GDP per Capita,EUR
+2015,Подунавска област,2127.2,GDP per Capita,EUR
+2015,Пчињска област,2340.81,GDP per Capita,EUR
+2015,Топличка област,2862.37,GDP per Capita,EUR
+2015,Pomurska,12666.38,GDP per Capita,EUR
+2015,Podravska,15549.32,GDP per Capita,EUR
+2015,Koroska,15317.98,GDP per Capita,EUR
+2015,Savinjska,17405.81,GDP per Capita,EUR
+2015,Zasavska,10213.65,GDP per Capita,EUR
+2015,Posavska,15792.18,GDP per Capita,EUR
+2015,Jugovzhodna Slovenija,17947.6,GDP per Capita,EUR
+2015,Primorsko-notranjska,14050.61,GDP per Capita,EUR
+2015,Osrednjeslovenska,26540.16,GDP per Capita,EUR
+2015,Gorenjska,16630.06,GDP per Capita,EUR
+2015,Goriska,17276.03,GDP per Capita,EUR
+2015,Obalno-kraska,18795.93,GDP per Capita,EUR
+2015,Bjelovarsko-bilogorska županija,7266.14,GDP per Capita,EUR
+2015,Virovitičko-podravska županija,5807.92,GDP per Capita,EUR
+2015,Požeško-slavonska županija,6093.24,GDP per Capita,EUR
+2015,Brodsko-posavska županija,5924.52,GDP per Capita,EUR
+2015,Osječko-baranjska županija,8492.03,GDP per Capita,EUR
+2015,Vukovarsko-srijemska županija,6297.72,GDP per Capita,EUR
+2015,Karlovačka županija,8192.61,GDP per Capita,EUR
+2015,Sisačko-moslavačka županija,8123.23,GDP per Capita,EUR
+2015,Primorsko-goranska zupanija,13531.37,GDP per Capita,EUR
+2015,Licko-senjska zupanija,8372.45,GDP per Capita,EUR
+2015,Zadarska zupanija,8778.08,GDP per Capita,EUR
+2015,Sibensko-kninska zupanija,8469.27,GDP per Capita,EUR
+2015,Splitsko-dalmatinska zupanija,8467.5,GDP per Capita,EUR
+2015,Istarska zupanija,13653.95,GDP per Capita,EUR
+2015,Dubrovacko-neretvanska zupanija,11153.34,GDP per Capita,EUR
+2015,Grad Zagreb,19664.24,GDP per Capita,EUR
+2015,Međimurska županija,8859.98,GDP per Capita,EUR
+2015,Varaždinska županija,8948.06,GDP per Capita,EUR
+2015,Koprivničko-križevačka županija,8314.38,GDP per Capita,EUR
+2015,Krapinsko-zagorska županija,6846.49,GDP per Capita,EUR
+2015,Zagrebačka županija,8292.09,GDP per Capita,EUR
+2015,Crna Gora,5873.89,GDP per Capita,EUR
+2015,Vardarski,4731.8,GDP per Capita,EUR
+2015,Istocen,4117.04,GDP per Capita,EUR
+2015,Jugozapaden,3456.02,GDP per Capita,EUR
+2015,Jugoistocen,5125.4,GDP per Capita,EUR
+2015,Pelagoniski,4234.16,GDP per Capita,EUR
+2015,Poloski,1977.95,GDP per Capita,EUR
+2015,Severoistocen,2665.43,GDP per Capita,EUR
+2015,Skopski,6280.0,GDP per Capita,EUR
+2015,Београдска област,8474.14,GDP per Capita,EUR
+2015,Западнобачка област,3985.31,GDP per Capita,EUR
+2015,Јужнобанатска област,4255.51,GDP per Capita,EUR
+2015,Јужнобачка област,6410.42,GDP per Capita,EUR
+2015,Севернобанатска област,4156.86,GDP per Capita,EUR
+2015,Севернобачка област,4621.4,GDP per Capita,EUR
+2015,Средњобанатска област,4618.26,GDP per Capita,EUR
+2015,Сремска област,4419.06,GDP per Capita,EUR
+2015,Златиборска област,3881.83,GDP per Capita,EUR
+2015,Колубарска област,3972.9,GDP per Capita,EUR
+2015,Мачванска област,3207.25,GDP per Capita,EUR
+2015,Моравичка област,4258.13,GDP per Capita,EUR
+2015,Поморавска област,3239.38,GDP per Capita,EUR
+2015,Расинска област,3075.23,GDP per Capita,EUR
+2015,Рашка област,2614.42,GDP per Capita,EUR
+2015,Шумадијска област,4719.23,GDP per Capita,EUR
+2015,Борска област,4042.07,GDP per Capita,EUR
+2015,Браничевска област,4085.43,GDP per Capita,EUR
+2015,Зајечарска област,3127.38,GDP per Capita,EUR
+2015,Јабланичка област,2492.05,GDP per Capita,EUR
+2015,Нишавска област,3530.93,GDP per Capita,EUR
+2015,Пиротска област,4580.02,GDP per Capita,EUR
+2015,Подунавска област,2127.2,GDP per Capita,EUR
+2015,Пчињска област,2340.81,GDP per Capita,EUR
+2015,Топличка област,2862.37,GDP per Capita,EUR
+2015,Pomurska,12666.38,GDP per Capita,EUR
+2015,Podravska,15549.32,GDP per Capita,EUR
+2015,Koroska,15317.98,GDP per Capita,EUR
+2015,Savinjska,17405.81,GDP per Capita,EUR
+2015,Zasavska,10213.65,GDP per Capita,EUR
+2015,Posavska,15792.18,GDP per Capita,EUR
+2015,Jugovzhodna Slovenija,17947.6,GDP per Capita,EUR
+2015,Primorsko-notranjska,14050.61,GDP per Capita,EUR
+2015,Osrednjeslovenska,26540.16,GDP per Capita,EUR
+2015,Gorenjska,16630.06,GDP per Capita,EUR
+2015,Goriska,17276.03,GDP per Capita,EUR
+2015,Obalno-kraska,18795.93,GDP per Capita,EUR
+2016,Bjelovarsko-bilogorska županija,7757.53,GDP per Capita,EUR
+2016,Virovitičko-podravska županija,6183.24,GDP per Capita,EUR
+2016,Požeško-slavonska županija,6372.31,GDP per Capita,EUR
+2016,Brodsko-posavska županija,6267.16,GDP per Capita,EUR
+2016,Osječko-baranjska županija,8949.46,GDP per Capita,EUR
+2016,Vukovarsko-srijemska županija,6672.06,GDP per Capita,EUR
+2016,Karlovačka županija,8638.84,GDP per Capita,EUR
+2016,Sisačko-moslavačka županija,8095.1,GDP per Capita,EUR
+2016,Primorsko-goranska zupanija,13933.77,GDP per Capita,EUR
+2016,Licko-senjska zupanija,8747.8,GDP per Capita,EUR
+2016,Zadarska zupanija,9244.35,GDP per Capita,EUR
+2016,Sibensko-kninska zupanija,8886.51,GDP per Capita,EUR
+2016,Splitsko-dalmatinska zupanija,8897.64,GDP per Capita,EUR
+2016,Istarska zupanija,14612.5,GDP per Capita,EUR
+2016,Dubrovacko-neretvanska zupanija,11853.98,GDP per Capita,EUR
+2016,Grad Zagreb,20398.15,GDP per Capita,EUR
+2016,Međimurska županija,9393.64,GDP per Capita,EUR
+2016,Varaždinska županija,9559.86,GDP per Capita,EUR
+2016,Koprivničko-križevačka županija,8790.89,GDP per Capita,EUR
+2016,Krapinsko-zagorska županija,7362.12,GDP per Capita,EUR
+2016,Zagrebačka županija,8622.62,GDP per Capita,EUR
+2016,Crna Gora,6045.8,GDP per Capita,EUR
+2016,Vardarski,4741.98,GDP per Capita,EUR
+2016,Istocen,4173.44,GDP per Capita,EUR
+2016,Jugozapaden,3484.94,GDP per Capita,EUR
+2016,Jugoistocen,5364.28,GDP per Capita,EUR
+2016,Pelagoniski,4430.17,GDP per Capita,EUR
+2016,Poloski,2079.63,GDP per Capita,EUR
+2016,Severoistocen,2640.93,GDP per Capita,EUR
+2016,Skopski,6457.08,GDP per Capita,EUR
+2016,Београдска област,8805.91,GDP per Capita,EUR
+2016,Западнобачка област,4072.78,GDP per Capita,EUR
+2016,Јужнобанатска област,4668.47,GDP per Capita,EUR
+2016,Јужнобачка област,6632.51,GDP per Capita,EUR
+2016,Севернобанатска област,4206.31,GDP per Capita,EUR
+2016,Севернобачка област,4869.71,GDP per Capita,EUR
+2016,Средњобанатска област,4637.66,GDP per Capita,EUR
+2016,Сремска област,4690.67,GDP per Capita,EUR
+2016,Златиборска област,4174.62,GDP per Capita,EUR
+2016,Колубарска област,4004.8,GDP per Capita,EUR
+2016,Мачванска област,3244.37,GDP per Capita,EUR
+2016,Моравичка област,4476.94,GDP per Capita,EUR
+2016,Поморавска област,3261.73,GDP per Capita,EUR
+2016,Расинска област,3136.57,GDP per Capita,EUR
+2016,Рашка област,2652.5,GDP per Capita,EUR
+2016,Шумадијска област,4643.34,GDP per Capita,EUR
+2016,Борска област,4289.02,GDP per Capita,EUR
+2016,Браничевска област,4185.02,GDP per Capita,EUR
+2016,Зајечарска област,3050.27,GDP per Capita,EUR
+2016,Јабланичка област,2603.21,GDP per Capita,EUR
+2016,Нишавска област,3773.43,GDP per Capita,EUR
+2016,Пиротска област,4661.0,GDP per Capita,EUR
+2016,Подунавска област,2235.54,GDP per Capita,EUR
+2016,Пчињска област,2335.25,GDP per Capita,EUR
+2016,Топличка област,2994.32,GDP per Capita,EUR
+2016,Pomurska,13214.78,GDP per Capita,EUR
+2016,Podravska,15893.37,GDP per Capita,EUR
+2016,Koroska,15764.57,GDP per Capita,EUR
+2016,Savinjska,17852.24,GDP per Capita,EUR
+2016,Zasavska,10391.44,GDP per Capita,EUR
+2016,Posavska,16254.13,GDP per Capita,EUR
+2016,Jugovzhodna Slovenija,18316.05,GDP per Capita,EUR
+2016,Primorsko-notranjska,14547.53,GDP per Capita,EUR
+2016,Osrednjeslovenska,27465.8,GDP per Capita,EUR
+2016,Gorenjska,17039.13,GDP per Capita,EUR
+2016,Goriska,17898.26,GDP per Capita,EUR
+2016,Obalno-kraska,19366.66,GDP per Capita,EUR
+2016,Bjelovarsko-bilogorska županija,7757.53,GDP per Capita,EUR
+2016,Virovitičko-podravska županija,6183.24,GDP per Capita,EUR
+2016,Požeško-slavonska županija,6372.31,GDP per Capita,EUR
+2016,Brodsko-posavska županija,6267.16,GDP per Capita,EUR
+2016,Osječko-baranjska županija,8949.46,GDP per Capita,EUR
+2016,Vukovarsko-srijemska županija,6672.06,GDP per Capita,EUR
+2016,Karlovačka županija,8638.84,GDP per Capita,EUR
+2016,Sisačko-moslavačka županija,8095.1,GDP per Capita,EUR
+2016,Primorsko-goranska zupanija,13933.77,GDP per Capita,EUR
+2016,Licko-senjska zupanija,8747.8,GDP per Capita,EUR
+2016,Zadarska zupanija,9244.35,GDP per Capita,EUR
+2016,Sibensko-kninska zupanija,8886.51,GDP per Capita,EUR
+2016,Splitsko-dalmatinska zupanija,8897.64,GDP per Capita,EUR
+2016,Istarska zupanija,14612.5,GDP per Capita,EUR
+2016,Dubrovacko-neretvanska zupanija,11853.98,GDP per Capita,EUR
+2016,Grad Zagreb,20398.15,GDP per Capita,EUR
+2016,Međimurska županija,9393.64,GDP per Capita,EUR
+2016,Varaždinska županija,9559.86,GDP per Capita,EUR
+2016,Koprivničko-križevačka županija,8790.89,GDP per Capita,EUR
+2016,Krapinsko-zagorska županija,7362.12,GDP per Capita,EUR
+2016,Zagrebačka županija,8622.62,GDP per Capita,EUR
+2016,Crna Gora,6045.8,GDP per Capita,EUR
+2016,Vardarski,4741.98,GDP per Capita,EUR
+2016,Istocen,4173.44,GDP per Capita,EUR
+2016,Jugozapaden,3484.94,GDP per Capita,EUR
+2016,Jugoistocen,5364.28,GDP per Capita,EUR
+2016,Pelagoniski,4430.17,GDP per Capita,EUR
+2016,Poloski,2079.63,GDP per Capita,EUR
+2016,Severoistocen,2640.93,GDP per Capita,EUR
+2016,Skopski,6457.08,GDP per Capita,EUR
+2016,Београдска област,8805.91,GDP per Capita,EUR
+2016,Западнобачка област,4072.78,GDP per Capita,EUR
+2016,Јужнобанатска област,4668.47,GDP per Capita,EUR
+2016,Јужнобачка област,6632.51,GDP per Capita,EUR
+2016,Севернобанатска област,4206.31,GDP per Capita,EUR
+2016,Севернобачка област,4869.71,GDP per Capita,EUR
+2016,Средњобанатска област,4637.66,GDP per Capita,EUR
+2016,Сремска област,4690.67,GDP per Capita,EUR
+2016,Златиборска област,4174.62,GDP per Capita,EUR
+2016,Колубарска област,4004.8,GDP per Capita,EUR
+2016,Мачванска област,3244.37,GDP per Capita,EUR
+2016,Моравичка област,4476.94,GDP per Capita,EUR
+2016,Поморавска област,3261.73,GDP per Capita,EUR
+2016,Расинска област,3136.57,GDP per Capita,EUR
+2016,Рашка област,2652.5,GDP per Capita,EUR
+2016,Шумадијска област,4643.34,GDP per Capita,EUR
+2016,Борска област,4289.02,GDP per Capita,EUR
+2016,Браничевска област,4185.02,GDP per Capita,EUR
+2016,Зајечарска област,3050.27,GDP per Capita,EUR
+2016,Јабланичка област,2603.21,GDP per Capita,EUR
+2016,Нишавска област,3773.43,GDP per Capita,EUR
+2016,Пиротска област,4661.0,GDP per Capita,EUR
+2016,Подунавска област,2235.54,GDP per Capita,EUR
+2016,Пчињска област,2335.25,GDP per Capita,EUR
+2016,Топличка област,2994.32,GDP per Capita,EUR
+2016,Pomurska,13214.78,GDP per Capita,EUR
+2016,Podravska,15893.37,GDP per Capita,EUR
+2016,Koroska,15764.57,GDP per Capita,EUR
+2016,Savinjska,17852.24,GDP per Capita,EUR
+2016,Zasavska,10391.44,GDP per Capita,EUR
+2016,Posavska,16254.13,GDP per Capita,EUR
+2016,Jugovzhodna Slovenija,18316.05,GDP per Capita,EUR
+2016,Primorsko-notranjska,14547.53,GDP per Capita,EUR
+2016,Osrednjeslovenska,27465.8,GDP per Capita,EUR
+2016,Gorenjska,17039.13,GDP per Capita,EUR
+2016,Goriska,17898.26,GDP per Capita,EUR
+2016,Obalno-kraska,19366.66,GDP per Capita,EUR
+2017,Bjelovarsko-bilogorska županija,7928.5,GDP per Capita,EUR
+2017,Virovitičko-podravska županija,6437.43,GDP per Capita,EUR
+2017,Požeško-slavonska županija,6636.57,GDP per Capita,EUR
+2017,Brodsko-posavska županija,6703.66,GDP per Capita,EUR
+2017,Osječko-baranjska županija,9133.35,GDP per Capita,EUR
+2017,Vukovarsko-srijemska županija,7070.82,GDP per Capita,EUR
+2017,Karlovačka županija,8831.59,GDP per Capita,EUR
+2017,Sisačko-moslavačka županija,8312.46,GDP per Capita,EUR
+2017,Primorsko-goranska zupanija,14533.91,GDP per Capita,EUR
+2017,Licko-senjska zupanija,9267.37,GDP per Capita,EUR
+2017,Zadarska zupanija,9972.69,GDP per Capita,EUR
+2017,Sibensko-kninska zupanija,9626.6,GDP per Capita,EUR
+2017,Splitsko-dalmatinska zupanija,9255.64,GDP per Capita,EUR
+2017,Istarska zupanija,15100.93,GDP per Capita,EUR
+2017,Dubrovacko-neretvanska zupanija,12775.1,GDP per Capita,EUR
+2017,Grad Zagreb,21272.87,GDP per Capita,EUR
+2017,Međimurska županija,9908.06,GDP per Capita,EUR
+2017,Varaždinska županija,10222.38,GDP per Capita,EUR
+2017,Koprivničko-križevačka županija,9083.38,GDP per Capita,EUR
+2017,Krapinsko-zagorska županija,7820.92,GDP per Capita,EUR
+2017,Zagrebačka županija,9195.11,GDP per Capita,EUR
+2017,Crna Gora,6330.16,GDP per Capita,EUR
+2017,Vardarski,4707.1,GDP per Capita,EUR
+2017,Istocen,4431.11,GDP per Capita,EUR
+2017,Jugozapaden,3645.56,GDP per Capita,EUR
+2017,Jugoistocen,5339.9,GDP per Capita,EUR
+2017,Pelagoniski,4411.67,GDP per Capita,EUR
+2017,Poloski,2147.01,GDP per Capita,EUR
+2017,Severoistocen,2660.45,GDP per Capita,EUR
+2017,Skopski,6448.62,GDP per Capita,EUR
+2017,Београдска област,9022.66,GDP per Capita,EUR
+2017,Западнобачка област,4258.96,GDP per Capita,EUR
+2017,Јужнобанатска област,4763.46,GDP per Capita,EUR
+2017,Јужнобачка област,6650.04,GDP per Capita,EUR
+2017,Севернобанатска област,4274.02,GDP per Capita,EUR
+2017,Севернобачка област,4924.9,GDP per Capita,EUR
+2017,Средњобанатска област,4639.41,GDP per Capita,EUR
+2017,Сремска област,5043.72,GDP per Capita,EUR
+2017,Златиборска област,4212.41,GDP per Capita,EUR
+2017,Колубарска област,4125.98,GDP per Capita,EUR
+2017,Мачванска област,3363.49,GDP per Capita,EUR
+2017,Моравичка област,4786.42,GDP per Capita,EUR
+2017,Поморавска област,3274.27,GDP per Capita,EUR
+2017,Расинска област,3238.39,GDP per Capita,EUR
+2017,Рашка област,2744.89,GDP per Capita,EUR
+2017,Шумадијска област,4461.68,GDP per Capita,EUR
+2017,Борска област,4933.81,GDP per Capita,EUR
+2017,Браничевска област,4152.52,GDP per Capita,EUR
+2017,Зајечарска област,2975.46,GDP per Capita,EUR
+2017,Јабланичка област,2663.22,GDP per Capita,EUR
+2017,Нишавска област,3921.9,GDP per Capita,EUR
+2017,Пиротска област,4760.35,GDP per Capita,EUR
+2017,Подунавска област,2524.19,GDP per Capita,EUR
+2017,Пчињска област,2444.76,GDP per Capita,EUR
+2017,Топличка област,3118.77,GDP per Capita,EUR
+2017,Pomurska,13774.29,GDP per Capita,EUR
+2017,Podravska,16488.69,GDP per Capita,EUR
+2017,Koroska,16326.79,GDP per Capita,EUR
+2017,Savinjska,18658.46,GDP per Capita,EUR
+2017,Zasavska,10716.16,GDP per Capita,EUR
+2017,Posavska,16928.79,GDP per Capita,EUR
+2017,Jugovzhodna Slovenija,19868.27,GDP per Capita,EUR
+2017,Primorsko-notranjska,14773.51,GDP per Capita,EUR
+2017,Osrednjeslovenska,28538.29,GDP per Capita,EUR
+2017,Gorenjska,18139.15,GDP per Capita,EUR
+2017,Goriska,18756.05,GDP per Capita,EUR
+2017,Obalno-kraska,20784.31,GDP per Capita,EUR
+2017,Bjelovarsko-bilogorska županija,7928.5,GDP per Capita,EUR
+2017,Virovitičko-podravska županija,6437.43,GDP per Capita,EUR
+2017,Požeško-slavonska županija,6636.57,GDP per Capita,EUR
+2017,Brodsko-posavska županija,6703.66,GDP per Capita,EUR
+2017,Osječko-baranjska županija,9133.35,GDP per Capita,EUR
+2017,Vukovarsko-srijemska županija,7070.82,GDP per Capita,EUR
+2017,Karlovačka županija,8831.59,GDP per Capita,EUR
+2017,Sisačko-moslavačka županija,8312.46,GDP per Capita,EUR
+2017,Primorsko-goranska zupanija,14533.91,GDP per Capita,EUR
+2017,Licko-senjska zupanija,9267.37,GDP per Capita,EUR
+2017,Zadarska zupanija,9972.69,GDP per Capita,EUR
+2017,Sibensko-kninska zupanija,9626.6,GDP per Capita,EUR
+2017,Splitsko-dalmatinska zupanija,9255.64,GDP per Capita,EUR
+2017,Istarska zupanija,15100.93,GDP per Capita,EUR
+2017,Dubrovacko-neretvanska zupanija,12775.1,GDP per Capita,EUR
+2017,Grad Zagreb,21272.87,GDP per Capita,EUR
+2017,Međimurska županija,9908.06,GDP per Capita,EUR
+2017,Varaždinska županija,10222.38,GDP per Capita,EUR
+2017,Koprivničko-križevačka županija,9083.38,GDP per Capita,EUR
+2017,Krapinsko-zagorska županija,7820.92,GDP per Capita,EUR
+2017,Zagrebačka županija,9195.11,GDP per Capita,EUR
+2017,Crna Gora,6330.16,GDP per Capita,EUR
+2017,Vardarski,4707.1,GDP per Capita,EUR
+2017,Istocen,4431.11,GDP per Capita,EUR
+2017,Jugozapaden,3645.56,GDP per Capita,EUR
+2017,Jugoistocen,5339.9,GDP per Capita,EUR
+2017,Pelagoniski,4411.67,GDP per Capita,EUR
+2017,Poloski,2147.01,GDP per Capita,EUR
+2017,Severoistocen,2660.45,GDP per Capita,EUR
+2017,Skopski,6448.62,GDP per Capita,EUR
+2017,Београдска област,9022.66,GDP per Capita,EUR
+2017,Западнобачка област,4258.96,GDP per Capita,EUR
+2017,Јужнобанатска област,4763.46,GDP per Capita,EUR
+2017,Јужнобачка област,6650.04,GDP per Capita,EUR
+2017,Севернобанатска област,4274.02,GDP per Capita,EUR
+2017,Севернобачка област,4924.9,GDP per Capita,EUR
+2017,Средњобанатска област,4639.41,GDP per Capita,EUR
+2017,Сремска област,5043.72,GDP per Capita,EUR
+2017,Златиборска област,4212.41,GDP per Capita,EUR
+2017,Колубарска област,4125.98,GDP per Capita,EUR
+2017,Мачванска област,3363.49,GDP per Capita,EUR
+2017,Моравичка област,4786.42,GDP per Capita,EUR
+2017,Поморавска област,3274.27,GDP per Capita,EUR
+2017,Расинска област,3238.39,GDP per Capita,EUR
+2017,Рашка област,2744.89,GDP per Capita,EUR
+2017,Шумадијска област,4461.68,GDP per Capita,EUR
+2017,Борска област,4933.81,GDP per Capita,EUR
+2017,Браничевска област,4152.52,GDP per Capita,EUR
+2017,Зајечарска област,2975.46,GDP per Capita,EUR
+2017,Јабланичка област,2663.22,GDP per Capita,EUR
+2017,Нишавска област,3921.9,GDP per Capita,EUR
+2017,Пиротска област,4760.35,GDP per Capita,EUR
+2017,Подунавска област,2524.19,GDP per Capita,EUR
+2017,Пчињска област,2444.76,GDP per Capita,EUR
+2017,Топличка област,3118.77,GDP per Capita,EUR
+2017,Pomurska,13774.29,GDP per Capita,EUR
+2017,Podravska,16488.69,GDP per Capita,EUR
+2017,Koroska,16326.79,GDP per Capita,EUR
+2017,Savinjska,18658.46,GDP per Capita,EUR
+2017,Zasavska,10716.16,GDP per Capita,EUR
+2017,Posavska,16928.79,GDP per Capita,EUR
+2017,Jugovzhodna Slovenija,19868.27,GDP per Capita,EUR
+2017,Primorsko-notranjska,14773.51,GDP per Capita,EUR
+2017,Osrednjeslovenska,28538.29,GDP per Capita,EUR
+2017,Gorenjska,18139.15,GDP per Capita,EUR
+2017,Goriska,18756.05,GDP per Capita,EUR
+2017,Obalno-kraska,20784.31,GDP per Capita,EUR
+2018,Bjelovarsko-bilogorska županija,8450.22,GDP per Capita,EUR
+2018,Virovitičko-podravska županija,6996.8,GDP per Capita,EUR
+2018,Požeško-slavonska županija,7202.67,GDP per Capita,EUR
+2018,Brodsko-posavska županija,7168.33,GDP per Capita,EUR
+2018,Osječko-baranjska županija,9263.39,GDP per Capita,EUR
+2018,Vukovarsko-srijemska županija,7606.28,GDP per Capita,EUR
+2018,Karlovačka županija,8787.57,GDP per Capita,EUR
+2018,Sisačko-moslavačka županija,8723.22,GDP per Capita,EUR
+2018,Primorsko-goranska zupanija,14817.62,GDP per Capita,EUR
+2018,Licko-senjska zupanija,9510.4,GDP per Capita,EUR
+2018,Zadarska zupanija,10636.53,GDP per Capita,EUR
+2018,Sibensko-kninska zupanija,9997.39,GDP per Capita,EUR
+2018,Splitsko-dalmatinska zupanija,9522.3,GDP per Capita,EUR
+2018,Istarska zupanija,15219.97,GDP per Capita,EUR
+2018,Dubrovacko-neretvanska zupanija,13011.67,GDP per Capita,EUR
+2018,Grad Zagreb,22175.28,GDP per Capita,EUR
+2018,Međimurska županija,10331.2,GDP per Capita,EUR
+2018,Varaždinska županija,11161.78,GDP per Capita,EUR
+2018,Koprivničko-križevačka županija,9084.71,GDP per Capita,EUR
+2018,Krapinsko-zagorska županija,8100.35,GDP per Capita,EUR
+2018,Zagrebačka županija,9801.92,GDP per Capita,EUR
+2018,Crna Gora,6653.17,GDP per Capita,EUR
+2018,Vardarski,4889.11,GDP per Capita,EUR
+2018,Istocen,4566.15,GDP per Capita,EUR
+2018,Jugozapaden,3684.21,GDP per Capita,EUR
+2018,Jugoistocen,5243.39,GDP per Capita,EUR
+2018,Pelagoniski,4753.52,GDP per Capita,EUR
+2018,Poloski,2184.76,GDP per Capita,EUR
+2018,Severoistocen,2704.51,GDP per Capita,EUR
+2018,Skopski,6636.81,GDP per Capita,EUR
+2018,Београдска област,9603.95,GDP per Capita,EUR
+2018,Западнобачка област,4096.11,GDP per Capita,EUR
+2018,Јужнобанатска област,5117.07,GDP per Capita,EUR
+2018,Јужнобачка област,6710.34,GDP per Capita,EUR
+2018,Севернобанатска област,4416.51,GDP per Capita,EUR
+2018,Севернобачка област,5035.68,GDP per Capita,EUR
+2018,Средњобанатска област,5009.57,GDP per Capita,EUR
+2018,Сремска област,5306.98,GDP per Capita,EUR
+2018,Златиборска област,4217.0,GDP per Capita,EUR
+2018,Колубарска област,4132.96,GDP per Capita,EUR
+2018,Мачванска област,3435.73,GDP per Capita,EUR
+2018,Моравичка област,4887.37,GDP per Capita,EUR
+2018,Поморавска област,3375.56,GDP per Capita,EUR
+2018,Расинска област,3398.9,GDP per Capita,EUR
+2018,Рашка област,2952.65,GDP per Capita,EUR
+2018,Шумадијска област,4356.73,GDP per Capita,EUR
+2018,Борска област,5386.73,GDP per Capita,EUR
+2018,Браничевска област,4720.1,GDP per Capita,EUR
+2018,Зајечарска област,3170.44,GDP per Capita,EUR
+2018,Јабланичка област,2657.94,GDP per Capita,EUR
+2018,Нишавска област,4148.43,GDP per Capita,EUR
+2018,Пиротска област,5018.27,GDP per Capita,EUR
+2018,Подунавска област,3025.67,GDP per Capita,EUR
+2018,Пчињска област,2602.51,GDP per Capita,EUR
+2018,Топличка област,3306.82,GDP per Capita,EUR
+2018,Pomurska,14380.83,GDP per Capita,EUR
+2018,Podravska,17077.76,GDP per Capita,EUR
+2018,Koroska,17192.59,GDP per Capita,EUR
+2018,Savinjska,19170.51,GDP per Capita,EUR
+2018,Zasavska,11087.57,GDP per Capita,EUR
+2018,Posavska,17603.66,GDP per Capita,EUR
+2018,Jugovzhodna Slovenija,20794.37,GDP per Capita,EUR
+2018,Primorsko-notranjska,15234.91,GDP per Capita,EUR
+2018,Osrednjeslovenska,29796.84,GDP per Capita,EUR
+2018,Gorenjska,18996.86,GDP per Capita,EUR
+2018,Goriska,19152.05,GDP per Capita,EUR
+2018,Obalno-kraska,21687.54,GDP per Capita,EUR
+2018,Bjelovarsko-bilogorska županija,8450.22,GDP per Capita,EUR
+2018,Virovitičko-podravska županija,6996.8,GDP per Capita,EUR
+2018,Požeško-slavonska županija,7202.67,GDP per Capita,EUR
+2018,Brodsko-posavska županija,7168.33,GDP per Capita,EUR
+2018,Osječko-baranjska županija,9263.39,GDP per Capita,EUR
+2018,Vukovarsko-srijemska županija,7606.28,GDP per Capita,EUR
+2018,Karlovačka županija,8787.57,GDP per Capita,EUR
+2018,Sisačko-moslavačka županija,8723.22,GDP per Capita,EUR
+2018,Primorsko-goranska zupanija,14817.62,GDP per Capita,EUR
+2018,Licko-senjska zupanija,9510.4,GDP per Capita,EUR
+2018,Zadarska zupanija,10636.53,GDP per Capita,EUR
+2018,Sibensko-kninska zupanija,9997.39,GDP per Capita,EUR
+2018,Splitsko-dalmatinska zupanija,9522.3,GDP per Capita,EUR
+2018,Istarska zupanija,15219.97,GDP per Capita,EUR
+2018,Dubrovacko-neretvanska zupanija,13011.67,GDP per Capita,EUR
+2018,Grad Zagreb,22175.28,GDP per Capita,EUR
+2018,Međimurska županija,10331.2,GDP per Capita,EUR
+2018,Varaždinska županija,11161.78,GDP per Capita,EUR
+2018,Koprivničko-križevačka županija,9084.71,GDP per Capita,EUR
+2018,Krapinsko-zagorska županija,8100.35,GDP per Capita,EUR
+2018,Zagrebačka županija,9801.92,GDP per Capita,EUR
+2018,Crna Gora,6653.17,GDP per Capita,EUR
+2018,Vardarski,4889.11,GDP per Capita,EUR
+2018,Istocen,4566.15,GDP per Capita,EUR
+2018,Jugozapaden,3684.21,GDP per Capita,EUR
+2018,Jugoistocen,5243.39,GDP per Capita,EUR
+2018,Pelagoniski,4753.52,GDP per Capita,EUR
+2018,Poloski,2184.76,GDP per Capita,EUR
+2018,Severoistocen,2704.51,GDP per Capita,EUR
+2018,Skopski,6636.81,GDP per Capita,EUR
+2018,Београдска област,9603.95,GDP per Capita,EUR
+2018,Западнобачка област,4096.11,GDP per Capita,EUR
+2018,Јужнобанатска област,5117.07,GDP per Capita,EUR
+2018,Јужнобачка област,6710.34,GDP per Capita,EUR
+2018,Севернобанатска област,4416.51,GDP per Capita,EUR
+2018,Севернобачка област,5035.68,GDP per Capita,EUR
+2018,Средњобанатска област,5009.57,GDP per Capita,EUR
+2018,Сремска област,5306.98,GDP per Capita,EUR
+2018,Златиборска област,4217.0,GDP per Capita,EUR
+2018,Колубарска област,4132.96,GDP per Capita,EUR
+2018,Мачванска област,3435.73,GDP per Capita,EUR
+2018,Моравичка област,4887.37,GDP per Capita,EUR
+2018,Поморавска област,3375.56,GDP per Capita,EUR
+2018,Расинска област,3398.9,GDP per Capita,EUR
+2018,Рашка област,2952.65,GDP per Capita,EUR
+2018,Шумадијска област,4356.73,GDP per Capita,EUR
+2018,Борска област,5386.73,GDP per Capita,EUR
+2018,Браничевска област,4720.1,GDP per Capita,EUR
+2018,Зајечарска област,3170.44,GDP per Capita,EUR
+2018,Јабланичка област,2657.94,GDP per Capita,EUR
+2018,Нишавска област,4148.43,GDP per Capita,EUR
+2018,Пиротска област,5018.27,GDP per Capita,EUR
+2018,Подунавска област,3025.67,GDP per Capita,EUR
+2018,Пчињска област,2602.51,GDP per Capita,EUR
+2018,Топличка област,3306.82,GDP per Capita,EUR
+2018,Pomurska,14380.83,GDP per Capita,EUR
+2018,Podravska,17077.76,GDP per Capita,EUR
+2018,Koroska,17192.59,GDP per Capita,EUR
+2018,Savinjska,19170.51,GDP per Capita,EUR
+2018,Zasavska,11087.57,GDP per Capita,EUR
+2018,Posavska,17603.66,GDP per Capita,EUR
+2018,Jugovzhodna Slovenija,20794.37,GDP per Capita,EUR
+2018,Primorsko-notranjska,15234.91,GDP per Capita,EUR
+2018,Osrednjeslovenska,29796.84,GDP per Capita,EUR
+2018,Gorenjska,18996.86,GDP per Capita,EUR
+2018,Goriska,19152.05,GDP per Capita,EUR
+2018,Obalno-kraska,21687.54,GDP per Capita,EUR
+2019,Bjelovarsko-bilogorska županija,8618.04,GDP per Capita,EUR
+2019,Virovitičko-podravska županija,7401.23,GDP per Capita,EUR
+2019,Požeško-slavonska županija,7660.75,GDP per Capita,EUR
+2019,Brodsko-posavska županija,7784.21,GDP per Capita,EUR
+2019,Osječko-baranjska županija,9768.42,GDP per Capita,EUR
+2019,Vukovarsko-srijemska županija,8173.33,GDP per Capita,EUR
+2019,Karlovačka županija,8931.55,GDP per Capita,EUR
+2019,Sisačko-moslavačka županija,9156.2,GDP per Capita,EUR
+2019,Primorsko-goranska zupanija,14419.19,GDP per Capita,EUR
+2019,Licko-senjska zupanija,9975.53,GDP per Capita,EUR
+2019,Zadarska zupanija,10962.53,GDP per Capita,EUR
+2019,Sibensko-kninska zupanija,10473.89,GDP per Capita,EUR
+2019,Splitsko-dalmatinska zupanija,10251.77,GDP per Capita,EUR
+2019,Istarska zupanija,15532.02,GDP per Capita,EUR
+2019,Dubrovacko-neretvanska zupanija,13978.41,GDP per Capita,EUR
+2019,Grad Zagreb,23128.76,GDP per Capita,EUR
+2019,Međimurska županija,10997.45,GDP per Capita,EUR
+2019,Varaždinska županija,11612.21,GDP per Capita,EUR
+2019,Koprivničko-križevačka županija,9727.74,GDP per Capita,EUR
+2019,Krapinsko-zagorska županija,8564.3,GDP per Capita,EUR
+2019,Zagrebačka županija,10320.86,GDP per Capita,EUR
+2019,Crna Gora,6925.71,GDP per Capita,EUR
+2019,Vardarski,5263.75,GDP per Capita,EUR
+2019,Istocen,4670.18,GDP per Capita,EUR
+2019,Jugozapaden,3713.78,GDP per Capita,EUR
+2019,Jugoistocen,5364.25,GDP per Capita,EUR
+2019,Pelagoniski,4981.7,GDP per Capita,EUR
+2019,Poloski,2296.56,GDP per Capita,EUR
+2019,Severoistocen,2731.14,GDP per Capita,EUR
+2019,Skopski,6918.33,GDP per Capita,EUR
+2019,Београдска област,10169.83,GDP per Capita,EUR
+2019,Западнобачка област,4278.18,GDP per Capita,EUR
+2019,Јужнобанатска област,5313.7,GDP per Capita,EUR
+2019,Јужнобачка област,6916.98,GDP per Capita,EUR
+2019,Севернобанатска област,4604.55,GDP per Capita,EUR
+2019,Севернобачка област,5225.61,GDP per Capita,EUR
+2019,Средњобанатска област,5219.27,GDP per Capita,EUR
+2019,Сремска област,5508.47,GDP per Capita,EUR
+2019,Златиборска област,4438.71,GDP per Capita,EUR
+2019,Колубарска област,4445.95,GDP per Capita,EUR
+2019,Мачванска област,3495.1,GDP per Capita,EUR
+2019,Моравичка област,4926.19,GDP per Capita,EUR
+2019,Поморавска област,3731.25,GDP per Capita,EUR
+2019,Расинска област,3687.46,GDP per Capita,EUR
+2019,Рашка област,2920.72,GDP per Capita,EUR
+2019,Шумадијска област,4618.17,GDP per Capita,EUR
+2019,Борска област,6439.95,GDP per Capita,EUR
+2019,Браничевска област,4422.24,GDP per Capita,EUR
+2019,Зајечарска област,2944.39,GDP per Capita,EUR
+2019,Јабланичка област,2905.3,GDP per Capita,EUR
+2019,Нишавска област,4494.16,GDP per Capita,EUR
+2019,Пиротска област,4923.54,GDP per Capita,EUR
+2019,Подунавска област,2640.14,GDP per Capita,EUR
+2019,Пчињска област,2750.6,GDP per Capita,EUR
+2019,Топличка област,3465.14,GDP per Capita,EUR
+2019,Pomurska,14772.69,GDP per Capita,EUR
+2019,Podravska,17780.07,GDP per Capita,EUR
+2019,Koroska,17607.19,GDP per Capita,EUR
+2019,Savinjska,19736.59,GDP per Capita,EUR
+2019,Zasavska,11544.26,GDP per Capita,EUR
+2019,Posavska,18441.95,GDP per Capita,EUR
+2019,Jugovzhodna Slovenija,21794.43,GDP per Capita,EUR
+2019,Primorsko-notranjska,15205.45,GDP per Capita,EUR
+2019,Osrednjeslovenska,30552.22,GDP per Capita,EUR
+2019,Gorenjska,19481.74,GDP per Capita,EUR
+2019,Goriska,19395.71,GDP per Capita,EUR
+2019,Obalno-kraska,21427.34,GDP per Capita,EUR
+2019,Bjelovarsko-bilogorska županija,8618.04,GDP per Capita,EUR
+2019,Virovitičko-podravska županija,7401.23,GDP per Capita,EUR
+2019,Požeško-slavonska županija,7660.75,GDP per Capita,EUR
+2019,Brodsko-posavska županija,7784.21,GDP per Capita,EUR
+2019,Osječko-baranjska županija,9768.42,GDP per Capita,EUR
+2019,Vukovarsko-srijemska županija,8173.33,GDP per Capita,EUR
+2019,Karlovačka županija,8931.55,GDP per Capita,EUR
+2019,Sisačko-moslavačka županija,9156.2,GDP per Capita,EUR
+2019,Primorsko-goranska zupanija,14419.19,GDP per Capita,EUR
+2019,Licko-senjska zupanija,9975.53,GDP per Capita,EUR
+2019,Zadarska zupanija,10962.53,GDP per Capita,EUR
+2019,Sibensko-kninska zupanija,10473.89,GDP per Capita,EUR
+2019,Splitsko-dalmatinska zupanija,10251.77,GDP per Capita,EUR
+2019,Istarska zupanija,15532.02,GDP per Capita,EUR
+2019,Dubrovacko-neretvanska zupanija,13978.41,GDP per Capita,EUR
+2019,Grad Zagreb,23128.76,GDP per Capita,EUR
+2019,Međimurska županija,10997.45,GDP per Capita,EUR
+2019,Varaždinska županija,11612.21,GDP per Capita,EUR
+2019,Koprivničko-križevačka županija,9727.74,GDP per Capita,EUR
+2019,Krapinsko-zagorska županija,8564.3,GDP per Capita,EUR
+2019,Zagrebačka županija,10320.86,GDP per Capita,EUR
+2019,Crna Gora,6925.71,GDP per Capita,EUR
+2019,Vardarski,5263.75,GDP per Capita,EUR
+2019,Istocen,4670.18,GDP per Capita,EUR
+2019,Jugozapaden,3713.78,GDP per Capita,EUR
+2019,Jugoistocen,5364.25,GDP per Capita,EUR
+2019,Pelagoniski,4981.7,GDP per Capita,EUR
+2019,Poloski,2296.56,GDP per Capita,EUR
+2019,Severoistocen,2731.14,GDP per Capita,EUR
+2019,Skopski,6918.33,GDP per Capita,EUR
+2019,Београдска област,10169.83,GDP per Capita,EUR
+2019,Западнобачка област,4278.18,GDP per Capita,EUR
+2019,Јужнобанатска област,5313.7,GDP per Capita,EUR
+2019,Јужнобачка област,6916.98,GDP per Capita,EUR
+2019,Севернобанатска област,4604.55,GDP per Capita,EUR
+2019,Севернобачка област,5225.61,GDP per Capita,EUR
+2019,Средњобанатска област,5219.27,GDP per Capita,EUR
+2019,Сремска област,5508.47,GDP per Capita,EUR
+2019,Златиборска област,4438.71,GDP per Capita,EUR
+2019,Колубарска област,4445.95,GDP per Capita,EUR
+2019,Мачванска област,3495.1,GDP per Capita,EUR
+2019,Моравичка област,4926.19,GDP per Capita,EUR
+2019,Поморавска област,3731.25,GDP per Capita,EUR
+2019,Расинска област,3687.46,GDP per Capita,EUR
+2019,Рашка област,2920.72,GDP per Capita,EUR
+2019,Шумадијска област,4618.17,GDP per Capita,EUR
+2019,Борска област,6439.95,GDP per Capita,EUR
+2019,Браничевска област,4422.24,GDP per Capita,EUR
+2019,Зајечарска област,2944.39,GDP per Capita,EUR
+2019,Јабланичка област,2905.3,GDP per Capita,EUR
+2019,Нишавска област,4494.16,GDP per Capita,EUR
+2019,Пиротска област,4923.54,GDP per Capita,EUR
+2019,Подунавска област,2640.14,GDP per Capita,EUR
+2019,Пчињска област,2750.6,GDP per Capita,EUR
+2019,Топличка област,3465.14,GDP per Capita,EUR
+2019,Pomurska,14772.69,GDP per Capita,EUR
+2019,Podravska,17780.07,GDP per Capita,EUR
+2019,Koroska,17607.19,GDP per Capita,EUR
+2019,Savinjska,19736.59,GDP per Capita,EUR
+2019,Zasavska,11544.26,GDP per Capita,EUR
+2019,Posavska,18441.95,GDP per Capita,EUR
+2019,Jugovzhodna Slovenija,21794.43,GDP per Capita,EUR
+2019,Primorsko-notranjska,15205.45,GDP per Capita,EUR
+2019,Osrednjeslovenska,30552.22,GDP per Capita,EUR
+2019,Gorenjska,19481.74,GDP per Capita,EUR
+2019,Goriska,19395.71,GDP per Capita,EUR
+2019,Obalno-kraska,21427.34,GDP per Capita,EUR
+2020,Bjelovarsko-bilogorska županija,8491.01,GDP per Capita,EUR
+2020,Virovitičko-podravska županija,7114.27,GDP per Capita,EUR
+2020,Požeško-slavonska županija,7217.28,GDP per Capita,EUR
+2020,Brodsko-posavska županija,7491.33,GDP per Capita,EUR
+2020,Osječko-baranjska županija,9643.27,GDP per Capita,EUR
+2020,Vukovarsko-srijemska županija,8056.42,GDP per Capita,EUR
+2020,Karlovačka županija,8773.69,GDP per Capita,EUR
+2020,Sisačko-moslavačka županija,8304.58,GDP per Capita,EUR
+2020,Primorsko-goranska zupanija,12850.27,GDP per Capita,EUR
+2020,Licko-senjska zupanija,9688.02,GDP per Capita,EUR
+2020,Zadarska zupanija,10186.21,GDP per Capita,EUR
+2020,Sibensko-kninska zupanija,9653.5,GDP per Capita,EUR
+2020,Splitsko-dalmatinska zupanija,8989.07,GDP per Capita,EUR
+2020,Istarska zupanija,12562.32,GDP per Capita,EUR
+2020,Dubrovacko-neretvanska zupanija,10435.61,GDP per Capita,EUR
+2020,Grad Zagreb,21535.97,GDP per Capita,EUR
+2020,Međimurska županija,10678.36,GDP per Capita,EUR
+2020,Varaždinska županija,11273.94,GDP per Capita,EUR
+2020,Koprivničko-križevačka županija,9325.58,GDP per Capita,EUR
+2020,Krapinsko-zagorska županija,7910.92,GDP per Capita,EUR
+2020,Zagrebačka županija,10055.87,GDP per Capita,EUR
+2020,Crna Gora,5872.43,GDP per Capita,EUR
+2020,Vardarski,5000.5,GDP per Capita,EUR
+2020,Istocen,4523.81,GDP per Capita,EUR
+2020,Jugozapaden,3519.03,GDP per Capita,EUR
+2020,Jugoistocen,4994.49,GDP per Capita,EUR
+2020,Pelagoniski,4743.3,GDP per Capita,EUR
+2020,Poloski,2208.43,GDP per Capita,EUR
+2020,Severoistocen,2594.98,GDP per Capita,EUR
+2020,Skopski,6634.13,GDP per Capita,EUR
+2020,Београдска област,10049.81,GDP per Capita,EUR
+2020,Западнобачка област,4311.16,GDP per Capita,EUR
+2020,Јужнобанатска област,5325.66,GDP per Capita,EUR
+2020,Јужнобачка област,6881.7,GDP per Capita,EUR
+2020,Севернобанатска област,4632.13,GDP per Capita,EUR
+2020,Севернобачка област,5234.26,GDP per Capita,EUR
+2020,Средњобанатска област,5248.07,GDP per Capita,EUR
+2020,Сремска област,5517.23,GDP per Capita,EUR
+2020,Златиборска област,4413.69,GDP per Capita,EUR
+2020,Колубарска област,4492.4,GDP per Capita,EUR
+2020,Мачванска област,3461.3,GDP per Capita,EUR
+2020,Моравичка област,4932.32,GDP per Capita,EUR
+2020,Поморавска област,3678.34,GDP per Capita,EUR
+2020,Расинска област,3710.62,GDP per Capita,EUR
+2020,Рашка област,2911.22,GDP per Capita,EUR
+2020,Шумадијска област,4506.31,GDP per Capita,EUR
+2020,Борска област,7307.94,GDP per Capita,EUR
+2020,Браничевска област,4596.47,GDP per Capita,EUR
+2020,Зајечарска област,3132.73,GDP per Capita,EUR
+2020,Јабланичка област,2892.95,GDP per Capita,EUR
+2020,Нишавска област,4240.89,GDP per Capita,EUR
+2020,Пиротска област,4554.16,GDP per Capita,EUR
+2020,Подунавска област,3208.31,GDP per Capita,EUR
+2020,Пчињска област,2616.9,GDP per Capita,EUR
+2020,Топличка област,3214.33,GDP per Capita,EUR
+2020,Pomurska,14284.09,GDP per Capita,EUR
+2020,Podravska,16891.69,GDP per Capita,EUR
+2020,Koroska,16502.19,GDP per Capita,EUR
+2020,Savinjska,18379.4,GDP per Capita,EUR
+2020,Zasavska,11256.55,GDP per Capita,EUR
+2020,Posavska,18190.06,GDP per Capita,EUR
+2020,Jugovzhodna Slovenija,20701.86,GDP per Capita,EUR
+2020,Primorsko-notranjska,14334.09,GDP per Capita,EUR
+2020,Osrednjeslovenska,29882.27,GDP per Capita,EUR
+2020,Gorenjska,17415.31,GDP per Capita,EUR
+2020,Goriska,18082.99,GDP per Capita,EUR
+2020,Obalno-kraska,19117.24,GDP per Capita,EUR
+2020,Bjelovarsko-bilogorska županija,8491.01,GDP per Capita,EUR
+2020,Virovitičko-podravska županija,7114.27,GDP per Capita,EUR
+2020,Požeško-slavonska županija,7217.28,GDP per Capita,EUR
+2020,Brodsko-posavska županija,7491.33,GDP per Capita,EUR
+2020,Osječko-baranjska županija,9643.27,GDP per Capita,EUR
+2020,Vukovarsko-srijemska županija,8056.42,GDP per Capita,EUR
+2020,Karlovačka županija,8773.69,GDP per Capita,EUR
+2020,Sisačko-moslavačka županija,8304.58,GDP per Capita,EUR
+2020,Primorsko-goranska zupanija,12850.27,GDP per Capita,EUR
+2020,Licko-senjska zupanija,9688.02,GDP per Capita,EUR
+2020,Zadarska zupanija,10186.21,GDP per Capita,EUR
+2020,Sibensko-kninska zupanija,9653.5,GDP per Capita,EUR
+2020,Splitsko-dalmatinska zupanija,8989.07,GDP per Capita,EUR
+2020,Istarska zupanija,12562.32,GDP per Capita,EUR
+2020,Dubrovacko-neretvanska zupanija,10435.61,GDP per Capita,EUR
+2020,Grad Zagreb,21535.97,GDP per Capita,EUR
+2020,Međimurska županija,10678.36,GDP per Capita,EUR
+2020,Varaždinska županija,11273.94,GDP per Capita,EUR
+2020,Koprivničko-križevačka županija,9325.58,GDP per Capita,EUR
+2020,Krapinsko-zagorska županija,7910.92,GDP per Capita,EUR
+2020,Zagrebačka županija,10055.87,GDP per Capita,EUR
+2020,Crna Gora,5872.43,GDP per Capita,EUR
+2020,Vardarski,5000.5,GDP per Capita,EUR
+2020,Istocen,4523.81,GDP per Capita,EUR
+2020,Jugozapaden,3519.03,GDP per Capita,EUR
+2020,Jugoistocen,4994.49,GDP per Capita,EUR
+2020,Pelagoniski,4743.3,GDP per Capita,EUR
+2020,Poloski,2208.43,GDP per Capita,EUR
+2020,Severoistocen,2594.98,GDP per Capita,EUR
+2020,Skopski,6634.13,GDP per Capita,EUR
+2020,Београдска област,10049.81,GDP per Capita,EUR
+2020,Западнобачка област,4311.16,GDP per Capita,EUR
+2020,Јужнобанатска област,5325.66,GDP per Capita,EUR
+2020,Јужнобачка област,6881.7,GDP per Capita,EUR
+2020,Севернобанатска област,4632.13,GDP per Capita,EUR
+2020,Севернобачка област,5234.26,GDP per Capita,EUR
+2020,Средњобанатска област,5248.07,GDP per Capita,EUR
+2020,Сремска област,5517.23,GDP per Capita,EUR
+2020,Златиборска област,4413.69,GDP per Capita,EUR
+2020,Колубарска област,4492.4,GDP per Capita,EUR
+2020,Мачванска област,3461.3,GDP per Capita,EUR
+2020,Моравичка област,4932.32,GDP per Capita,EUR
+2020,Поморавска област,3678.34,GDP per Capita,EUR
+2020,Расинска област,3710.62,GDP per Capita,EUR
+2020,Рашка област,2911.22,GDP per Capita,EUR
+2020,Шумадијска област,4506.31,GDP per Capita,EUR
+2020,Борска област,7307.94,GDP per Capita,EUR
+2020,Браничевска област,4596.47,GDP per Capita,EUR
+2020,Зајечарска област,3132.73,GDP per Capita,EUR
+2020,Јабланичка област,2892.95,GDP per Capita,EUR
+2020,Нишавска област,4240.89,GDP per Capita,EUR
+2020,Пиротска област,4554.16,GDP per Capita,EUR
+2020,Подунавска област,3208.31,GDP per Capita,EUR
+2020,Пчињска област,2616.9,GDP per Capita,EUR
+2020,Топличка област,3214.33,GDP per Capita,EUR
+2020,Pomurska,14284.09,GDP per Capita,EUR
+2020,Podravska,16891.69,GDP per Capita,EUR
+2020,Koroska,16502.19,GDP per Capita,EUR
+2020,Savinjska,18379.4,GDP per Capita,EUR
+2020,Zasavska,11256.55,GDP per Capita,EUR
+2020,Posavska,18190.06,GDP per Capita,EUR
+2020,Jugovzhodna Slovenija,20701.86,GDP per Capita,EUR
+2020,Primorsko-notranjska,14334.09,GDP per Capita,EUR
+2020,Osrednjeslovenska,29882.27,GDP per Capita,EUR
+2020,Gorenjska,17415.31,GDP per Capita,EUR
+2020,Goriska,18082.99,GDP per Capita,EUR
+2020,Obalno-kraska,19117.24,GDP per Capita,EUR
+2021,Bjelovarsko-bilogorska županija,10045.06,GDP per Capita,EUR
+2021,Virovitičko-podravska županija,8438.14,GDP per Capita,EUR
+2021,Požeško-slavonska županija,7977.9,GDP per Capita,EUR
+2021,Brodsko-posavska županija,8445.36,GDP per Capita,EUR
+2021,Osječko-baranjska županija,11059.58,GDP per Capita,EUR
+2021,Vukovarsko-srijemska županija,9035.22,GDP per Capita,EUR
+2021,Karlovačka županija,10162.46,GDP per Capita,EUR
+2021,Sisačko-moslavačka županija,9745.08,GDP per Capita,EUR
+2021,Primorsko-goranska zupanija,15213.01,GDP per Capita,EUR
+2021,Licko-senjska zupanija,11600.25,GDP per Capita,EUR
+2021,Zadarska zupanija,11622.49,GDP per Capita,EUR
+2021,Sibensko-kninska zupanija,11082.47,GDP per Capita,EUR
+2021,Splitsko-dalmatinska zupanija,10565.84,GDP per Capita,EUR
+2021,Istarska zupanija,15358.06,GDP per Capita,EUR
+2021,Dubrovacko-neretvanska zupanija,13148.59,GDP per Capita,EUR
+2021,Grad Zagreb,24118.85,GDP per Capita,EUR
+2021,Međimurska županija,12197.21,GDP per Capita,EUR
+2021,Varaždinska županija,12324.85,GDP per Capita,EUR
+2021,Koprivničko-križevačka županija,10441.28,GDP per Capita,EUR
+2021,Krapinsko-zagorska županija,8896.42,GDP per Capita,EUR
+2021,Zagrebačka županija,11487.18,GDP per Capita,EUR
+2021,Crna Gora,6660.91,GDP per Capita,EUR
+2021,Vardarski,5423.41,GDP per Capita,EUR
+2021,Istocen,5168.84,GDP per Capita,EUR
+2021,Jugozapaden,4403.85,GDP per Capita,EUR
+2021,Jugoistocen,5346.82,GDP per Capita,EUR
+2021,Pelagoniski,4846.84,GDP per Capita,EUR
+2021,Poloski,2548.33,GDP per Capita,EUR
+2021,Severoistocen,2940.44,GDP per Capita,EUR
+2021,Skopski,7141.83,GDP per Capita,EUR
+2021,Београдска област,10497.2,GDP per Capita,EUR
+2021,Западнобачка област,4690.02,GDP per Capita,EUR
+2021,Јужнобанатска област,5767.17,GDP per Capita,EUR
+2021,Јужнобачка област,7396.23,GDP per Capita,EUR
+2021,Севернобанатска област,5034.14,GDP per Capita,EUR
+2021,Севернобачка област,5664.86,GDP per Capita,EUR
+2021,Средњобанатска област,5701.09,GDP per Capita,EUR
+2021,Сремска област,5966.98,GDP per Capita,EUR
+2021,Златиборска област,4814.41,GDP per Capita,EUR
+2021,Колубарска област,4664.52,GDP per Capita,EUR
+2021,Мачванска област,3752.4,GDP per Capita,EUR
+2021,Моравичка област,5300.66,GDP per Capita,EUR
+2021,Поморавска област,4288.93,GDP per Capita,EUR
+2021,Расинска област,4298.1,GDP per Capita,EUR
+2021,Рашка област,3411.8,GDP per Capita,EUR
+2021,Шумадијска област,4881.5,GDP per Capita,EUR
+2021,Борска област,11015.24,GDP per Capita,EUR
+2021,Браничевска област,5000.31,GDP per Capita,EUR
+2021,Зајечарска област,3651.93,GDP per Capita,EUR
+2021,Јабланичка област,3344.54,GDP per Capita,EUR
+2021,Нишавска област,4935.89,GDP per Capita,EUR
+2021,Пиротска област,4946.41,GDP per Capita,EUR
+2021,Подунавска област,3783.26,GDP per Capita,EUR
+2021,Пчињска област,3018.08,GDP per Capita,EUR
+2021,Топличка област,3627.58,GDP per Capita,EUR
+2021,Pomurska,15308.95,GDP per Capita,EUR
+2021,Podravska,18382.31,GDP per Capita,EUR
+2021,Koroska,17401.64,GDP per Capita,EUR
+2021,Savinjska,19945.9,GDP per Capita,EUR
+2021,Zasavska,11982.79,GDP per Capita,EUR
+2021,Posavska,19110.35,GDP per Capita,EUR
+2021,Jugovzhodna Slovenija,21615.84,GDP per Capita,EUR
+2021,Primorsko-notranjska,15975.98,GDP per Capita,EUR
+2021,Osrednjeslovenska,32717.1,GDP per Capita,EUR
+2021,Gorenjska,18426.53,GDP per Capita,EUR
+2021,Goriska,19615.71,GDP per Capita,EUR
+2021,Obalno-kraska,20029.53,GDP per Capita,EUR
+2021,Bjelovarsko-bilogorska županija,10045.06,GDP per Capita,EUR
+2021,Virovitičko-podravska županija,8438.14,GDP per Capita,EUR
+2021,Požeško-slavonska županija,7977.9,GDP per Capita,EUR
+2021,Brodsko-posavska županija,8445.36,GDP per Capita,EUR
+2021,Osječko-baranjska županija,11059.58,GDP per Capita,EUR
+2021,Vukovarsko-srijemska županija,9035.22,GDP per Capita,EUR
+2021,Karlovačka županija,10162.46,GDP per Capita,EUR
+2021,Sisačko-moslavačka županija,9745.08,GDP per Capita,EUR
+2021,Primorsko-goranska zupanija,15213.01,GDP per Capita,EUR
+2021,Licko-senjska zupanija,11600.25,GDP per Capita,EUR
+2021,Zadarska zupanija,11622.49,GDP per Capita,EUR
+2021,Sibensko-kninska zupanija,11082.47,GDP per Capita,EUR
+2021,Splitsko-dalmatinska zupanija,10565.84,GDP per Capita,EUR
+2021,Istarska zupanija,15358.06,GDP per Capita,EUR
+2021,Dubrovacko-neretvanska zupanija,13148.59,GDP per Capita,EUR
+2021,Grad Zagreb,24118.85,GDP per Capita,EUR
+2021,Međimurska županija,12197.21,GDP per Capita,EUR
+2021,Varaždinska županija,12324.85,GDP per Capita,EUR
+2021,Koprivničko-križevačka županija,10441.28,GDP per Capita,EUR
+2021,Krapinsko-zagorska županija,8896.42,GDP per Capita,EUR
+2021,Zagrebačka županija,11487.18,GDP per Capita,EUR
+2021,Crna Gora,6660.91,GDP per Capita,EUR
+2021,Vardarski,5423.41,GDP per Capita,EUR
+2021,Istocen,5168.84,GDP per Capita,EUR
+2021,Jugozapaden,4403.85,GDP per Capita,EUR
+2021,Jugoistocen,5346.82,GDP per Capita,EUR
+2021,Pelagoniski,4846.84,GDP per Capita,EUR
+2021,Poloski,2548.33,GDP per Capita,EUR
+2021,Severoistocen,2940.44,GDP per Capita,EUR
+2021,Skopski,7141.83,GDP per Capita,EUR
+2021,Београдска област,10497.2,GDP per Capita,EUR
+2021,Западнобачка област,4690.02,GDP per Capita,EUR
+2021,Јужнобанатска област,5767.17,GDP per Capita,EUR
+2021,Јужнобачка област,7396.23,GDP per Capita,EUR
+2021,Севернобанатска област,5034.14,GDP per Capita,EUR
+2021,Севернобачка област,5664.86,GDP per Capita,EUR
+2021,Средњобанатска област,5701.09,GDP per Capita,EUR
+2021,Сремска област,5966.98,GDP per Capita,EUR
+2021,Златиборска област,4814.41,GDP per Capita,EUR
+2021,Колубарска област,4664.52,GDP per Capita,EUR
+2021,Мачванска област,3752.4,GDP per Capita,EUR
+2021,Моравичка област,5300.66,GDP per Capita,EUR
+2021,Поморавска област,4288.93,GDP per Capita,EUR
+2021,Расинска област,4298.1,GDP per Capita,EUR
+2021,Рашка област,3411.8,GDP per Capita,EUR
+2021,Шумадијска област,4881.5,GDP per Capita,EUR
+2021,Борска област,11015.24,GDP per Capita,EUR
+2021,Браничевска област,5000.31,GDP per Capita,EUR
+2021,Зајечарска област,3651.93,GDP per Capita,EUR
+2021,Јабланичка област,3344.54,GDP per Capita,EUR
+2021,Нишавска област,4935.89,GDP per Capita,EUR
+2021,Пиротска област,4946.41,GDP per Capita,EUR
+2021,Подунавска област,3783.26,GDP per Capita,EUR
+2021,Пчињска област,3018.08,GDP per Capita,EUR
+2021,Топличка област,3627.58,GDP per Capita,EUR
+2021,Pomurska,15308.95,GDP per Capita,EUR
+2021,Podravska,18382.31,GDP per Capita,EUR
+2021,Koroska,17401.64,GDP per Capita,EUR
+2021,Savinjska,19945.9,GDP per Capita,EUR
+2021,Zasavska,11982.79,GDP per Capita,EUR
+2021,Posavska,19110.35,GDP per Capita,EUR
+2021,Jugovzhodna Slovenija,21615.84,GDP per Capita,EUR
+2021,Primorsko-notranjska,15975.98,GDP per Capita,EUR
+2021,Osrednjeslovenska,32717.1,GDP per Capita,EUR
+2021,Gorenjska,18426.53,GDP per Capita,EUR
+2021,Goriska,19615.71,GDP per Capita,EUR
+2021,Obalno-kraska,20029.53,GDP per Capita,EUR
+2022,Bjelovarsko-bilogorska županija,10527.21,GDP per Capita,EUR
+2022,Virovitičko-podravska županija,8873.35,GDP per Capita,EUR
+2022,Požeško-slavonska županija,8496.46,GDP per Capita,EUR
+2022,Brodsko-posavska županija,9001.46,GDP per Capita,EUR
+2022,Osječko-baranjska županija,11738.58,GDP per Capita,EUR
+2022,Vukovarsko-srijemska županija,9565.64,GDP per Capita,EUR
+2022,Karlovačka županija,10912.58,GDP per Capita,EUR
+2022,Sisačko-moslavačka županija,10351.34,GDP per Capita,EUR
+2022,Primorsko-goranska zupanija,16643.77,GDP per Capita,EUR
+2022,Licko-senjska zupanija,12417.38,GDP per Capita,EUR
+2022,Zadarska zupanija,12408.99,GDP per Capita,EUR
+2022,Sibensko-kninska zupanija,12031.5,GDP per Capita,EUR
+2022,Splitsko-dalmatinska zupanija,11369.3,GDP per Capita,EUR
+2022,Istarska zupanija,17053.13,GDP per Capita,EUR
+2022,Dubrovacko-neretvanska zupanija,14701.74,GDP per Capita,EUR
+2022,Grad Zagreb,25452.12,GDP per Capita,EUR
+2022,Međimurska županija,12865.09,GDP per Capita,EUR
+2022,Varaždinska županija,13081.34,GDP per Capita,EUR
+2022,Koprivničko-križevačka županija,10992.93,GDP per Capita,EUR
+2022,Krapinsko-zagorska županija,9465.77,GDP per Capita,EUR
+2022,Zagrebačka županija,12180.49,GDP per Capita,EUR
+2022,Crna Gora,7110.55,GDP per Capita,EUR
+2022,Vardarski,5828.27,GDP per Capita,EUR
+2022,Istocen,5731.09,GDP per Capita,EUR
+2022,Jugozapaden,5055.15,GDP per Capita,EUR
+2022,Jugoistocen,5950.09,GDP per Capita,EUR
+2022,Pelagoniski,5172.13,GDP per Capita,EUR
+2022,Poloski,2983.52,GDP per Capita,EUR
+2022,Severoistocen,3246.86,GDP per Capita,EUR
+2022,Skopski,7504.15,GDP per Capita,EUR
+2022,Београдска област,11211.33,GDP per Capita,EUR
+2022,Западнобачка област,5390.1,GDP per Capita,EUR
+2022,Јужнобанатска област,6528.95,GDP per Capita,EUR
+2022,Јужнобачка област,8222.15,GDP per Capita,EUR
+2022,Севернобанатска област,5895.69,GDP per Capita,EUR
+2022,Севернобачка област,6550.75,GDP per Capita,EUR
+2022,Средњобанатска област,6545.46,GDP per Capita,EUR
+2022,Сремска област,6711.24,GDP per Capita,EUR
+2022,Златиборска област,5195.75,GDP per Capita,EUR
+2022,Колубарска област,5055.91,GDP per Capita,EUR
+2022,Мачванска област,4055.78,GDP per Capita,EUR
+2022,Моравичка област,5739.65,GDP per Capita,EUR
+2022,Поморавска област,4709.96,GDP per Capita,EUR
+2022,Расинска област,4696.68,GDP per Capita,EUR
+2022,Рашка област,3669.88,GDP per Capita,EUR
+2022,Шумадијска област,5277.08,GDP per Capita,EUR
+2022,Борска област,12192.66,GDP per Capita,EUR
+2022,Браничевска област,5439.39,GDP per Capita,EUR
+2022,Зајечарска област,4040.17,GDP per Capita,EUR
+2022,Јабланичка област,3675.74,GDP per Capita,EUR
+2022,Нишавска област,5368.69,GDP per Capita,EUR
+2022,Пиротска област,5469.27,GDP per Capita,EUR
+2022,Подунавска област,4115.28,GDP per Capita,EUR
+2022,Пчињска област,3230.29,GDP per Capita,EUR
+2022,Топличка област,3982.54,GDP per Capita,EUR
+2022,Pomurska,15667.25,GDP per Capita,EUR
+2022,Podravska,18604.53,GDP per Capita,EUR
+2022,Koroska,17682.18,GDP per Capita,EUR
+2022,Savinjska,20220.9,GDP per Capita,EUR
+2022,Zasavska,12310.39,GDP per Capita,EUR
+2022,Posavska,17864.59,GDP per Capita,EUR
+2022,Jugovzhodna Slovenija,21407.8,GDP per Capita,EUR
+2022,Primorsko-notranjska,15876.08,GDP per Capita,EUR
+2022,Osrednjeslovenska,33246.58,GDP per Capita,EUR
+2022,Gorenjska,20056.92,GDP per Capita,EUR
+2022,Goriska,20415.26,GDP per Capita,EUR
+2022,Obalno-kraska,22070.74,GDP per Capita,EUR
+2022,Bjelovarsko-bilogorska županija,10527.21,GDP per Capita,EUR
+2022,Virovitičko-podravska županija,8873.35,GDP per Capita,EUR
+2022,Požeško-slavonska županija,8496.46,GDP per Capita,EUR
+2022,Brodsko-posavska županija,9001.46,GDP per Capita,EUR
+2022,Osječko-baranjska županija,11738.58,GDP per Capita,EUR
+2022,Vukovarsko-srijemska županija,9565.64,GDP per Capita,EUR
+2022,Karlovačka županija,10912.58,GDP per Capita,EUR
+2022,Sisačko-moslavačka županija,10351.34,GDP per Capita,EUR
+2022,Primorsko-goranska zupanija,16643.77,GDP per Capita,EUR
+2022,Licko-senjska zupanija,12417.38,GDP per Capita,EUR
+2022,Zadarska zupanija,12408.99,GDP per Capita,EUR
+2022,Sibensko-kninska zupanija,12031.5,GDP per Capita,EUR
+2022,Splitsko-dalmatinska zupanija,11369.3,GDP per Capita,EUR
+2022,Istarska zupanija,17053.13,GDP per Capita,EUR
+2022,Dubrovacko-neretvanska zupanija,14701.74,GDP per Capita,EUR
+2022,Grad Zagreb,25452.12,GDP per Capita,EUR
+2022,Međimurska županija,12865.09,GDP per Capita,EUR
+2022,Varaždinska županija,13081.34,GDP per Capita,EUR
+2022,Koprivničko-križevačka županija,10992.93,GDP per Capita,EUR
+2022,Krapinsko-zagorska županija,9465.77,GDP per Capita,EUR
+2022,Zagrebačka županija,12180.49,GDP per Capita,EUR
+2022,Crna Gora,7110.55,GDP per Capita,EUR
+2022,Vardarski,5828.27,GDP per Capita,EUR
+2022,Istocen,5731.09,GDP per Capita,EUR
+2022,Jugozapaden,5055.15,GDP per Capita,EUR
+2022,Jugoistocen,5950.09,GDP per Capita,EUR
+2022,Pelagoniski,5172.13,GDP per Capita,EUR
+2022,Poloski,2983.52,GDP per Capita,EUR
+2022,Severoistocen,3246.86,GDP per Capita,EUR
+2022,Skopski,7504.15,GDP per Capita,EUR
+2022,Београдска област,11211.33,GDP per Capita,EUR
+2022,Западнобачка област,5390.1,GDP per Capita,EUR
+2022,Јужнобанатска област,6528.95,GDP per Capita,EUR
+2022,Јужнобачка област,8222.15,GDP per Capita,EUR
+2022,Севернобанатска област,5895.69,GDP per Capita,EUR
+2022,Севернобачка област,6550.75,GDP per Capita,EUR
+2022,Средњобанатска област,6545.46,GDP per Capita,EUR
+2022,Сремска област,6711.24,GDP per Capita,EUR
+2022,Златиборска област,5195.75,GDP per Capita,EUR
+2022,Колубарска област,5055.91,GDP per Capita,EUR
+2022,Мачванска област,4055.78,GDP per Capita,EUR
+2022,Моравичка област,5739.65,GDP per Capita,EUR
+2022,Поморавска област,4709.96,GDP per Capita,EUR
+2022,Расинска област,4696.68,GDP per Capita,EUR
+2022,Рашка област,3669.88,GDP per Capita,EUR
+2022,Шумадијска област,5277.08,GDP per Capita,EUR
+2022,Борска област,12192.66,GDP per Capita,EUR
+2022,Браничевска област,5439.39,GDP per Capita,EUR
+2022,Зајечарска област,4040.17,GDP per Capita,EUR
+2022,Јабланичка област,3675.74,GDP per Capita,EUR
+2022,Нишавска област,5368.69,GDP per Capita,EUR
+2022,Пиротска област,5469.27,GDP per Capita,EUR
+2022,Подунавска област,4115.28,GDP per Capita,EUR
+2022,Пчињска област,3230.29,GDP per Capita,EUR
+2022,Топличка област,3982.54,GDP per Capita,EUR
+2022,Pomurska,15667.25,GDP per Capita,EUR
+2022,Podravska,18604.53,GDP per Capita,EUR
+2022,Koroska,17682.18,GDP per Capita,EUR
+2022,Savinjska,20220.9,GDP per Capita,EUR
+2022,Zasavska,12310.39,GDP per Capita,EUR
+2022,Posavska,17864.59,GDP per Capita,EUR
+2022,Jugovzhodna Slovenija,21407.8,GDP per Capita,EUR
+2022,Primorsko-notranjska,15876.08,GDP per Capita,EUR
+2022,Osrednjeslovenska,33246.58,GDP per Capita,EUR
+2022,Gorenjska,20056.92,GDP per Capita,EUR
+2022,Goriska,20415.26,GDP per Capita,EUR
+2022,Obalno-kraska,22070.74,GDP per Capita,EUR
+2000,Kosovo,6051.51,GDP per Capita,EUR
+2001,Kosovo,6327.72,GDP per Capita,EUR
+2002,Kosovo,6138.93,GDP per Capita,EUR
+2003,Kosovo,6188.22,GDP per Capita,EUR
+2004,Kosovo,5867.37,GDP per Capita,EUR
+2005,Kosovo,6057.09,GDP per Capita,EUR
+2006,Kosovo,6186.360000000001,GDP per Capita,EUR
+2007,Kosovo,6607.650000000001,GDP per Capita,EUR
+2008,Kosovo,2057.0,GDP per Capita,EUR
+2009,Kosovo,2066.0,GDP per Capita,EUR
+2010,Kosovo,2271.0,GDP per Capita,EUR
+2011,Kosovo,2528.0,GDP per Capita,EUR
+2012,Kosovo,2655.0,GDP per Capita,EUR
+2013,Kosovo,2794.0,GDP per Capita,EUR
+2014,Kosovo,2950.0,GDP per Capita,EUR
+2015,Kosovo,3202.0,GDP per Capita,EUR
+2016,Kosovo,3368.0,GDP per Capita,EUR
+2017,Kosovo,3534.0,GDP per Capita,EUR
+2018,Kosovo,3715.0,GDP per Capita,EUR
+2019,Kosovo,3959.0,GDP per Capita,EUR
+2020,Kosovo,3772.0,GDP per Capita,EUR
+2021,Kosovo,4486.0,GDP per Capita,EUR
+2022,Kosovo,5048.0,GDP per Capita,EUR
