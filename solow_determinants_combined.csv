@@ -1,0 +1,1657 @@
+nuts_code,region_name,country,country_code,nuts_level,year,manufacturing_pct_gdp,manufacturing_data_type,routine_services_share_of_national_pct,kis_pct_employment,kis_data_type
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2000,13.2,Actual,19.996,24.5,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2001,13.5,Actual,20.182,24.84,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2002,13.0,Actual,20.438,25.18,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2003,13.4,Actual,20.755999999999997,25.52,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2004,13.8,Actual,21.011999999999997,25.86,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2005,14.1,Actual,20.976999999999997,26.2,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2006,14.5,Actual,21.101,26.55,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2007,14.7,Actual,21.159999999999997,26.89,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2008,14.3,Actual,21.150999999999996,27.23,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2009,13.1,Actual,21.051,27.57,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2010,13.5,Actual,20.820999999999994,27.91,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2011,13.8,Actual,20.750999999999998,28.25,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2012,12.8,Actual,20.707,28.59,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2013,12.9,Actual,20.707,28.93,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2014,12.5,Actual,20.707,29.27,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2015,12.3,Actual,20.707,29.61,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2016,12.0,Actual,20.741999999999997,29.95,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2017,12.4,Actual,20.625999999999998,30.3,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2018,12.7,Actual,20.604999999999997,30.64,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2019,12.6,Actual,20.755,30.98,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2020,12.1,Actual,20.122999999999998,31.32,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2021,13.2,Actual,20.386999999999997,31.66,Backcast_estimate
+BA000,Bosnia & Herzegovina,Bosnia & Herzegovina,BA,0,2022,13.0,Actual,20.542999999999996,32.0,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2000,13.3,Estimated,19.7,27.0,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2001,13.6,Estimated,20.0,27.32,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2002,13.1,Estimated,20.3,27.64,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2003,13.5,Estimated,20.7,27.95,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2004,13.9,Estimated,21.0,28.27,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2005,14.2,Estimated,21.0,28.59,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2006,14.6,Estimated,21.2,28.91,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2007,14.8,Estimated,21.3,29.23,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2008,14.4,Estimated,21.3,29.55,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2009,13.1,Estimated,21.2,29.86,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2010,13.5,Estimated,20.9,30.18,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2011,13.8,Estimated,20.9,30.5,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2012,12.8,Estimated,20.9,30.82,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2013,12.9,Estimated,20.9,31.14,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2014,12.5,Estimated,20.9,31.45,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2015,12.3,Estimated,20.9,31.77,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2016,12.0,Estimated,20.9,32.09,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2017,12.4,Estimated,20.6,32.41,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2018,12.7,Estimated,20.5,32.73,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2019,12.6,Estimated,20.6,33.05,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2020,12.1,Estimated,20.0,33.36,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2021,13.2,Estimated,20.2,33.68,Backcast_estimate
+BA100,Federation of BiH,Bosnia & Herzegovina,BA,1,2022,13.0,Estimated,20.4,34.0,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2000,12.9,Estimated,20.4,22.7,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2001,13.2,Estimated,20.4,23.06,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2002,12.7,Estimated,20.6,23.43,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2003,13.1,Estimated,20.8,23.79,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2004,13.5,Estimated,21.0,24.15,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2005,13.8,Estimated,20.9,24.52,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2006,14.2,Estimated,20.9,24.88,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2007,14.4,Estimated,20.9,25.25,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2008,14.0,Estimated,20.9,25.61,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2009,13.0,Estimated,20.8,25.97,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2010,13.4,Estimated,20.7,26.34,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2011,13.7,Estimated,20.5,26.7,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2012,12.7,Estimated,20.4,27.06,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2013,12.8,Estimated,20.4,27.43,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2014,12.4,Estimated,20.4,27.79,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2015,12.2,Estimated,20.4,28.15,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2016,11.9,Estimated,20.5,28.52,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2017,12.3,Estimated,20.7,28.88,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2018,12.6,Estimated,20.8,29.25,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2019,12.5,Estimated,21.0,29.61,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2020,12.0,Estimated,20.3,29.97,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2021,13.1,Estimated,20.7,30.34,Backcast_estimate
+BA200,Republika Srpska,Bosnia & Herzegovina,BA,1,2022,12.9,Estimated,20.8,30.7,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2000,13.1,Estimated,21.4,24.8,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2001,13.4,Estimated,21.4,25.14,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2002,12.9,Estimated,21.4,25.48,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2003,13.3,Estimated,21.4,25.82,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2004,13.7,Estimated,21.4,26.16,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2005,14.0,Estimated,21.4,26.5,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2006,14.4,Estimated,21.4,26.85,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2007,14.6,Estimated,21.3,27.19,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2008,14.2,Estimated,21.0,27.53,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2009,13.0,Estimated,20.9,27.87,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2010,13.4,Estimated,20.6,28.21,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2011,13.7,Estimated,20.6,28.55,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2012,12.7,Estimated,20.3,28.89,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2013,12.8,Estimated,20.3,29.23,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2014,12.4,Estimated,20.3,29.57,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2015,12.2,Estimated,20.3,29.91,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2016,11.9,Estimated,20.3,30.25,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2017,12.3,Estimated,20.3,30.6,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2018,12.6,Estimated,20.5,30.94,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2019,12.5,Estimated,21.1,31.28,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2020,12.0,Estimated,20.6,31.62,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2021,13.1,Estimated,20.6,31.96,Backcast_estimate
+BA300,Brcko District,Bosnia & Herzegovina,BA,1,2022,12.9,Estimated,20.5,32.3,Backcast_estimate
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2000,16.3445,Actual,1.5,1.13,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2001,18.428,Actual,1.5,1.14,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2002,18.5722,Actual,1.5,1.15,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2003,19.2462,Actual,1.6,1.15,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2004,19.8647,Actual,1.5,1.15,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2005,19.549,Actual,1.5,1.16,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2006,22.4997,Actual,1.5,1.16,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2007,22.9429,Actual,1.5,1.17,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2008,21.3981,Actual,1.5,1.2,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2009,22.6804,Actual,1.6,1.17,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2010,22.5209,Actual,2.2,1.28,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2011,22.0251,Actual,2.1,1.17,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2012,21.4888,Actual,2.5,1.33,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2013,21.3404,Actual,3.0,1.27,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2014,21.3986,Actual,3.5,1.33,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2015,21.5864,Actual,2.9,1.33,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2016,21.7834,Actual,2.5,1.27,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2017,22.129,Actual,2.5,1.28,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2018,21.0766,Actual,2.5,1.28,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2019,21.5914,Actual,2.4,1.67,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2020,22.343,Actual,1.8,1.36,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2021,22.3458,Actual,1.7,1.37,Computed_from_abs
+HR021,Bjelovarsko-bilogorska,Croatia,HR,3,2022,22.28,Actual,1.7,1.35,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2000,21.8896,Actual,1.1,0.69,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2001,21.0581,Actual,1.1,0.69,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2002,20.6007,Actual,1.1,0.69,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2003,24.961,Actual,1.2,0.7,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2004,25.5864,Actual,1.1,0.7,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2005,25.345,Actual,1.2,0.7,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2006,29.4825,Actual,1.1,0.7,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2007,28.6456,Actual,1.1,0.7,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2008,25.2251,Actual,1.1,0.73,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2009,21.1522,Actual,1.2,0.71,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2010,21.4318,Actual,1.1,0.69,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2011,21.7507,Actual,1.2,0.71,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2012,22.0311,Actual,1.1,0.66,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2013,19.7501,Actual,1.1,0.7,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2014,21.8929,Actual,1.1,0.71,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2015,21.775,Actual,1.1,0.71,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2016,22.4338,Actual,1.1,0.69,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2017,23.5928,Actual,1.1,0.71,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2018,22.7546,Actual,1.1,0.7,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2019,23.7701,Actual,1.1,0.73,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2020,21.2157,Actual,1.1,0.8,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2021,20.5996,Actual,1.1,0.82,Computed_from_abs
+HR022,Viroviticko-podravska,Croatia,HR,3,2022,19.1717,Actual,1.1,0.8,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2000,20.8495,Actual,1.0,0.73,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2001,14.6692,Actual,1.0,0.73,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2002,21.94,Actual,1.0,0.74,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2003,22.8426,Actual,1.0,0.74,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2004,21.541,Actual,1.0,0.74,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2005,20.3407,Actual,1.0,0.74,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2006,23.8415,Actual,1.0,0.74,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2007,24.67,Actual,1.0,0.73,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2008,20.5159,Actual,1.0,0.76,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2009,22.3817,Actual,1.0,0.76,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2010,21.3302,Actual,1.0,0.75,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2011,21.1947,Actual,1.0,0.72,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2012,22.0876,Actual,1.0,0.7,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2013,22.1765,Actual,1.0,0.69,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2014,23.1313,Actual,1.0,0.71,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2015,23.0191,Actual,1.0,0.73,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2016,23.5619,Actual,1.0,0.71,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2017,22.9406,Actual,1.0,0.73,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2018,22.0985,Actual,1.0,0.73,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2019,22.4228,Actual,1.0,0.77,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2020,21.4721,Actual,1.0,0.85,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2021,24.2008,Actual,1.1,0.87,Computed_from_abs
+HR023,Pozega-slavonija,Croatia,HR,3,2022,22.5648,Actual,1.1,0.86,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2000,15.8456,Actual,1.9,1.29,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2001,19.3488,Actual,1.9,1.3,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2002,16.9385,Actual,1.9,1.31,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2003,18.8639,Actual,1.9,1.31,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2004,19.5647,Actual,1.9,1.32,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2005,19.7615,Actual,1.9,1.32,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2006,20.3788,Actual,1.9,1.33,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2007,25.6005,Actual,1.9,1.33,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2008,22.2552,Actual,1.9,1.37,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2009,22.4851,Actual,2.0,1.36,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2010,25.1468,Actual,1.9,1.31,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2011,25.2662,Actual,1.8,1.31,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2012,25.1693,Actual,1.9,1.29,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2013,24.5633,Actual,1.7,1.33,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2014,24.7015,Actual,1.7,1.34,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2015,24.7935,Actual,1.8,1.34,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2016,25.8973,Actual,1.9,1.33,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2017,26.8534,Actual,1.8,1.36,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2018,26.8027,Actual,1.8,1.35,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2019,29.451,Actual,1.9,1.41,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2020,27.8826,Actual,2.1,1.55,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2021,27.2087,Actual,2.1,1.57,Computed_from_abs
+HR024,Brodsko-posavska,Croatia,HR,3,2022,28.1515,Actual,2.1,1.57,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2000,17.3709,Actual,5.3,3.46,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2001,17.0904,Actual,5.3,3.49,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2002,17.1275,Actual,5.3,3.51,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2003,17.2775,Actual,5.3,3.54,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2004,18.2872,Actual,5.3,3.55,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2005,17.3617,Actual,5.3,3.57,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2006,16.8286,Actual,5.3,3.59,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2007,17.1827,Actual,5.3,3.59,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2008,17.795,Actual,5.2,3.64,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2009,17.3408,Actual,5.5,3.7,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2010,17.9788,Actual,5.2,3.3,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2011,18.2188,Actual,5.3,3.28,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2012,18.8317,Actual,5.3,3.29,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2013,19.6035,Actual,4.8,3.2,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2014,21.0299,Actual,4.5,3.32,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2015,21.1087,Actual,4.6,3.31,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2016,21.0536,Actual,5.1,3.52,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2017,21.2753,Actual,5.1,3.55,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2018,21.103,Actual,5.1,3.52,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2019,20.7896,Actual,5.0,3.36,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2020,19.7918,Actual,5.0,3.9,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2021,20.2488,Actual,5.0,3.92,Computed_from_abs
+HR025,Osjecko-baranjska,Croatia,HR,3,2022,19.2885,Actual,4.8,3.89,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2000,11.5033,Actual,2.5,1.66,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2001,9.768,Actual,2.4,1.67,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2002,12.5536,Actual,2.4,1.68,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2003,16.3386,Actual,2.5,1.68,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2004,14.6983,Actual,2.5,1.67,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2005,14.6119,Actual,2.5,1.68,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2006,16.0228,Actual,2.5,1.68,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2007,16.7833,Actual,2.4,1.68,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2008,17.0658,Actual,2.4,1.7,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2009,12.9977,Actual,2.5,1.71,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2010,14.575,Actual,2.5,1.68,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2011,14.9727,Actual,2.5,1.67,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2012,15.1069,Actual,2.4,1.66,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2013,15.4467,Actual,2.4,1.7,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2014,16.8654,Actual,2.2,1.75,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2015,16.8161,Actual,2.4,1.73,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2016,17.1498,Actual,2.4,1.68,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2017,17.4363,Actual,2.4,1.73,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2018,17.872,Actual,2.4,1.72,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2019,17.5087,Actual,2.4,1.76,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2020,17.3409,Actual,2.4,1.9,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2021,18.6388,Actual,2.4,1.98,Computed_from_abs
+HR026,Vukovarsko-srijemska,Croatia,HR,3,2022,20.5447,Actual,2.4,1.89,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2000,19.946,Actual,2.1,1.53,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2001,19.5652,Actual,2.1,1.53,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2002,19.167,Actual,2.1,1.54,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2003,24.3374,Actual,2.1,1.55,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2004,23.5729,Actual,2.1,1.55,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2005,24.2539,Actual,2.2,1.55,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2006,26.8447,Actual,2.1,1.55,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2007,25.1066,Actual,2.1,1.55,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2008,25.9523,Actual,2.1,1.55,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2009,25.0474,Actual,2.2,1.61,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2010,24.0741,Actual,2.2,1.54,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2011,24.9595,Actual,2.2,1.51,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2012,25.5223,Actual,2.0,1.51,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2013,27.0205,Actual,2.1,1.52,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2014,27.6404,Actual,2.1,1.54,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2015,28.6611,Actual,2.1,1.57,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2016,30.2485,Actual,2.1,1.53,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2017,30.3238,Actual,2.1,1.57,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2018,30.9699,Actual,2.1,1.56,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2019,29.4922,Actual,2.1,1.61,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2020,31.7942,Actual,2.3,1.58,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2021,31.1052,Actual,2.3,1.6,Computed_from_abs
+HR027,Karlovacka,Croatia,HR,3,2022,28.2469,Actual,2.3,1.58,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2000,38.8409,Actual,2.2,1.66,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2001,35.7596,Actual,2.2,1.67,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2002,31.297,Actual,2.2,1.68,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2003,27.9009,Actual,2.2,1.68,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2004,29.2109,Actual,2.2,1.68,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2005,34.3055,Actual,2.2,1.69,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2006,38.764,Actual,2.2,1.69,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2007,39.7279,Actual,2.2,1.69,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2008,38.2397,Actual,2.2,1.7,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2009,39.1506,Actual,2.3,1.72,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2010,42.2292,Actual,2.3,1.67,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2011,40.5817,Actual,2.2,1.67,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2012,40.8668,Actual,2.1,1.65,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2013,35.6871,Actual,2.1,1.69,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2014,33.3365,Actual,2.1,1.72,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2015,34.8048,Actual,2.2,1.71,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2016,32.4229,Actual,2.2,1.68,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2017,32.1552,Actual,2.2,1.72,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2018,30.5623,Actual,2.2,1.71,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2019,30.4622,Actual,2.2,1.78,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2020,24.582,Actual,2.8,2.03,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2021,24.96,Actual,2.8,2.08,Computed_from_abs
+HR028,Sisacko-moslavacka,Croatia,HR,3,2022,19.7294,Actual,2.7,2.06,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2000,31.5988,Actual,9.4,4.12,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2001,24.3508,Actual,9.3,4.15,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2002,20.0351,Actual,9.3,4.19,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2003,20.296,Actual,9.3,4.23,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2004,20.8697,Actual,9.4,4.27,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2005,22.3999,Actual,9.3,4.3,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2006,23.7153,Actual,9.3,4.33,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2007,21.7402,Actual,9.3,4.37,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2008,23.0615,Actual,9.3,4.41,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2009,26.7493,Actual,9.4,4.42,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2010,28.4599,Actual,9.3,4.41,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2011,31.4645,Actual,9.3,4.3,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2012,32.3787,Actual,9.1,4.35,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2013,29.8056,Actual,8.8,4.31,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2014,29.7106,Actual,8.2,4.01,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2015,27.8871,Actual,9.0,4.31,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2016,26.7702,Actual,9.1,4.37,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2017,27.4776,Actual,9.1,4.45,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2018,27.1777,Actual,9.1,4.55,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2019,22.4959,Actual,9.1,4.91,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2020,20.5298,Actual,8.7,4.53,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2021,22.7331,Actual,8.7,4.51,Computed_from_abs
+HR031,Primorsko-goranska,Croatia,HR,3,2022,27.3014,Actual,8.7,4.56,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2000,13.3421,Actual,1.0,0.58,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2001,12.1419,Actual,1.0,0.58,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2002,16.3311,Actual,1.0,0.59,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2003,15.8164,Actual,1.0,0.59,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2004,7.7559,Actual,1.0,0.58,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2005,14.7114,Actual,1.0,0.59,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2006,16.0622,Actual,1.0,0.59,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2007,16.2991,Actual,1.0,0.58,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2008,15.0555,Actual,1.0,0.59,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2009,8.5128,Actual,1.0,0.62,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2010,7.7076,Actual,1.0,0.59,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2011,8.9132,Actual,1.0,0.56,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2012,9.537,Actual,1.0,0.57,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2013,10.4559,Actual,1.0,0.59,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2014,11.204,Actual,1.1,0.6,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2015,11.2527,Actual,1.0,0.59,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2016,11.8569,Actual,1.0,0.57,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2017,11.8809,Actual,1.0,0.59,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2018,10.5473,Actual,1.0,0.59,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2019,10.8911,Actual,1.0,0.58,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2020,11.5778,Actual,1.0,0.59,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2021,11.5666,Actual,1.0,0.6,Computed_from_abs
+HR032,Licko-senjska,Croatia,HR,3,2022,11.7887,Actual,1.1,0.59,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2000,9.0285,Actual,3.5,2.02,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2001,9.8885,Actual,3.5,2.04,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2002,9.0634,Actual,3.5,2.05,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2003,11.4449,Actual,3.5,2.06,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2004,11.4636,Actual,3.5,2.07,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2005,11.9226,Actual,3.5,2.09,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2006,12.6842,Actual,3.5,2.1,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2007,12.4057,Actual,3.5,2.11,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2008,11.0319,Actual,3.5,2.13,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2009,8.6957,Actual,3.4,2.1,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2010,8.9398,Actual,3.4,2.07,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2011,8.6568,Actual,3.5,2.13,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2012,8.6292,Actual,3.5,2.11,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2013,8.9867,Actual,3.6,2.1,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2014,9.5778,Actual,3.6,2.16,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2015,9.5644,Actual,3.5,2.15,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2016,9.8606,Actual,3.5,2.13,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2017,9.801,Actual,3.5,2.17,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2018,10.8021,Actual,3.5,2.17,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2019,11.8091,Actual,3.5,2.02,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2020,12.5794,Actual,4.7,2.33,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2021,12.0292,Actual,4.7,2.38,Computed_from_abs
+HR033,Zadarska,Croatia,HR,3,2022,11.4002,Actual,4.8,2.41,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2000,10.9718,Actual,2.2,1.21,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2001,9.7336,Actual,2.2,1.22,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2002,14.8879,Actual,2.3,1.23,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2003,14.3574,Actual,2.2,1.23,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2004,11.6177,Actual,2.2,1.23,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2005,14.5999,Actual,2.2,1.24,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2006,18.2153,Actual,2.2,1.24,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2007,16.5788,Actual,2.2,1.24,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2008,16.3668,Actual,2.3,1.25,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2009,16.7305,Actual,2.2,1.27,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2010,16.7745,Actual,2.2,1.22,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2011,16.5651,Actual,2.2,1.21,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2012,14.8347,Actual,2.2,1.22,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2013,15.2246,Actual,2.3,1.25,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2014,15.5015,Actual,2.3,1.27,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2015,14.061,Actual,2.3,1.26,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2016,14.1197,Actual,2.2,1.23,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2017,14.1489,Actual,2.3,1.26,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2018,14.8972,Actual,2.2,1.26,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2019,15.12,Actual,2.3,1.22,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2020,16.4533,Actual,2.4,1.27,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2021,16.61,Actual,2.5,1.3,Computed_from_abs
+HR034,Sibensko-kninska,Croatia,HR,3,2022,15.2224,Actual,2.6,1.32,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2000,17.29,Actual,11.0,5.32,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2001,19.2508,Actual,11.0,5.36,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2002,18.9087,Actual,11.1,5.41,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2003,15.9924,Actual,11.0,5.44,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2004,19.8028,Actual,11.0,5.47,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2005,18.1168,Actual,11.0,5.53,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2006,19.5421,Actual,11.0,5.58,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2007,17.8443,Actual,11.0,5.61,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2008,16.9467,Actual,11.1,5.68,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2009,14.5784,Actual,11.0,5.53,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2010,13.2226,Actual,11.0,5.55,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2011,11.9105,Actual,11.0,5.67,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2012,10.7111,Actual,11.0,5.66,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2013,9.9479,Actual,11.1,5.58,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2014,11.0964,Actual,11.6,5.83,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2015,11.0926,Actual,11.1,5.72,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2016,11.7907,Actual,11.1,5.71,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2017,11.5956,Actual,11.1,5.77,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2018,10.9331,Actual,11.1,5.79,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2019,12.2617,Actual,11.1,5.44,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2020,11.7962,Actual,12.6,6.37,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2021,11.6028,Actual,12.9,6.43,Computed_from_abs
+HR035,Splitsko-dalmatinska,Croatia,HR,3,2022,9.1827,Actual,13.1,6.62,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2000,26.6134,Actual,6.6,2.67,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2001,24.6133,Actual,6.6,2.69,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2002,30.1212,Actual,6.6,2.72,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2003,27.5743,Actual,6.6,2.74,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2004,28.1598,Actual,6.6,2.78,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2005,24.7134,Actual,6.6,2.8,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2006,25.9331,Actual,6.6,2.82,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2007,25.6303,Actual,6.5,2.84,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2008,26.8976,Actual,6.6,2.88,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2009,24.7831,Actual,6.5,2.87,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2010,27.7503,Actual,6.6,2.89,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2011,27.3965,Actual,6.5,2.87,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2012,22.9802,Actual,6.6,2.81,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2013,20.7303,Actual,6.6,2.81,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2014,21.5939,Actual,6.5,2.91,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2015,21.0843,Actual,6.6,2.89,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2016,21.6476,Actual,6.6,2.93,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2017,20.662,Actual,6.6,2.95,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2018,18.5099,Actual,6.6,2.97,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2019,18.3894,Actual,6.6,2.89,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2020,20.5978,Actual,6.9,3.02,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2021,18.2694,Actual,7.1,3.07,Computed_from_abs
+HR036,Istarska,Croatia,HR,3,2022,17.491,Actual,7.4,3.15,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2000,9.7509,Actual,3.7,1.69,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2001,10.6065,Actual,3.7,1.71,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2002,10.9904,Actual,3.7,1.72,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2003,10.5855,Actual,3.7,1.73,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2004,10.7818,Actual,3.7,1.75,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2005,11.0605,Actual,3.7,1.77,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2006,10.8352,Actual,3.7,1.78,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2007,8.3568,Actual,3.7,1.79,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2008,7.6767,Actual,3.7,1.82,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2009,6.3901,Actual,3.6,1.76,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2010,5.68,Actual,3.7,1.82,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2011,5.147,Actual,3.7,1.81,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2012,5.032,Actual,3.8,1.79,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2013,5.0355,Actual,3.7,1.82,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2014,5.5947,Actual,3.9,1.82,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2015,5.5175,Actual,3.7,1.83,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2016,5.3518,Actual,3.8,1.84,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2017,4.934,Actual,3.7,1.86,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2018,5.0107,Actual,3.8,1.87,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2019,4.6008,Actual,3.7,1.91,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2020,5.7941,Actual,4.2,1.84,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2021,5.138,Actual,4.2,1.9,Computed_from_abs
+HR037,Dubrovacko-neretvanska,Croatia,HR,3,2022,4.3663,Actual,4.5,1.91,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2000,26.5036,Actual,29.8,20.28,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2001,27.9753,Actual,29.9,20.5,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2002,25.1591,Actual,29.8,20.75,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2003,24.1233,Actual,29.8,21.03,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2004,23.9475,Actual,29.8,21.37,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2005,22.3175,Actual,29.8,21.58,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2006,19.1454,Actual,29.9,21.92,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2007,19.7481,Actual,30.1,22.28,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2008,19.3109,Actual,30.0,22.29,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2009,17.0183,Actual,29.6,22.3,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2010,15.0308,Actual,29.4,22.55,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2011,14.2453,Actual,29.5,22.79,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2012,13.7044,Actual,29.5,22.26,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2013,13.8957,Actual,29.5,22.29,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2014,14.4246,Actual,29.5,22.2,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2015,14.4813,Actual,29.5,22.54,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2016,14.7403,Actual,29.4,23.08,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2017,13.7592,Actual,29.4,23.02,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2018,12.5773,Actual,29.5,23.49,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2019,13.5068,Actual,29.5,23.5,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2020,13.3044,Actual,21.8,18.61,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2021,13.3102,Actual,21.5,18.45,Computed_from_abs
+HR050,Grad Zagreb,Croatia,HR,3,2022,12.764,Actual,21.0,18.65,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2000,32.9379,Actual,1.8,0.96,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2001,32.2746,Actual,1.8,0.97,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2002,34.7129,Actual,1.8,0.98,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2003,35.4816,Actual,1.8,0.99,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2004,31.7616,Actual,1.8,0.99,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2005,33.8784,Actual,1.8,1.0,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2006,36.1163,Actual,1.8,1.0,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2007,38.5297,Actual,1.8,1.01,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2008,38.0942,Actual,1.8,1.02,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2009,35.688,Actual,1.8,1.03,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2010,37.1224,Actual,2.0,0.97,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2011,37.7913,Actual,1.7,1.02,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2012,37.4952,Actual,1.7,1.05,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2013,46.3317,Actual,1.7,1.0,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2014,41.6034,Actual,1.9,1.05,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2015,41.5682,Actual,1.9,1.04,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2016,42.7447,Actual,1.8,0.99,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2017,42.7904,Actual,1.8,0.95,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2018,44.1231,Actual,1.7,0.89,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2019,45.3685,Actual,1.7,1.05,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2020,46.4229,Actual,1.8,1.2,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2021,46.2557,Actual,1.7,1.23,Computed_from_abs
+HR061,Medimurska,Croatia,HR,3,2022,45.8485,Actual,1.7,1.26,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2000,34.2587,Actual,3.3,1.81,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2001,34.1992,Actual,3.3,1.82,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2002,33.6888,Actual,3.3,1.84,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2003,29.8963,Actual,3.3,1.84,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2004,29.0466,Actual,3.3,1.85,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2005,30.0579,Actual,3.3,1.87,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2006,34.6682,Actual,3.3,1.87,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2007,35.7923,Actual,3.3,1.88,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2008,31.9851,Actual,3.3,1.89,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2009,33.8401,Actual,3.4,1.9,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2010,34.7366,Actual,3.3,1.88,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2011,34.4124,Actual,3.3,1.85,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2012,34.3138,Actual,3.3,1.83,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2013,35.9736,Actual,3.3,1.86,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2014,38.3811,Actual,3.3,1.88,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2015,38.9245,Actual,3.3,1.9,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2016,40.6096,Actual,3.3,1.88,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2017,41.5373,Actual,3.3,1.92,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2018,42.1269,Actual,3.3,1.9,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2019,43.0439,Actual,3.3,1.92,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2020,44.0711,Actual,3.4,2.14,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2021,42.0095,Actual,3.4,2.16,Computed_from_abs
+HR062,Varazdinska,Croatia,HR,3,2022,43.2442,Actual,3.3,2.18,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2000,46.0665,Actual,1.6,0.94,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2001,43.8651,Actual,1.6,0.95,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2002,44.8444,Actual,1.6,0.95,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2003,42.6545,Actual,1.6,0.96,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2004,41.9558,Actual,1.6,0.96,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2005,38.6105,Actual,1.6,0.97,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2006,40.4041,Actual,1.6,0.98,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2007,37.3179,Actual,1.6,0.98,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2008,37.1728,Actual,1.6,0.99,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2009,34.4192,Actual,1.6,1.0,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2010,33.3751,Actual,1.6,0.97,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2011,31.1284,Actual,1.6,0.97,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2012,31.0218,Actual,1.5,0.97,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2013,31.5652,Actual,1.5,0.97,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2014,32.1983,Actual,1.5,0.98,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2015,31.5117,Actual,1.6,0.98,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2016,31.8165,Actual,1.6,0.98,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2017,30.8074,Actual,1.6,1.0,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2018,30.1531,Actual,1.6,1.0,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2019,31.1519,Actual,1.6,1.04,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2020,32.7355,Actual,1.8,1.19,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2021,31.8719,Actual,1.8,1.19,Computed_from_abs
+HR063,Koprivnicko-krizevacka,Croatia,HR,3,2022,29.936,Actual,1.8,1.19,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2000,24.771,Actual,2.0,1.16,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2001,25.1436,Actual,2.0,1.17,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2002,28.0325,Actual,2.0,1.17,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2003,30.1852,Actual,2.0,1.17,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2004,30.8575,Actual,2.0,1.17,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2005,28.5924,Actual,2.0,1.18,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2006,32.0998,Actual,2.0,1.18,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2007,32.5356,Actual,2.0,1.18,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2008,34.3501,Actual,2.0,1.19,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2009,36.2814,Actual,2.0,1.19,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2010,36.0069,Actual,2.0,1.16,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2011,34.2829,Actual,2.0,1.16,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2012,32.5836,Actual,2.0,1.16,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2013,34.8066,Actual,2.1,1.18,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2014,37.3634,Actual,2.1,1.19,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2015,38.0697,Actual,2.0,1.2,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2016,40.324,Actual,2.0,1.17,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2017,41.5158,Actual,2.0,1.2,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2018,42.1769,Actual,2.0,1.19,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2019,42.2739,Actual,2.0,1.23,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2020,43.2507,Actual,2.7,1.65,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2021,42.4582,Actual,2.7,1.68,Computed_from_abs
+HR064,Krapinsko-zagorska,Croatia,HR,3,2022,42.1896,Actual,2.6,1.72,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2000,29.9748,Actual,6.4,2.1,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2001,23.6905,Actual,6.4,2.11,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2002,29.7817,Actual,6.4,2.13,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2003,30.5141,Actual,6.4,2.15,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2004,30.2203,Actual,6.4,2.16,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2005,31.5635,Actual,6.4,2.17,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2006,26.5797,Actual,6.4,2.17,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2007,28.0227,Actual,6.4,2.19,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2008,27.1373,Actual,6.4,2.19,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2009,27.7687,Actual,6.3,2.25,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2010,28.8902,Actual,6.3,2.21,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2011,28.9107,Actual,6.5,2.15,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2012,28.2005,Actual,6.5,2.11,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2013,29.3741,Actual,6.5,2.14,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2014,31.0217,Actual,6.3,2.16,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2015,30.4382,Actual,6.3,2.17,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2016,30.8134,Actual,6.4,2.21,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2017,30.1352,Actual,6.4,2.21,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2018,28.2398,Actual,6.4,2.24,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2019,26.3334,Actual,6.4,2.22,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2020,26.8127,Actual,9.2,4.79,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2021,25.0484,Actual,9.2,4.87,Computed_from_abs
+HR065,Zagrebacka,Croatia,HR,3,2022,24.384,Actual,9.0,4.97,Computed_from_abs
+ME000,Montenegro,Montenegro,ME,0,2000,30.8972,Estimated (extrapolated),18.2,27.5,Backcast_estimate
+ME000,Montenegro,Montenegro,ME,0,2001,28.9775,Estimated (extrapolated),18.6,27.8,Backcast_estimate
+ME000,Montenegro,Montenegro,ME,0,2002,27.0577,Estimated (extrapolated),19.0,28.0,Backcast_estimate
+ME000,Montenegro,Montenegro,ME,0,2003,25.138,Estimated (extrapolated),19.3,28.2,Backcast_estimate
+ME000,Montenegro,Montenegro,ME,0,2004,23.2182,Estimated (extrapolated),19.7,28.5,Backcast_estimate
+ME000,Montenegro,Montenegro,ME,0,2005,21.2985,Estimated (extrapolated),20.0,29.0,Backcast_estimate
+ME000,Montenegro,Montenegro,ME,0,2006,19.3787,Actual,20.3,29.5,Backcast_estimate
+ME000,Montenegro,Montenegro,ME,0,2007,15.4594,Actual,20.7,30.0,Backcast_estimate
+ME000,Montenegro,Montenegro,ME,0,2008,15.6038,Actual,21.1,30.5,Observed_approx
+ME000,Montenegro,Montenegro,ME,0,2009,13.6195,Actual,20.9,30.0,Observed_approx
+ME000,Montenegro,Montenegro,ME,0,2010,14.7854,Actual,19.2,29.8,Observed_approx
+ME000,Montenegro,Montenegro,ME,0,2011,13.2899,Actual,19.0,30.2,Observed_approx
+ME000,Montenegro,Montenegro,ME,0,2012,12.6676,Actual,19.3,30.8,Observed_approx
+ME000,Montenegro,Montenegro,ME,0,2013,13.5794,Actual,19.7,30.5,Observed_approx
+ME000,Montenegro,Montenegro,ME,0,2014,13.2053,Actual,20.5,30.3,Observed_approx
+ME000,Montenegro,Montenegro,ME,0,2015,12.8127,Actual,20.5,30.1,Observed_approx
+ME000,Montenegro,Montenegro,ME,0,2016,12.1732,Actual,20.5,30.0,Observed_approx
+ME000,Montenegro,Montenegro,ME,0,2017,11.5646,Actual,20.5,30.5,Observed_approx
+ME000,Montenegro,Montenegro,ME,0,2018,12.7901,Actual,20.4,31.2,Observed_approx
+ME000,Montenegro,Montenegro,ME,0,2019,12.1259,Actual,20.4,32.0,Observed_approx
+ME000,Montenegro,Montenegro,ME,0,2020,13.5269,Actual,18.1,32.8,Observed_approx
+ME000,Montenegro,Montenegro,ME,0,2021,12.5123,Actual,18.6,33.5,Observed_approx
+ME000,Montenegro,Montenegro,ME,0,2022,11.8902,Actual,18.7,34.5,Observed_approx
+MK001,Vardarski,North Macedonia,MK,3,2000,26.6413,Actual,6.1,2.31,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2001,28.4012,Actual,5.9,2.21,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2002,24.8705,Actual,7.1,2.24,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2003,22.4931,Actual,7.1,2.25,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2004,25.5527,Actual,6.4,2.21,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2005,28.4312,Actual,6.8,2.23,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2006,30.2692,Actual,7.4,2.17,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2007,27.8508,Actual,7.4,2.03,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2008,23.1403,Actual,8.2,2.38,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2009,25.3176,Actual,7.5,2.75,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2010,25.8505,Actual,7.3,2.48,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2011,25.3906,Actual,7.4,2.41,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2012,23.2846,Actual,6.9,2.24,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2013,24.9159,Actual,6.0,1.86,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2014,26.0367,Actual,15.1,2.89,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2015,23.9021,Actual,6.1,3.93,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2016,21.1692,Actual,7.9,2.68,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2017,18.9725,Actual,7.1,2.6,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2018,21.1679,Actual,6.9,2.67,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2019,22.4859,Actual,6.9,2.82,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2020,24.6414,Actual,7.1,2.67,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2021,28.6958,Actual,7.2,2.71,Computed_from_abs
+MK001,Vardarski,North Macedonia,MK,3,2022,19.3577,Actual,7.4,2.62,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2000,23.8542,Actual,4.3,2.74,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2001,24.1182,Actual,4.3,2.77,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2002,18.7859,Actual,4.8,2.88,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2003,19.0698,Actual,4.5,2.78,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2004,20.5286,Actual,4.3,2.72,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2005,31.9901,Actual,4.1,2.69,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2006,31.2412,Actual,4.5,2.7,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2007,28.7455,Actual,4.8,2.56,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2008,29.0142,Actual,5.3,2.8,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2009,32.9748,Actual,5.6,2.86,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2010,31.3488,Actual,7.5,3.07,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2011,35.5662,Actual,7.8,2.84,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2012,32.7418,Actual,7.9,3.03,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2013,31.1653,Actual,7.5,2.52,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2014,31.6304,Actual,6.2,3.99,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2015,34.552,Actual,6.8,3.73,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2016,29.0388,Actual,7.6,2.94,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2017,32.7305,Actual,7.5,3.2,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2018,34.4016,Actual,7.7,3.16,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2019,35.4394,Actual,6.7,3.19,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2020,33.9559,Actual,6.9,3.21,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2021,32.1116,Actual,7.0,3.24,Computed_from_abs
+MK002,Istocen,North Macedonia,MK,3,2022,30.8442,Actual,7.3,3.23,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2000,19.6396,Actual,9.8,3.22,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2001,25.244,Actual,9.0,3.26,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2002,27.779,Actual,8.8,3.3,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2003,22.5799,Actual,8.8,3.36,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2004,29.2364,Actual,9.0,3.4,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2005,30.451,Actual,8.9,3.4,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2006,24.5462,Actual,9.8,3.37,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2007,20.7183,Actual,9.3,3.21,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2008,17.4035,Actual,11.2,3.36,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2009,17.2147,Actual,10.8,3.42,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2010,17.1611,Actual,10.3,5.06,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2011,20.8983,Actual,9.9,5.12,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2012,19.2767,Actual,10.1,4.19,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2013,15.7969,Actual,10.0,3.23,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2014,17.7993,Actual,9.3,3.87,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2015,21.7018,Actual,8.8,3.29,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2016,14.6753,Actual,10.4,4.02,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2017,20.5454,Actual,10.8,4.43,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2018,15.8766,Actual,10.7,4.33,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2019,15.3944,Actual,10.8,4.4,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2020,15.113,Actual,11.0,4.59,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2021,15.3856,Actual,10.7,4.39,Computed_from_abs
+MK003,Jugozapaden,North Macedonia,MK,3,2022,14.7854,Actual,10.1,4.17,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2000,12.2802,Actual,8.2,2.2,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2001,13.417,Actual,7.6,2.13,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2002,12.8668,Actual,7.2,2.21,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2003,13.262,Actual,7.4,2.21,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2004,14.0519,Actual,7.6,2.17,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2005,17.6151,Actual,7.0,2.15,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2006,18.0039,Actual,6.8,2.12,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2007,15.9113,Actual,7.5,2.02,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2008,14.781,Actual,7.3,2.14,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2009,15.8109,Actual,7.2,2.13,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2010,13.3778,Actual,8.8,2.58,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2011,15.1972,Actual,8.6,2.54,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2012,15.4614,Actual,8.3,2.55,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2013,15.8029,Actual,8.4,2.05,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2014,19.2439,Actual,7.4,2.61,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2015,17.2822,Actual,7.1,2.47,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2016,16.6832,Actual,8.9,2.59,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2017,18.2408,Actual,8.3,2.52,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2018,17.3742,Actual,8.7,2.62,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2019,14.533,Actual,8.6,2.73,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2020,13.9666,Actual,9.0,2.52,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2021,15.5613,Actual,9.1,2.68,Computed_from_abs
+MK004,Jugoistocen,North Macedonia,MK,3,2022,13.5638,Actual,9.1,2.7,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2000,32.1775,Actual,9.3,4.52,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2001,33.5245,Actual,8.7,4.49,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2002,33.657,Actual,8.9,4.55,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2003,32.8282,Actual,9.5,4.55,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2004,37.4819,Actual,9.4,4.43,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2005,29.788,Actual,7.7,4.29,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2006,33.386,Actual,7.5,4.12,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2007,28.3829,Actual,7.2,3.95,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2008,24.855,Actual,8.9,3.98,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2009,28.8856,Actual,8.7,4.2,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2010,28.2862,Actual,11.4,4.11,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2011,29.0624,Actual,11.2,3.68,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2012,27.8766,Actual,11.1,4.22,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2013,28.6258,Actual,11.2,3.48,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2014,30.1202,Actual,8.7,4.15,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2015,30.4994,Actual,8.5,4.74,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2016,24.7343,Actual,10.9,4.38,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2017,27.8507,Actual,10.6,4.28,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2018,27.7098,Actual,10.3,4.06,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2019,27.8424,Actual,10.6,4.13,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2020,25.9972,Actual,10.0,4.31,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2021,24.638,Actual,9.7,4.36,Computed_from_abs
+MK005,Pelagoniski,North Macedonia,MK,3,2022,18.8707,Actual,9.5,4.58,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2000,16.431,Actual,7.1,3.32,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2001,11.8729,Actual,5.6,3.16,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2002,15.7198,Actual,5.6,3.3,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2003,23.944,Actual,7.3,3.3,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2004,16.956,Actual,8.3,3.34,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2005,23.0886,Actual,7.8,3.39,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2006,18.178,Actual,8.5,3.65,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2007,14.2379,Actual,7.9,3.45,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2008,10.8742,Actual,8.1,3.66,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2009,10.2958,Actual,7.9,4.18,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2010,11.1216,Actual,9.5,4.81,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2011,12.4632,Actual,8.7,4.87,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2012,11.3498,Actual,10.0,4.18,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2013,11.663,Actual,11.1,3.28,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2014,11.2226,Actual,9.9,4.11,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2015,11.869,Actual,10.2,3.72,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2016,9.7109,Actual,10.6,5.15,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2017,11.463,Actual,12.9,5.02,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2018,13.3519,Actual,12.8,5.35,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2019,12.6717,Actual,12.8,5.25,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2020,13.5144,Actual,12.0,5.44,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2021,12.9644,Actual,12.3,5.38,Computed_from_abs
+MK006,Poloski,North Macedonia,MK,3,2022,11.8097,Actual,11.6,5.38,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2000,16.7525,Actual,5.8,1.78,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2001,16.6273,Actual,5.4,1.82,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2002,14.5727,Actual,5.5,1.89,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2003,14.3706,Actual,6.3,1.92,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2004,10.0186,Actual,5.7,1.93,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2005,14.3643,Actual,4.8,1.94,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2006,22.387,Actual,4.3,1.93,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2007,17.9534,Actual,4.4,1.84,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2008,12.5,Actual,5.4,1.83,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2009,12.3776,Actual,5.2,1.9,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2010,13.3621,Actual,5.4,2.54,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2011,13.3868,Actual,5.4,2.74,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2012,15.8305,Actual,5.0,2.63,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2013,12.0501,Actual,5.5,1.84,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2014,18.6139,Actual,6.1,2.5,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2015,17.7231,Actual,8.3,2.37,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2016,13.8145,Actual,5.9,2.82,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2017,17.9734,Actual,5.6,3.06,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2018,13.4303,Actual,5.5,3.03,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2019,12.6713,Actual,5.6,2.98,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2020,13.4226,Actual,5.8,2.99,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2021,12.3682,Actual,5.7,2.83,Computed_from_abs
+MK007,Severoistocen,North Macedonia,MK,3,2022,11.8636,Actual,5.7,2.97,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2000,11.2951,Actual,49.3,21.92,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2001,12.6599,Actual,53.6,22.66,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2002,13.053,Actual,52.0,22.63,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2003,15.789,Actual,49.1,23.13,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2004,14.7061,Actual,49.3,23.8,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2005,16.3404,Actual,52.8,24.41,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2006,15.9337,Actual,51.0,24.93,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2007,13.0988,Actual,51.4,26.43,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2008,13.6658,Actual,45.7,25.84,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2009,12.224,Actual,47.2,24.56,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2010,13.5002,Actual,39.9,20.35,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2011,14.7588,Actual,41.1,21.31,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2012,13.6109,Actual,40.8,22.46,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2013,14.237,Actual,40.3,27.74,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2014,14.2857,Actual,37.3,22.38,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2015,14.0469,Actual,44.2,22.75,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2016,17.2128,Actual,37.8,22.93,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2017,14.0207,Actual,37.3,22.89,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2018,15.5634,Actual,37.4,23.29,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2019,15.0048,Actual,37.9,23.49,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2020,14.2564,Actual,38.3,23.77,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2021,13.4451,Actual,38.3,24.4,Computed_from_abs
+MK008,Skopski,North Macedonia,MK,3,2022,14.7247,Actual,39.3,24.84,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2000,19.1418,Actual,29.9,20.02,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2001,18.6501,Actual,29.9,20.39,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2002,19.9994,Actual,30.8,20.32,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2003,19.4979,Actual,32.2,20.85,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2004,20.6448,Actual,35.0,22.13,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2005,20.8929,Actual,35.5,22.72,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2006,20.8613,Actual,35.1,23.18,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2007,19.8953,Actual,34.4,24.34,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2008,19.6666,Actual,34.6,24.89,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2009,17.8862,Actual,34.9,25.31,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2010,17.8882,Actual,36.0,25.52,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2011,16.8332,Actual,35.2,25.8,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2012,16.9868,Actual,35.6,26.04,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2013,18.2428,Actual,35.7,26.27,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2014,16.4319,Actual,35.5,26.2,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2015,16.6509,Actual,34.6,26.69,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2016,16.6709,Actual,36.3,27.63,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2017,15.5563,Actual,36.9,27.39,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2018,15.3377,Actual,36.7,29.16,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2019,13.847,Actual,37.2,30.02,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2020,13.5926,Actual,36.3,30.18,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2021,12.6769,Actual,37.0,31.24,Computed_from_abs
+RS110,Beogradski,Serbia,RS,3,2022,11.968,Actual,37.3,31.94,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2000,56.8746,Actual,3.0,0.93,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2001,50.1454,Actual,3.0,0.91,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2002,59.4194,Actual,2.9,0.89,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2003,56.1205,Actual,2.7,0.91,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2004,55.2739,Actual,2.4,0.89,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2005,45.0368,Actual,2.4,0.91,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2006,41.3812,Actual,2.3,0.9,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2007,40.2405,Actual,2.3,0.84,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2008,41.9716,Actual,2.2,0.83,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2009,43.5162,Actual,2.2,0.84,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2010,41.1892,Actual,2.2,0.84,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2011,42.4207,Actual,2.3,0.8,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2012,35.959,Actual,2.2,0.78,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2013,37.0108,Actual,2.2,0.76,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2014,28.4551,Actual,2.1,0.75,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2015,32.8923,Actual,2.1,0.76,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2016,33.7665,Actual,1.9,0.74,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2017,27.707,Actual,2.0,0.83,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2018,25.4165,Actual,1.9,0.76,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2019,23.0224,Actual,2.0,0.77,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2020,24.2479,Actual,1.9,0.72,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2021,23.3875,Actual,1.8,0.72,Computed_from_abs
+RS121,Severnobacki,Serbia,RS,3,2022,21.2782,Actual,1.7,0.73,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2000,54.9834,Actual,3.1,1.54,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2001,47.8624,Actual,3.2,1.5,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2002,54.912,Actual,3.2,1.5,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2003,48.3249,Actual,2.9,1.44,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2004,62.46,Actual,2.8,1.42,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2005,54.6425,Actual,2.8,1.41,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2006,48.1814,Actual,2.9,1.42,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2007,54.0985,Actual,2.9,1.41,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2008,43.0415,Actual,3.0,1.41,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2009,41.1885,Actual,2.6,1.37,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2010,35.4866,Actual,2.5,1.37,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2011,33.4501,Actual,2.5,1.42,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2012,35.19,Actual,2.6,1.4,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2013,41.1665,Actual,2.5,1.35,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2014,36.254,Actual,2.5,1.36,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2015,43.4366,Actual,2.4,1.37,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2016,41.1561,Actual,2.8,1.38,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2017,45.3801,Actual,2.8,1.37,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2018,44.6123,Actual,2.9,1.33,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2019,42.2125,Actual,2.9,1.37,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2020,44.605,Actual,3.0,1.43,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2021,52.7087,Actual,2.9,1.38,Computed_from_abs
+RS122,Srednjebanatski,Serbia,RS,3,2022,57.8482,Actual,3.0,1.42,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2000,43.1826,Actual,6.3,4.94,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2001,40.2811,Actual,6.4,4.86,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2002,40.7556,Actual,6.2,4.89,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2003,41.6753,Actual,6.2,4.81,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2004,37.1537,Actual,6.8,4.85,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2005,40.1935,Actual,7.1,5.02,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2006,37.9563,Actual,8.2,5.18,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2007,37.5621,Actual,8.5,5.04,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2008,35.285,Actual,8.8,5.04,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2009,30.798,Actual,9.5,5.14,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2010,34.3753,Actual,9.3,5.19,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2011,38.8479,Actual,9.6,5.28,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2012,38.0021,Actual,9.5,5.27,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2013,41.2422,Actual,9.6,5.19,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2014,38.1904,Actual,9.7,5.3,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2015,29.7145,Actual,9.9,5.39,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2016,28.5802,Actual,10.4,5.57,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2017,28.8768,Actual,10.2,5.81,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2018,25.7012,Actual,10.1,5.74,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2019,24.239,Actual,9.8,5.46,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2020,22.6585,Actual,10.5,5.81,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2021,21.2196,Actual,10.5,5.88,Computed_from_abs
+RS123,Severnobanatski,Serbia,RS,3,2022,28.159,Actual,10.4,5.85,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2000,57.8419,Actual,1.9,0.79,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2001,51.4293,Actual,2.0,0.79,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2002,53.8875,Actual,1.9,0.77,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2003,50.7116,Actual,1.8,0.79,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2004,54.285,Actual,1.8,0.78,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2005,53.3451,Actual,1.8,0.79,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2006,49.6358,Actual,1.7,0.81,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2007,49.3242,Actual,1.7,0.75,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2008,45.2774,Actual,1.7,0.77,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2009,52.4005,Actual,1.8,0.76,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2010,40.9149,Actual,1.7,0.75,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2011,55.9309,Actual,1.8,0.78,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2012,52.0152,Actual,2.0,0.75,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2013,51.4524,Actual,2.0,0.73,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2014,48.2378,Actual,1.9,0.72,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2015,51.6622,Actual,1.8,0.71,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2016,50.307,Actual,1.4,0.63,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2017,50.8658,Actual,1.4,0.67,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2018,46.9978,Actual,1.4,0.59,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2019,46.1479,Actual,1.5,0.59,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2020,43.9109,Actual,1.4,0.56,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2021,43.7932,Actual,1.3,0.56,Computed_from_abs
+RS124,Juznobanatski,Serbia,RS,3,2022,36.9769,Actual,1.4,0.54,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2000,52.3635,Actual,3.8,1.13,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2001,45.0257,Actual,3.9,1.14,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2002,38.8571,Actual,3.9,1.11,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2003,39.5123,Actual,3.8,1.16,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2004,35.8936,Actual,4.4,1.19,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2005,34.2902,Actual,4.6,1.24,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2006,34.9548,Actual,4.5,1.33,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2007,35.6199,Actual,4.3,1.27,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2008,38.4331,Actual,4.5,1.29,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2009,32.5532,Actual,4.3,1.31,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2010,31.1221,Actual,4.3,1.3,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2011,27.9212,Actual,4.4,1.3,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2012,27.9619,Actual,4.4,1.26,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2013,29.7067,Actual,4.3,1.21,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2014,29.4047,Actual,4.3,1.19,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2015,29.8408,Actual,4.3,1.18,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2016,30.4893,Actual,4.1,0.99,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2017,31.0948,Actual,3.9,1.05,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2018,30.9028,Actual,2.7,0.93,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2019,29.7765,Actual,2.7,0.9,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2020,29.8461,Actual,2.6,0.91,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2021,30.6913,Actual,2.7,0.94,Computed_from_abs
+RS125,Zapadnobacki,Serbia,RS,3,2022,28.8665,Actual,2.6,0.91,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2000,44.3629,Actual,2.8,0.96,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2001,43.6183,Actual,2.8,1.02,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2002,41.1815,Actual,2.8,1.0,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2003,41.2022,Actual,2.6,1.0,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2004,37.0834,Actual,2.3,0.98,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2005,31.2788,Actual,2.2,0.99,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2006,28.0626,Actual,2.3,0.99,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2007,30.0058,Actual,2.3,0.9,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2008,34.8922,Actual,2.3,0.91,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2009,30.142,Actual,2.2,0.92,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2010,34.4428,Actual,2.2,0.91,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2011,35.3934,Actual,2.1,0.91,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2012,38.3581,Actual,2.2,0.9,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2013,39.2953,Actual,2.3,0.88,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2014,37.5972,Actual,2.3,0.87,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2015,36.5412,Actual,2.3,0.87,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2016,31.3606,Actual,1.9,0.81,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2017,32.6106,Actual,2.0,0.86,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2018,31.035,Actual,1.9,0.82,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2019,26.8162,Actual,2.1,0.88,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2020,25.6078,Actual,1.9,0.72,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2021,23.4532,Actual,1.9,0.8,Computed_from_abs
+RS126,Juznobacki,Serbia,RS,3,2022,20.6208,Actual,2.0,0.79,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2000,24.7864,Actual,3.8,0.85,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2001,25.2316,Actual,3.4,1.3,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2002,23.885,Actual,3.5,1.27,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2003,21.9866,Actual,3.4,1.26,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2004,24.398,Actual,3.6,1.21,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2005,24.5784,Actual,3.6,1.24,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2006,25.7955,Actual,4.0,1.24,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2007,31.68,Actual,4.3,1.19,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2008,32.8589,Actual,4.3,1.23,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2009,30.8698,Actual,4.4,1.31,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2010,30.565,Actual,4.2,1.31,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2011,35.6913,Actual,4.3,1.31,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2012,34.0707,Actual,4.3,1.29,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2013,37.1179,Actual,4.2,1.26,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2014,37.5081,Actual,4.1,1.29,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2015,36.4955,Actual,4.5,1.3,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2016,36.0956,Actual,4.2,1.25,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2017,41.9306,Actual,4.1,1.13,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2018,40.3495,Actual,4.5,1.23,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2019,41.0315,Actual,4.7,1.27,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2020,46.4143,Actual,5.0,1.22,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2021,43.2438,Actual,4.7,1.18,Computed_from_abs
+RS127,Sremski,Serbia,RS,3,2022,41.8045,Actual,5.0,1.19,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2000,35.2053,Actual,2.3,1.42,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2001,37.2272,Actual,2.3,1.48,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2002,39.3216,Actual,2.3,1.46,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2003,40.0789,Actual,2.3,1.46,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2004,40.5829,Actual,2.1,1.41,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2005,44.7328,Actual,2.2,1.41,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2006,42.8778,Actual,2.1,1.42,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2007,43.8237,Actual,2.1,1.33,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2008,43.8665,Actual,2.0,1.32,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2009,39.3745,Actual,2.1,1.31,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2010,39.9794,Actual,2.0,1.26,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2011,42.1003,Actual,2.4,1.23,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2012,39.4228,Actual,2.5,1.19,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2013,42.0867,Actual,2.5,1.15,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2014,41.2849,Actual,2.5,1.14,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2015,44.1834,Actual,2.5,1.14,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2016,42.5785,Actual,2.9,1.13,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2017,42.1953,Actual,3.1,1.12,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2018,39.1494,Actual,3.0,1.18,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2019,39.0651,Actual,2.9,1.14,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2020,37.5933,Actual,3.0,1.14,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2021,36.6127,Actual,3.1,1.13,Computed_from_abs
+RS211,Macvanski,Serbia,RS,3,2022,34.5654,Actual,3.1,1.12,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2000,36.9651,Actual,2.3,0.88,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2001,34.1599,Actual,2.0,0.79,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2002,33.83,Actual,2.0,0.77,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2003,35.0257,Actual,2.0,0.79,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2004,34.6537,Actual,1.6,0.75,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2005,41.4765,Actual,1.6,0.77,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2006,41.8095,Actual,1.6,0.76,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2007,45.843,Actual,1.7,0.7,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2008,48.2147,Actual,1.7,0.69,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2009,42.5381,Actual,1.7,0.68,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2010,42.0872,Actual,1.7,0.68,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2011,41.9598,Actual,1.6,0.68,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2012,39.4182,Actual,1.6,0.67,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2013,39.9039,Actual,1.6,0.65,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2014,44.2446,Actual,1.7,0.66,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2015,42.8418,Actual,1.7,0.66,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2016,43.1867,Actual,1.6,0.62,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2017,44.2382,Actual,1.5,0.6,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2018,40.7705,Actual,1.6,0.66,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2019,36.9354,Actual,1.6,0.64,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2020,38.104,Actual,1.7,0.65,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2021,28.848,Actual,1.7,0.64,Computed_from_abs
+RS212,Kolubarski,Serbia,RS,3,2022,30.0994,Actual,1.7,0.66,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2000,15.2487,Actual,2.6,1.24,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2001,17.3427,Actual,2.5,1.12,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2002,16.6819,Actual,2.4,1.06,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2003,16.2426,Actual,2.4,1.09,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2004,25.1698,Actual,2.2,1.09,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2005,26.087,Actual,2.3,1.09,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2006,25.7445,Actual,1.9,1.07,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2007,32.3872,Actual,2.3,1.06,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2008,35.0408,Actual,2.3,1.04,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2009,30.7567,Actual,2.2,1.03,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2010,26.6555,Actual,2.3,1.02,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2011,24.9044,Actual,2.6,1.04,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2012,27.4405,Actual,2.7,1.05,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2013,23.8201,Actual,2.5,1.02,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2014,25.9709,Actual,2.6,1.03,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2015,29.3287,Actual,2.7,1.06,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2016,31.4182,Actual,2.9,1.04,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2017,32.5779,Actual,3.0,1.06,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2018,30.7779,Actual,3.3,1.1,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2019,30.051,Actual,3.0,1.1,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2020,26.4163,Actual,3.1,1.13,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2021,32.1374,Actual,3.1,1.06,Computed_from_abs
+RS213,Podunavski,Serbia,RS,3,2022,29.4637,Actual,3.0,1.03,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2000,43.2328,Actual,3.1,0.89,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2001,43.7753,Actual,3.2,0.95,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2002,43.2778,Actual,3.2,0.93,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2003,43.4083,Actual,3.3,0.89,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2004,42.7136,Actual,3.3,0.89,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2005,41.6627,Actual,3.2,0.93,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2006,40.8373,Actual,3.2,0.94,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2007,40.0348,Actual,3.4,0.93,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2008,41.0284,Actual,3.4,0.96,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2009,37.7391,Actual,3.1,0.96,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2010,38.2429,Actual,3.1,0.97,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2011,36.1383,Actual,2.9,0.91,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2012,37.3623,Actual,2.8,0.91,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2013,41.6403,Actual,2.9,0.89,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2014,39.5635,Actual,2.9,0.9,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2015,38.5016,Actual,3.0,0.9,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2016,39.034,Actual,3.0,0.88,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2017,42.3283,Actual,3.0,0.89,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2018,40.4266,Actual,3.1,0.91,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2019,42.0624,Actual,3.1,0.92,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2020,39.7546,Actual,3.1,0.95,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2021,38.2824,Actual,3.0,0.93,Computed_from_abs
+RS214,Branicevski,Serbia,RS,3,2022,35.1677,Actual,2.8,0.93,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2000,24.1425,Actual,2.5,1.14,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2001,27.5983,Actual,2.8,1.15,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2002,29.7994,Actual,2.6,1.12,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2003,29.3145,Actual,2.4,1.14,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2004,29.0807,Actual,2.5,1.08,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2005,27.1234,Actual,2.5,1.08,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2006,27.7564,Actual,2.3,1.07,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2007,32.1543,Actual,2.3,0.98,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2008,29.3164,Actual,2.3,0.96,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2009,25.4069,Actual,2.3,0.97,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2010,25.3824,Actual,2.3,0.95,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2011,29.5979,Actual,2.2,0.96,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2012,28.2178,Actual,2.2,0.97,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2013,31.6124,Actual,2.2,0.95,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2014,24.78,Actual,2.3,0.93,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2015,26.8065,Actual,2.3,0.94,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2016,26.2825,Actual,2.3,0.91,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2017,26.8404,Actual,2.3,0.92,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2018,25.5727,Actual,2.3,0.9,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2019,25.8762,Actual,2.3,0.89,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2020,25.6419,Actual,2.2,0.88,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2021,23.7383,Actual,2.3,0.91,Computed_from_abs
+RS215,Sumadijski,Serbia,RS,3,2022,23.0681,Actual,2.1,0.89,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2000,37.9785,Actual,2.6,1.0,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2001,37.286,Actual,2.7,1.05,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2002,32.3552,Actual,2.5,1.02,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2003,31.7502,Actual,2.6,1.01,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2004,34.7907,Actual,2.2,0.97,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2005,34.0553,Actual,2.2,0.96,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2006,31.8273,Actual,2.2,0.96,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2007,32.4274,Actual,2.3,0.92,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2008,32.0196,Actual,2.3,0.94,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2009,28.0457,Actual,2.3,0.96,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2010,27.5512,Actual,2.2,0.97,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2011,23.9199,Actual,2.0,0.94,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2012,22.2439,Actual,2.0,0.93,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2013,24.4002,Actual,2.0,0.91,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2014,23.2756,Actual,2.0,0.91,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2015,25.3987,Actual,2.1,0.91,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2016,23.0975,Actual,2.1,0.92,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2017,25.32,Actual,2.0,0.9,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2018,25.4235,Actual,2.1,0.91,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2019,26.0292,Actual,2.1,0.89,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2020,25.5618,Actual,2.2,0.92,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2021,27.2562,Actual,2.2,0.89,Computed_from_abs
+RS216,Pomoravski,Serbia,RS,3,2022,28.4261,Actual,2.1,0.89,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2000,22.7513,Actual,2.8,1.32,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2001,22.7202,Actual,2.7,1.3,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2002,23.9542,Actual,2.8,1.31,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2003,23.1771,Actual,2.7,1.37,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2004,24.6429,Actual,2.8,1.31,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2005,25.6538,Actual,2.9,1.32,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2006,25.1302,Actual,3.0,1.36,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2007,23.4915,Actual,3.1,1.54,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2008,24.7981,Actual,3.1,1.51,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2009,23.0542,Actual,3.1,1.5,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2010,23.1428,Actual,3.1,1.52,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2011,23.0591,Actual,3.0,1.54,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2012,24.51,Actual,3.0,1.57,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2013,25.0192,Actual,3.1,1.55,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2014,22.8133,Actual,3.0,1.55,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2015,24.668,Actual,3.1,1.54,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2016,22.3472,Actual,3.4,1.57,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2017,22.6464,Actual,3.6,1.51,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2018,20.1098,Actual,3.6,1.47,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2019,21.4295,Actual,3.3,1.41,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2020,20.601,Actual,3.5,1.45,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2021,19.0493,Actual,3.4,1.35,Computed_from_abs
+RS217,Rasinski,Serbia,RS,3,2022,20.2829,Actual,3.5,1.3,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2000,32.4711,Actual,4.0,2.69,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2001,35.7199,Actual,4.1,2.01,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2002,37.5701,Actual,3.9,2.96,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2003,37.2795,Actual,3.8,2.85,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2004,38.7186,Actual,3.4,2.64,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2005,33.6035,Actual,3.5,2.25,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2006,34.8204,Actual,3.4,1.94,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2007,35.6272,Actual,3.5,1.83,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2008,32.708,Actual,3.5,1.84,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2009,29.6732,Actual,3.4,1.84,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2010,30.1789,Actual,3.4,1.91,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2011,31.1999,Actual,3.2,1.95,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2012,46.1073,Actual,3.3,1.92,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2013,54.7205,Actual,3.4,1.87,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2014,54.7183,Actual,3.5,1.92,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2015,54.4997,Actual,3.6,1.91,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2016,51.3944,Actual,3.3,1.95,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2017,48.8672,Actual,3.2,1.87,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2018,45.2386,Actual,3.2,1.74,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2019,45.4596,Actual,3.2,1.69,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2020,42.8776,Actual,3.3,1.76,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2021,37.0834,Actual,3.3,1.74,Computed_from_abs
+RS218,Raski,Serbia,RS,3,2022,34.3558,Actual,3.5,1.64,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2000,39.0887,Actual,2.1,0.73,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2001,40.0393,Actual,2.1,0.76,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2002,47.2441,Actual,2.1,0.75,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2003,49.1563,Actual,2.0,0.75,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2004,48.952,Actual,1.8,0.7,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2005,50.4361,Actual,1.7,0.71,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2006,61.5006,Actual,1.6,0.7,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2007,58.865,Actual,1.6,0.65,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2008,54.377,Actual,1.6,0.65,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2009,50.7415,Actual,1.6,0.65,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2010,61.9905,Actual,1.5,0.64,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2011,65.8684,Actual,1.5,0.66,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2012,68.6397,Actual,1.5,0.64,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2013,64.125,Actual,1.6,0.62,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2014,60.6259,Actual,1.6,0.62,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2015,64.9373,Actual,1.6,0.6,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2016,61.883,Actual,1.4,0.57,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2017,72.1549,Actual,1.3,0.53,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2018,71.8081,Actual,1.2,0.53,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2019,81.3699,Actual,1.4,0.54,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2020,81.3319,Actual,1.2,0.49,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2021,92.8433,Actual,1.1,0.47,Computed_from_abs
+RS221,Borski,Serbia,RS,3,2022,110.7101,Actual,1.1,0.48,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2000,22.9898,Actual,2.5,0.82,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2001,29.3958,Actual,2.3,0.82,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2002,35.4051,Actual,2.3,0.83,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2003,35.9657,Actual,2.6,0.82,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2004,33.8302,Actual,2.5,0.82,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2005,32.7288,Actual,2.3,0.83,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2006,27.8689,Actual,2.2,0.79,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2007,31.7605,Actual,2.2,0.78,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2008,32.1573,Actual,2.1,0.76,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2009,31.6375,Actual,2.2,0.79,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2010,31.3264,Actual,2.2,0.84,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2011,35.4302,Actual,2.2,0.87,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2012,32.707,Actual,2.2,0.87,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2013,38.5256,Actual,2.3,0.89,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2014,25.897,Actual,2.3,0.89,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2015,37.4182,Actual,2.3,0.9,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2016,36.2848,Actual,2.0,0.92,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2017,37.7323,Actual,1.9,1.0,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2018,39.3575,Actual,1.8,0.83,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2019,40.2401,Actual,1.8,0.84,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2020,39.9968,Actual,1.8,0.82,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2021,31.8154,Actual,1.7,0.82,Computed_from_abs
+RS222,Zajecarski,Serbia,RS,3,2022,28.1655,Actual,1.7,0.84,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2000,29.5952,Actual,3.0,0.91,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2001,27.6532,Actual,3.0,0.89,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2002,27.535,Actual,2.9,0.86,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2003,27.3621,Actual,2.6,0.86,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2004,29.5429,Actual,2.3,0.84,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2005,29.0739,Actual,2.0,0.83,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2006,25.0,Actual,1.9,0.81,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2007,25.3975,Actual,1.8,0.77,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2008,26.5996,Actual,1.7,0.75,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2009,19.3177,Actual,1.8,0.74,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2010,17.906,Actual,1.9,0.76,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2011,20.8854,Actual,1.9,0.76,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2012,24.1608,Actual,1.5,0.75,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2013,25.3552,Actual,1.4,0.72,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2014,25.3347,Actual,1.4,0.7,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2015,24.0339,Actual,1.4,0.68,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2016,23.4231,Actual,1.0,0.62,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2017,24.4182,Actual,1.0,0.63,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2018,25.1677,Actual,1.0,0.56,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2019,23.2845,Actual,1.1,0.57,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2020,21.3682,Actual,1.0,0.55,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2021,20.0773,Actual,1.0,0.48,Computed_from_abs
+RS223,Zlatiborski,Serbia,RS,3,2022,20.5346,Actual,1.0,0.48,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2000,40.05,Actual,3.7,1.14,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2001,42.4487,Actual,3.6,1.12,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2002,44.1253,Actual,3.5,1.09,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2003,44.2574,Actual,3.4,1.13,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2004,42.4227,Actual,3.1,1.1,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2005,39.5138,Actual,2.8,1.1,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2006,45.2952,Actual,3.2,1.15,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2007,39.9228,Actual,2.5,1.07,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2008,38.9012,Actual,2.4,1.11,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2009,35.5388,Actual,2.4,1.12,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2010,36.2748,Actual,2.5,1.15,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2011,29.9952,Actual,2.6,1.15,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2012,31.1359,Actual,2.6,1.14,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2013,38.0282,Actual,2.5,1.11,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2014,41.7478,Actual,2.6,1.1,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2015,44.3182,Actual,2.6,1.08,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2016,43.4136,Actual,1.7,0.96,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2017,46.171,Actual,1.6,0.98,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2018,45.3806,Actual,1.7,0.9,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2019,41.1139,Actual,1.8,0.91,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2020,42.4185,Actual,1.9,0.96,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2021,37.3884,Actual,1.9,0.84,Computed_from_abs
+RS224,Moravicki,Serbia,RS,3,2022,36.3355,Actual,1.8,0.82,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2000,39.81,Actual,5.9,2.25,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2001,45.2227,Actual,5.9,2.34,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2002,47.0101,Actual,5.9,2.35,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2003,46.2153,Actual,6.0,2.36,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2004,41.9638,Actual,5.4,2.34,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2005,38.0648,Actual,5.3,2.3,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2006,44.4358,Actual,5.1,2.33,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2007,38.3124,Actual,5.1,2.49,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2008,37.2658,Actual,4.9,2.44,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2009,32.4444,Actual,4.8,2.4,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2010,31.11,Actual,4.3,2.4,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2011,26.4649,Actual,4.3,2.43,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2012,25.4507,Actual,4.4,2.45,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2013,31.4806,Actual,4.3,2.34,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2014,27.9556,Actual,4.3,2.33,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2015,33.3241,Actual,4.3,2.34,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2016,34.8414,Actual,4.7,2.4,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2017,31.3365,Actual,4.5,2.87,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2018,35.7659,Actual,5.0,2.34,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2019,30.5153,Actual,4.9,2.37,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2020,31.5798,Actual,4.7,2.47,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2021,28.4063,Actual,4.6,2.33,Computed_from_abs
+RS225,Raski (Novi Pazar),Serbia,RS,3,2022,28.6032,Actual,4.4,2.33,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2000,46.1371,Actual,1.0,0.41,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2001,50.0759,Actual,1.1,0.44,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2002,50.7192,Actual,1.1,0.43,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2003,51.0504,Actual,1.4,0.47,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2004,55.071,Actual,1.1,0.45,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2005,51.8152,Actual,1.0,0.45,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2006,50.9227,Actual,1.0,0.46,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2007,53.3048,Actual,1.0,0.47,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2008,51.532,Actual,1.0,0.47,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2009,51.4625,Actual,1.0,0.48,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2010,52.9544,Actual,1.0,0.55,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2011,50.6957,Actual,0.9,0.56,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2012,49.3333,Actual,0.8,0.56,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2013,62.0781,Actual,0.8,0.54,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2014,60.0407,Actual,0.8,0.51,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2015,61.742,Actual,0.8,0.5,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2016,62.1549,Actual,0.9,0.47,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2017,65.2827,Actual,0.8,0.48,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2018,66.7139,Actual,0.8,0.41,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2019,65.2733,Actual,0.8,0.39,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2020,61.5483,Actual,0.8,0.38,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2021,53.595,Actual,0.7,0.37,Computed_from_abs
+RS226,Jablanicki,Serbia,RS,3,2022,46.95,Actual,0.7,0.37,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2000,34.4697,Actual,2.4,1.06,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2001,31.7379,Actual,2.4,1.06,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2002,33.0305,Actual,2.4,1.04,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2003,33.4725,Actual,2.2,1.06,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2004,33.0078,Actual,2.2,0.92,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2005,33.0767,Actual,2.1,0.92,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2006,43.0303,Actual,2.2,0.94,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2007,39.4276,Actual,2.2,0.78,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2008,37.5774,Actual,2.1,0.76,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2009,29.3871,Actual,2.1,0.77,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2010,32.5797,Actual,2.1,0.79,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2011,29.3527,Actual,2.2,0.82,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2012,35.0928,Actual,2.2,0.79,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2013,37.1767,Actual,2.1,0.77,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2014,37.7203,Actual,2.0,0.76,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2015,39.1876,Actual,1.9,0.76,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2016,40.7668,Actual,1.8,0.67,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2017,49.129,Actual,1.7,0.61,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2018,51.5035,Actual,1.8,0.68,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2019,57.1147,Actual,1.8,0.66,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2020,56.4754,Actual,1.9,0.7,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2021,53.7716,Actual,1.9,0.69,Computed_from_abs
+RS227,Pcinjski,Serbia,RS,3,2022,47.325,Actual,1.9,0.71,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2000,59.7907,Actual,1.7,0.55,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2001,60.2334,Actual,1.8,0.88,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2002,57.7517,Actual,1.9,0.84,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2003,58.0572,Actual,1.9,0.83,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2004,43.4214,Actual,1.7,0.83,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2005,44.3346,Actual,1.6,0.83,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2006,49.3719,Actual,1.5,0.85,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2007,47.8797,Actual,1.6,0.97,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2008,45.2873,Actual,1.5,0.92,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2009,37.4212,Actual,1.4,0.88,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2010,37.2074,Actual,1.4,0.91,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2011,31.0018,Actual,1.3,0.93,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2012,34.4616,Actual,1.4,0.95,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2013,31.4286,Actual,1.4,0.93,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2014,27.7274,Actual,1.4,0.94,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2015,33.2909,Actual,1.4,0.91,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2016,33.5913,Actual,1.4,0.88,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2017,32.6799,Actual,1.5,0.92,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2018,33.4507,Actual,1.5,0.87,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2019,36.7142,Actual,1.6,0.87,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2020,33.8516,Actual,1.7,0.84,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2021,29.5211,Actual,1.6,0.78,Computed_from_abs
+RS228,Nisavski,Serbia,RS,3,2022,28.3428,Actual,1.6,0.78,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2000,23.6502,Actual,1.0,0.38,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2001,19.3717,Actual,1.0,0.4,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2002,14.5475,Actual,0.9,0.4,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2003,14.2943,Actual,0.9,0.39,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2004,12.0732,Actual,0.9,0.39,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2005,13.8189,Actual,0.8,0.4,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2006,13.7307,Actual,0.7,0.39,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2007,14.4513,Actual,0.7,0.48,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2008,16.5806,Actual,0.7,0.47,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2009,12.9893,Actual,0.7,0.45,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2010,16.6253,Actual,0.6,0.47,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2011,21.9747,Actual,0.6,0.45,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2012,25.8555,Actual,0.6,0.42,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2013,35.0452,Actual,0.6,0.41,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2014,31.2222,Actual,0.6,0.4,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2015,32.1668,Actual,0.6,0.39,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2016,33.442,Actual,0.7,0.46,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2017,34.058,Actual,0.5,0.46,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2018,37.6516,Actual,0.6,0.42,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2019,33.5144,Actual,0.6,0.41,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2020,33.3637,Actual,0.6,0.37,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2021,31.1704,Actual,0.7,0.35,Computed_from_abs
+RS229,Toplicki,Serbia,RS,3,2022,28.623,Actual,0.6,0.34,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2000,28.8754,Actual,4.8,2.5,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2001,28.2973,Actual,4.9,2.55,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2002,26.7012,Actual,4.7,2.44,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2003,27.7683,Actual,4.8,2.45,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2004,27.3608,Actual,4.9,2.43,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2005,26.6336,Actual,4.7,2.43,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2006,26.0412,Actual,4.7,2.42,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2007,25.7146,Actual,4.7,2.37,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2008,24.8674,Actual,4.5,2.41,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2009,21.759,Actual,4.4,2.43,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2010,22.5877,Actual,4.5,2.4,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2011,22.6938,Actual,4.4,2.42,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2012,22.2487,Actual,4.3,2.4,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2013,21.7278,Actual,4.3,2.37,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2014,21.2817,Actual,4.1,2.36,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2015,22.3861,Actual,4.0,2.32,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2016,23.7022,Actual,4.0,2.29,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2017,23.5709,Actual,4.0,2.27,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2018,22.9716,Actual,4.0,2.29,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2019,23.9733,Actual,3.8,2.28,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2020,24.0259,Actual,3.8,2.39,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2021,24.3132,Actual,3.8,2.46,Computed_from_abs
+SI031,Pomurska,Slovenia,SI,3,2022,20.8973,Actual,3.8,2.44,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2000,27.6693,Actual,14.6,10.1,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2001,27.6243,Actual,14.4,9.89,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2002,26.7634,Actual,14.3,9.89,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2003,26.7161,Actual,14.1,9.81,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2004,26.8073,Actual,14.0,9.78,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2005,25.7481,Actual,14.3,9.8,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2006,25.1532,Actual,14.1,9.92,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2007,24.8902,Actual,13.9,10.17,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2008,23.7489,Actual,13.8,10.23,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2009,21.3668,Actual,13.6,10.17,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2010,22.1346,Actual,13.6,10.07,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2011,22.1289,Actual,13.7,10.04,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2012,22.1024,Actual,13.6,9.9,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2013,22.0557,Actual,13.5,9.72,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2014,22.5781,Actual,13.6,9.61,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2015,22.4925,Actual,13.6,9.59,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2016,22.4528,Actual,13.6,9.5,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2017,22.2796,Actual,13.5,9.51,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2018,21.9703,Actual,13.5,9.58,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2019,21.6871,Actual,13.2,9.87,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2020,21.397,Actual,13.3,9.89,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2021,21.0284,Actual,13.2,10.0,Computed_from_abs
+SI032,Podravska,Slovenia,SI,3,2022,18.5677,Actual,13.1,10.09,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2000,43.5218,Actual,2.6,1.72,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2001,42.0942,Actual,2.6,1.71,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2002,41.7539,Actual,2.5,1.62,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2003,41.6774,Actual,2.6,1.54,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2004,42.5353,Actual,2.5,1.51,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2005,43.0812,Actual,2.5,1.55,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2006,40.7495,Actual,2.5,1.55,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2007,40.6077,Actual,2.4,1.54,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2008,39.6024,Actual,2.4,1.53,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2009,33.2494,Actual,2.3,1.5,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2010,34.3451,Actual,2.3,1.51,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2011,35.4944,Actual,2.3,1.47,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2012,34.9171,Actual,2.3,1.46,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2013,34.5914,Actual,2.3,1.43,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2014,35.582,Actual,2.3,1.41,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2015,36.1372,Actual,2.3,1.43,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2016,37.0088,Actual,2.2,1.4,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2017,37.3592,Actual,2.2,1.4,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2018,35.8797,Actual,2.2,1.41,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2019,36.475,Actual,2.1,1.41,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2020,35.5024,Actual,2.1,1.46,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2021,32.6002,Actual,2.2,1.49,Computed_from_abs
+SI033,Koroska,Slovenia,SI,3,2022,30.997,Actual,2.1,1.48,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2000,37.947,Actual,12.3,6.43,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2001,37.0775,Actual,12.2,6.43,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2002,37.449,Actual,12.2,6.0,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2003,37.3523,Actual,12.3,5.99,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2004,37.9471,Actual,12.1,5.89,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2005,37.1909,Actual,12.0,5.9,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2006,36.8196,Actual,11.9,5.76,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2007,35.1636,Actual,12.4,5.78,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2008,33.3262,Actual,12.3,5.92,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2009,30.0918,Actual,12.5,5.96,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2010,32.5781,Actual,12.7,5.75,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2011,32.7668,Actual,12.7,5.69,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2012,32.8089,Actual,12.6,5.59,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2013,31.9637,Actual,12.6,5.58,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2014,32.3413,Actual,12.5,5.61,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2015,31.5576,Actual,12.4,5.85,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2016,32.2849,Actual,12.4,5.76,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2017,31.896,Actual,12.5,5.9,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2018,30.4381,Actual,12.5,5.95,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2019,29.7033,Actual,12.6,5.91,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2020,29.2417,Actual,12.8,5.91,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2021,28.2929,Actual,12.8,5.9,Computed_from_abs
+SI034,Savinjska,Slovenia,SI,3,2022,25.1369,Actual,12.8,6.02,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2000,43.6455,Actual,1.8,1.2,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2001,41.438,Actual,1.8,1.17,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2002,38.6351,Actual,1.6,1.19,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2003,39.8515,Actual,1.6,1.17,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2004,39.2444,Actual,1.6,1.16,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2005,38.6577,Actual,1.6,1.15,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2006,39.1213,Actual,1.6,1.13,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2007,37.3083,Actual,1.6,1.13,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2008,34.7512,Actual,1.6,1.09,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2009,29.9611,Actual,1.6,1.1,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2010,31.9141,Actual,1.6,1.08,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2011,31.8281,Actual,1.5,1.1,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2012,31.1873,Actual,1.4,1.1,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2013,29.5529,Actual,1.4,1.06,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2014,30.3678,Actual,1.4,1.03,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2015,29.0471,Actual,1.4,1.05,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2016,28.5714,Actual,1.4,1.06,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2017,28.7486,Actual,1.3,1.03,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2018,27.5329,Actual,1.3,1.04,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2019,27.6701,Actual,1.2,1.04,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2020,27.4411,Actual,1.3,1.05,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2021,25.2114,Actual,1.3,1.06,Computed_from_abs
+SI035,Zasavska,Slovenia,SI,3,2022,23.1347,Actual,1.3,1.06,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2000,40.8219,Actual,3.1,1.58,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2001,39.2574,Actual,2.9,1.51,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2002,40.8525,Actual,2.9,1.59,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2003,37.5148,Actual,2.8,1.58,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2004,38.0671,Actual,2.8,1.5,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2005,37.3748,Actual,2.8,1.54,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2006,37.2977,Actual,2.9,1.56,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2007,36.8997,Actual,2.8,1.56,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2008,35.8897,Actual,2.7,1.57,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2009,30.2972,Actual,2.8,1.6,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2010,29.8464,Actual,2.8,1.57,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2011,29.8915,Actual,2.8,1.48,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2012,28.7597,Actual,2.8,1.45,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2013,26.7642,Actual,2.8,1.47,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2014,25.9799,Actual,2.8,1.47,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2015,25.5411,Actual,2.8,1.54,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2016,26.3842,Actual,2.8,1.5,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2017,27.0272,Actual,2.7,1.56,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2018,27.0922,Actual,2.7,1.57,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2019,28.4509,Actual,2.7,1.54,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2020,28.8821,Actual,2.7,1.56,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2021,27.6257,Actual,2.6,1.54,Computed_from_abs
+SI036,Posavska,Slovenia,SI,3,2022,25.6308,Actual,2.5,1.59,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2000,40.8663,Actual,4.9,3.41,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2001,41.5824,Actual,4.9,3.44,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2002,40.201,Actual,4.9,3.28,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2003,42.0117,Actual,4.8,3.29,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2004,43.0647,Actual,5.0,3.3,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2005,42.6221,Actual,4.9,3.29,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2006,44.3923,Actual,5.0,3.38,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2007,42.9532,Actual,5.2,3.38,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2008,41.5292,Actual,5.2,3.38,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2009,39.3326,Actual,5.1,3.34,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2010,41.9921,Actual,5.1,3.3,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2011,41.2441,Actual,5.2,3.18,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2012,40.5236,Actual,5.1,3.03,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2013,40.0153,Actual,5.1,2.99,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2014,39.8677,Actual,5.1,3.11,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2015,38.5014,Actual,5.1,3.38,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2016,38.2246,Actual,5.1,3.46,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2017,39.7564,Actual,5.1,3.52,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2018,39.7929,Actual,5.1,3.54,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2019,40.9738,Actual,5.1,3.33,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2020,41.1923,Actual,5.2,3.32,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2021,37.7508,Actual,5.2,3.35,Computed_from_abs
+SI037,Jugovzhodna Slovenija,Slovenia,SI,3,2022,31.89,Actual,5.1,3.34,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2000,31.8323,Actual,2.0,1.39,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2001,31.0011,Actual,2.0,1.37,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2002,31.2683,Actual,2.0,1.27,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2003,32.4815,Actual,1.9,1.25,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2004,32.8495,Actual,1.9,1.15,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2005,32.5859,Actual,1.9,1.05,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2006,31.8283,Actual,2.0,1.03,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2007,30.3713,Actual,1.9,1.05,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2008,28.1259,Actual,1.9,1.07,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2009,25.4724,Actual,2.0,1.03,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2010,28.1566,Actual,2.0,1.01,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2011,27.9963,Actual,2.0,0.99,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2012,27.8119,Actual,2.0,0.93,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2013,26.5273,Actual,2.2,0.94,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2014,28.156,Actual,2.2,0.94,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2015,28.5598,Actual,2.1,1.0,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2016,28.5973,Actual,2.1,1.02,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2017,27.2995,Actual,2.0,1.09,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2018,26.0518,Actual,2.0,1.09,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2019,25.8038,Actual,2.0,1.13,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2020,26.556,Actual,2.0,1.11,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2021,26.4033,Actual,1.9,1.13,Computed_from_abs
+SI038,Primorsko-notranjska,Slovenia,SI,3,2022,23.6153,Actual,1.9,1.12,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2000,18.2941,Actual,31.2,25.75,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2001,17.6214,Actual,31.6,26.34,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2002,16.833,Actual,32.1,27.7,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2003,17.4453,Actual,32.5,28.49,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2004,17.2874,Actual,33.0,29.33,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2005,17.4335,Actual,33.0,30.07,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2006,17.5556,Actual,33.2,30.7,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2007,16.6151,Actual,33.0,30.97,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2008,15.1448,Actual,33.1,31.1,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2009,14.3508,Actual,33.3,31.59,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2010,14.9475,Actual,33.2,30.94,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2011,14.7071,Actual,33.3,30.75,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2012,14.8968,Actual,33.9,31.05,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2013,15.2403,Actual,34.3,30.84,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2014,15.2959,Actual,34.4,31.36,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2015,15.1896,Actual,34.6,30.97,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2016,15.0677,Actual,34.7,31.52,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2017,15.4456,Actual,34.7,31.69,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2018,15.2201,Actual,34.6,31.91,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2019,15.241,Actual,35.5,32.39,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2020,15.74,Actual,35.5,32.73,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2021,15.4622,Actual,35.8,32.89,Computed_from_abs
+SI041,Osrednjeslovenska,Slovenia,SI,3,2022,12.2857,Actual,35.8,33.11,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2000,37.7089,Actual,9.2,4.58,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2001,36.1967,Actual,9.3,4.79,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2002,34.8803,Actual,9.3,4.71,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2003,35.3808,Actual,9.4,4.7,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2004,35.1451,Actual,9.2,4.85,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2005,35.0496,Actual,9.3,4.57,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2006,34.0731,Actual,9.2,4.37,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2007,33.3203,Actual,9.2,4.39,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2008,31.0567,Actual,9.2,4.37,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2009,26.2241,Actual,9.1,4.33,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2010,28.1846,Actual,9.1,4.44,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2011,29.6725,Actual,9.1,4.46,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2012,29.2486,Actual,9.1,4.39,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2013,28.4911,Actual,9.1,4.46,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2014,29.1358,Actual,9.3,4.47,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2015,29.6545,Actual,9.3,4.54,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2016,30.1866,Actual,9.3,4.56,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2017,30.2925,Actual,9.3,4.5,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2018,29.4026,Actual,9.3,4.55,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2019,29.5346,Actual,9.2,4.48,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2020,29.3756,Actual,8.8,4.53,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2021,28.0451,Actual,8.9,4.61,Computed_from_abs
+SI042,Gorenjska,Slovenia,SI,3,2022,26.7565,Actual,9.0,4.62,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2000,31.2134,Actual,5.0,2.96,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2001,31.0619,Actual,5.1,2.9,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2002,30.2452,Actual,5.0,2.9,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2003,30.5561,Actual,5.0,2.81,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2004,30.4086,Actual,4.9,2.79,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2005,30.0794,Actual,4.9,2.9,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2006,29.7905,Actual,4.9,2.89,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2007,29.5287,Actual,4.8,2.88,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2008,28.7996,Actual,4.8,2.96,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2009,25.6233,Actual,4.8,3.0,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2010,27.2884,Actual,4.6,2.97,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2011,26.5238,Actual,4.7,2.96,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2012,26.7481,Actual,4.7,2.93,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2013,26.6184,Actual,4.6,2.92,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2014,26.6641,Actual,4.6,2.92,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2015,25.7913,Actual,4.5,2.92,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2016,27.2129,Actual,4.6,2.96,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2017,27.8491,Actual,4.7,2.97,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2018,26.573,Actual,4.7,3.0,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2019,26.9396,Actual,4.5,2.97,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2020,27.6299,Actual,4.6,2.99,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2021,27.4278,Actual,4.6,2.94,Computed_from_abs
+SI043,Goriska,Slovenia,SI,3,2022,22.3827,Actual,4.6,2.97,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2000,16.9767,Actual,8.4,3.37,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2001,16.8877,Actual,8.3,3.4,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2002,15.9645,Actual,8.4,3.41,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2003,16.0515,Actual,8.2,3.41,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2004,16.4728,Actual,8.1,3.3,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2005,15.3081,Actual,8.0,3.26,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2006,14.7859,Actual,8.0,3.29,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2007,14.265,Actual,8.2,3.28,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2008,12.8782,Actual,8.3,3.36,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2009,11.7042,Actual,8.3,3.46,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2010,12.2262,Actual,8.4,3.47,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2011,11.9813,Actual,8.2,3.46,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2012,12.2951,Actual,8.0,3.25,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2013,12.3345,Actual,7.8,3.22,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2014,12.8526,Actual,7.8,3.21,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2015,12.5861,Actual,7.8,3.42,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2016,13.2346,Actual,8.0,3.47,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2017,12.2129,Actual,8.0,3.55,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2018,11.4627,Actual,8.0,3.57,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2019,11.3144,Actual,8.0,3.66,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2020,11.5323,Actual,7.8,3.55,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2021,10.4623,Actual,7.8,3.65,Computed_from_abs
+SI044,Obalno-kraska,Slovenia,SI,3,2022,9.6868,Actual,7.9,3.64,Computed_from_abs
+XK000,Kosovo,Kosovo,XK,0,2000,8.5,Estimated (World Bank/academic sources),18.5,17.5,Backcast_estimate
+XK000,Kosovo,Kosovo,XK,0,2001,9.0,Estimated (World Bank/academic sources),18.5,17.8,Backcast_estimate
+XK000,Kosovo,Kosovo,XK,0,2002,9.5,Estimated (World Bank/academic sources),18.5,18.0,Backcast_estimate
+XK000,Kosovo,Kosovo,XK,0,2003,10.0,Estimated (World Bank/academic sources),19.0,18.2,Backcast_estimate
+XK000,Kosovo,Kosovo,XK,0,2004,10.3,Estimated (World Bank/academic sources),19.4,18.5,Backcast_estimate
+XK000,Kosovo,Kosovo,XK,0,2005,10.5,Estimated (World Bank/academic sources),19.7,18.8,Backcast_estimate
+XK000,Kosovo,Kosovo,XK,0,2006,10.8,Estimated (World Bank/academic sources),20.3,19.0,Backcast_estimate
+XK000,Kosovo,Kosovo,XK,0,2007,11.0,Estimated (World Bank/academic sources),20.6,19.5,Backcast_estimate
+XK000,Kosovo,Kosovo,XK,0,2008,11.2,Estimated (World Bank/academic sources),20.8,20.5,Backcast_estimate
+XK000,Kosovo,Kosovo,XK,0,2009,11.0,Estimated (World Bank/academic sources),20.8,20.8,Backcast_estimate
+XK000,Kosovo,Kosovo,XK,0,2010,10.9,Estimated (World Bank/academic sources),20.8,21.0,Backcast_estimate
+XK000,Kosovo,Kosovo,XK,0,2011,11.2,Estimated (World Bank/academic sources),20.8,21.3,Backcast_estimate
+XK000,Kosovo,Kosovo,XK,0,2012,11.5,Estimated (World Bank/academic sources),21.0,21.5,KAS_approx
+XK000,Kosovo,Kosovo,XK,0,2013,11.7,Estimated (World Bank/academic sources),21.0,21.8,KAS_approx
+XK000,Kosovo,Kosovo,XK,0,2014,11.8,Estimated (World Bank/academic sources),21.0,22.0,KAS_approx
+XK000,Kosovo,Kosovo,XK,0,2015,11.9,Estimated (World Bank/academic sources),21.2,22.3,KAS_approx
+XK000,Kosovo,Kosovo,XK,0,2016,12.0,Estimated (World Bank/academic sources),21.2,22.5,KAS_approx
+XK000,Kosovo,Kosovo,XK,0,2017,12.1,Estimated (World Bank/academic sources),21.2,22.8,KAS_approx
+XK000,Kosovo,Kosovo,XK,0,2018,12.3,Estimated (World Bank/academic sources),21.1,23.0,KAS_approx
+XK000,Kosovo,Kosovo,XK,0,2019,12.4,Estimated (World Bank/academic sources),21.3,23.5,KAS_approx
+XK000,Kosovo,Kosovo,XK,0,2020,12.0,Estimated (World Bank/academic sources),20.5,24.0,KAS_approx
+XK000,Kosovo,Kosovo,XK,0,2021,12.3,Estimated (World Bank/academic sources),20.7,24.8,KAS_approx
+XK000,Kosovo,Kosovo,XK,0,2022,12.1,Estimated (World Bank/academic sources),21.0,25.5,KAS_approx
